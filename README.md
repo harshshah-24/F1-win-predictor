@@ -1,6 +1,6 @@
 # F1 Project
 
-This project provides a set of tools and scripts for analyzing, updating, and predicting Formula 1 race results using historical data and deep learning models. The scripts are designed to work with data stored in CSV files (drivers and constructors) and leverage the FastF1 library, pandas, and TensorFlow/Keras for data processing and machine learning.
+This project provides a set of tools and scripts for analyzing, updating, and predicting Formula 1 race results using historical data and deep learning models. The scripts are designed to work with data stored in CSV files (drivers and constructors) and leverage the FastF1 library, pandas, and TensorFlow/Keras for data processing and machine learning. Given the qualifying grid and the race circuit, the model predicts the final positions of all 20 drivers.
 
 ## Folder Structure
 
@@ -120,6 +120,15 @@ The deep learning model is trained using a set of engineered features that captu
 10. **Performance Variance**: Variance in the driver's finishing positions in recent races (a measure of consistency).
 
 These features are automatically extracted and engineered from the historical data for each driver and team, and are used as input to the deep learning model for both training and prediction.
+
+## Final Model Performance
+After training the deep learning model on the engineered features and historical race data, the final model achieved the following evaluation metrics on the test set:
+
+- Mean Absolute Error (MAE): 2.63
+- Mean Squared Error (MSE): 13.15
+- R² Score: 0.513
+
+These metrics indicate the average prediction error and the proportion of variance in actual race results explained by the model.
 
 ## Notes
 
