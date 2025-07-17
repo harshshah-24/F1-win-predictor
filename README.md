@@ -17,17 +17,6 @@ This project provides a set of tools and scripts for analyzing, updating, and pr
 - `driver_f1new.csv` — Main driver data file (should be located at `/content/drive/MyDrive/F1_Data/driver_f1new.csv`).
 - `constructors_f1new.csv` — Main constructor/team data file (should be located at `/content/drive/MyDrive/F1_Data/constructors_f1new.csv`).
 
-## Requirements
-
-- Python 3.7+
-- pandas
-- numpy
-- fastf1
-- tensorflow
-- scikit-learn
-- joblib
-- matplotlib (for training visualization)
-
 ## Usage
 
 ### 1. Analyzing Driver and Team Results
