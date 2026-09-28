@@ -1,0 +1,1863 @@
+Year,Round Number,Circuit Name,Race Name,Mean Track Temperature,Rainfall Status,Team,Weekend_Points,Rank,Team_Cons,Total Points,Team ID,Circuit ID,Points Adjustment
+2018,1,Melbourne,Australian Grand Prix,30.52,Rain,Ferrari,40,1,Ferrari,40,ferrari,albert_park,0
+2018,1,Melbourne,Australian Grand Prix,30.52,Rain,Mercedes,22,2,Mercedes,22,mercedes,albert_park,0
+2018,1,Melbourne,Australian Grand Prix,30.52,Rain,Red Bull,20,3,Red Bull,20,red_bull,albert_park,0
+2018,1,Melbourne,Australian Grand Prix,30.52,Rain,McLaren,12,4,McLaren,12,mclaren,albert_park,0
+2018,1,Melbourne,Australian Grand Prix,30.52,Rain,Renault,7,5,Renault,7,renault,albert_park,0
+2018,1,Melbourne,Australian Grand Prix,30.52,Rain,Force India,0,6,Force India,0,force_india,albert_park,0
+2018,1,Melbourne,Australian Grand Prix,30.52,Rain,Sauber,0,7,Sauber,0,sauber,albert_park,0
+2018,1,Melbourne,Australian Grand Prix,30.52,Rain,Williams,0,8,Williams,0,williams,albert_park,0
+2018,1,Melbourne,Australian Grand Prix,30.52,Rain,Toro Rosso,0,9,Toro Rosso,0,toro_rosso,albert_park,0
+2018,1,Melbourne,Australian Grand Prix,30.52,Rain,Haas F1 Team,0,10,Haas F1 Team,0,haas,albert_park,0
+2018,2,Sakhir,Bahrain Grand Prix,33.93,Dry,Ferrari,25,1,Ferrari,65,ferrari,bahrain,0
+2018,2,Sakhir,Bahrain Grand Prix,33.93,Dry,Mercedes,33,2,Mercedes,55,mercedes,bahrain,0
+2018,2,Sakhir,Bahrain Grand Prix,33.93,Dry,McLaren,10,3,McLaren,22,mclaren,bahrain,0
+2018,2,Sakhir,Bahrain Grand Prix,33.93,Dry,Red Bull,0,4,Red Bull,20,red_bull,bahrain,0
+2018,2,Sakhir,Bahrain Grand Prix,33.93,Dry,Renault,8,5,Renault,15,renault,bahrain,0
+2018,2,Sakhir,Bahrain Grand Prix,33.93,Dry,Toro Rosso,12,6,Toro Rosso,12,toro_rosso,bahrain,0
+2018,2,Sakhir,Bahrain Grand Prix,33.93,Dry,Haas F1 Team,10,7,Haas F1 Team,10,haas,bahrain,0
+2018,2,Sakhir,Bahrain Grand Prix,33.93,Dry,Sauber,2,8,Sauber,2,sauber,bahrain,0
+2018,2,Sakhir,Bahrain Grand Prix,33.93,Dry,Force India,1,9,Force India,1,force_india,bahrain,0
+2018,2,Sakhir,Bahrain Grand Prix,33.93,Dry,Williams,0,10,Williams,0,williams,bahrain,0
+2018,3,Shanghai,Chinese Grand Prix,22.56,Rain,Mercedes,30,1,Mercedes,85,mercedes,shanghai,0
+2018,3,Shanghai,Chinese Grand Prix,22.56,Rain,Ferrari,19,2,Ferrari,84,ferrari,shanghai,0
+2018,3,Shanghai,Chinese Grand Prix,22.56,Rain,Red Bull,35,3,Red Bull,55,red_bull,shanghai,0
+2018,3,Shanghai,Chinese Grand Prix,22.56,Rain,McLaren,6,4,McLaren,28,mclaren,shanghai,0
+2018,3,Shanghai,Chinese Grand Prix,22.56,Rain,Renault,10,5,Renault,25,renault,shanghai,0
+2018,3,Shanghai,Chinese Grand Prix,22.56,Rain,Toro Rosso,0,6,Toro Rosso,12,toro_rosso,shanghai,0
+2018,3,Shanghai,Chinese Grand Prix,22.56,Rain,Haas F1 Team,1,7,Haas F1 Team,11,haas,shanghai,0
+2018,3,Shanghai,Chinese Grand Prix,22.56,Rain,Sauber,0,8,Sauber,2,sauber,shanghai,0
+2018,3,Shanghai,Chinese Grand Prix,22.56,Rain,Force India,0,9,Force India,1,force_india,shanghai,0
+2018,3,Shanghai,Chinese Grand Prix,22.56,Rain,Williams,0,10,Williams,0,williams,shanghai,0
+2018,4,Baku,Azerbaijan Grand Prix,27.07,Rain,Ferrari,30,1,Ferrari,114,ferrari,baku,0
+2018,4,Baku,Azerbaijan Grand Prix,27.07,Rain,Mercedes,25,2,Mercedes,110,mercedes,baku,0
+2018,4,Baku,Azerbaijan Grand Prix,27.07,Rain,Red Bull,0,3,Red Bull,55,red_bull,baku,0
+2018,4,Baku,Azerbaijan Grand Prix,27.07,Rain,McLaren,8,4,McLaren,36,mclaren,baku,0
+2018,4,Baku,Azerbaijan Grand Prix,27.07,Rain,Renault,10,5,Renault,35,renault,baku,0
+2018,4,Baku,Azerbaijan Grand Prix,27.07,Rain,Force India,15,6,Force India,16,force_india,baku,0
+2018,4,Baku,Azerbaijan Grand Prix,27.07,Rain,Toro Rosso,1,7,Toro Rosso,13,toro_rosso,baku,0
+2018,4,Baku,Azerbaijan Grand Prix,27.07,Rain,Haas F1 Team,0,8,Haas F1 Team,11,haas,baku,0
+2018,4,Baku,Azerbaijan Grand Prix,27.07,Rain,Sauber,8,9,Sauber,10,sauber,baku,0
+2018,4,Baku,Azerbaijan Grand Prix,27.07,Rain,Williams,4,10,Williams,4,williams,baku,0
+2018,5,Catalunya,Spanish Grand Prix,30.62,Rain,Mercedes,43,1,Mercedes,153,mercedes,catalunya,0
+2018,5,Catalunya,Spanish Grand Prix,30.62,Rain,Ferrari,12,2,Ferrari,126,ferrari,catalunya,0
+2018,5,Catalunya,Spanish Grand Prix,30.62,Rain,Red Bull,25,3,Red Bull,80,red_bull,catalunya,0
+2018,5,Catalunya,Spanish Grand Prix,30.62,Rain,Renault,6,4,Renault,41,renault,catalunya,0
+2018,5,Catalunya,Spanish Grand Prix,30.62,Rain,McLaren,4,5,McLaren,40,mclaren,catalunya,0
+2018,5,Catalunya,Spanish Grand Prix,30.62,Rain,Haas F1 Team,8,6,Haas F1 Team,19,haas,catalunya,0
+2018,5,Catalunya,Spanish Grand Prix,30.62,Rain,Force India,2,7,Force India,18,force_india,catalunya,0
+2018,5,Catalunya,Spanish Grand Prix,30.62,Rain,Toro Rosso,0,8,Toro Rosso,13,toro_rosso,catalunya,0
+2018,5,Catalunya,Spanish Grand Prix,30.62,Rain,Sauber,1,9,Sauber,11,sauber,catalunya,0
+2018,5,Catalunya,Spanish Grand Prix,30.62,Rain,Williams,0,10,Williams,4,williams,catalunya,0
+2018,6,Monte Carlo,Monaco Grand Prix,41.32,Rain,Mercedes,25,1,Mercedes,178,mercedes,monaco,0
+2018,6,Monte Carlo,Monaco Grand Prix,41.32,Rain,Ferrari,30,2,Ferrari,156,ferrari,monaco,0
+2018,6,Monte Carlo,Monaco Grand Prix,41.32,Rain,Red Bull,27,3,Red Bull,107,red_bull,monaco,0
+2018,6,Monte Carlo,Monaco Grand Prix,41.32,Rain,Renault,5,4,Renault,46,renault,monaco,0
+2018,6,Monte Carlo,Monaco Grand Prix,41.32,Rain,McLaren,0,5,McLaren,40,mclaren,monaco,0
+2018,6,Monte Carlo,Monaco Grand Prix,41.32,Rain,Force India,8,6,Force India,26,force_india,monaco,0
+2018,6,Monte Carlo,Monaco Grand Prix,41.32,Rain,Toro Rosso,6,7,Toro Rosso,19,toro_rosso,monaco,0
+2018,6,Monte Carlo,Monaco Grand Prix,41.32,Rain,Haas F1 Team,0,8,Haas F1 Team,19,haas,monaco,0
+2018,6,Monte Carlo,Monaco Grand Prix,41.32,Rain,Sauber,0,9,Sauber,11,sauber,monaco,0
+2018,6,Monte Carlo,Monaco Grand Prix,41.32,Rain,Williams,0,10,Williams,4,williams,monaco,0
+2018,7,Montreal,Canadian Grand Prix,38.8,Dry,Mercedes,28,1,Mercedes,206,mercedes,villeneuve,0
+2018,7,Montreal,Canadian Grand Prix,38.8,Dry,Ferrari,33,2,Ferrari,189,ferrari,villeneuve,0
+2018,7,Montreal,Canadian Grand Prix,38.8,Dry,Red Bull,27,3,Red Bull,134,red_bull,villeneuve,0
+2018,7,Montreal,Canadian Grand Prix,38.8,Dry,Renault,10,4,Renault,56,renault,villeneuve,0
+2018,7,Montreal,Canadian Grand Prix,38.8,Dry,McLaren,0,5,McLaren,40,mclaren,villeneuve,0
+2018,7,Montreal,Canadian Grand Prix,38.8,Dry,Force India,2,6,Force India,28,force_india,villeneuve,0
+2018,7,Montreal,Canadian Grand Prix,38.8,Dry,Toro Rosso,0,7,Toro Rosso,19,toro_rosso,villeneuve,0
+2018,7,Montreal,Canadian Grand Prix,38.8,Dry,Haas F1 Team,0,8,Haas F1 Team,19,haas,villeneuve,0
+2018,7,Montreal,Canadian Grand Prix,38.8,Dry,Sauber,1,9,Sauber,12,sauber,villeneuve,0
+2018,7,Montreal,Canadian Grand Prix,38.8,Dry,Williams,0,10,Williams,4,williams,villeneuve,0
+2018,8,Paul Ricard,French Grand Prix,34.29,Rain,Mercedes,31,1,Mercedes,237,mercedes,ricard,0
+2018,8,Paul Ricard,French Grand Prix,34.29,Rain,Ferrari,25,2,Ferrari,214,ferrari,ricard,0
+2018,8,Paul Ricard,French Grand Prix,34.29,Rain,Red Bull,30,3,Red Bull,164,red_bull,ricard,0
+2018,8,Paul Ricard,French Grand Prix,34.29,Rain,Renault,6,4,Renault,62,renault,ricard,0
+2018,8,Paul Ricard,French Grand Prix,34.29,Rain,McLaren,0,5,McLaren,40,mclaren,ricard,0
+2018,8,Paul Ricard,French Grand Prix,34.29,Rain,Force India,0,6,Force India,28,force_india,ricard,0
+2018,8,Paul Ricard,French Grand Prix,34.29,Rain,Haas F1 Team,8,7,Haas F1 Team,27,haas,ricard,0
+2018,8,Paul Ricard,French Grand Prix,34.29,Rain,Toro Rosso,0,8,Toro Rosso,19,toro_rosso,ricard,0
+2018,8,Paul Ricard,French Grand Prix,34.29,Rain,Sauber,1,9,Sauber,13,sauber,ricard,0
+2018,8,Paul Ricard,French Grand Prix,34.29,Rain,Williams,0,10,Williams,4,williams,ricard,0
+2018,9,Spielberg,Austrian Grand Prix,36.79,Rain,Ferrari,33,1,Ferrari,247,ferrari,red_bull_ring,0
+2018,9,Spielberg,Austrian Grand Prix,36.79,Rain,Mercedes,0,2,Mercedes,237,mercedes,red_bull_ring,0
+2018,9,Spielberg,Austrian Grand Prix,36.79,Rain,Red Bull,25,3,Red Bull,189,red_bull,red_bull_ring,0
+2018,9,Spielberg,Austrian Grand Prix,36.79,Rain,Renault,0,4,Renault,62,renault,red_bull_ring,0
+2018,9,Spielberg,Austrian Grand Prix,36.79,Rain,Haas F1 Team,22,5,Haas F1 Team,49,haas,red_bull_ring,0
+2018,9,Spielberg,Austrian Grand Prix,36.79,Rain,McLaren,4,6,McLaren,44,mclaren,red_bull_ring,0
+2018,9,Spielberg,Austrian Grand Prix,36.79,Rain,Force India,14,7,Force India,42,force_india,red_bull_ring,0
+2018,9,Spielberg,Austrian Grand Prix,36.79,Rain,Toro Rosso,0,8,Toro Rosso,19,toro_rosso,red_bull_ring,0
+2018,9,Spielberg,Austrian Grand Prix,36.79,Rain,Sauber,3,9,Sauber,16,sauber,red_bull_ring,0
+2018,9,Spielberg,Austrian Grand Prix,36.79,Rain,Williams,0,10,Williams,4,williams,red_bull_ring,0
+2018,10,Silverstone,British Grand Prix,49.11,Dry,Ferrari,40,1,Ferrari,287,ferrari,silverstone,0
+2018,10,Silverstone,British Grand Prix,49.11,Dry,Mercedes,30,2,Mercedes,267,mercedes,silverstone,0
+2018,10,Silverstone,British Grand Prix,49.11,Dry,Red Bull,10,3,Red Bull,199,red_bull,silverstone,0
+2018,10,Silverstone,British Grand Prix,49.11,Dry,Renault,8,4,Renault,70,renault,silverstone,0
+2018,10,Silverstone,British Grand Prix,49.11,Dry,Haas F1 Team,2,5,Haas F1 Team,51,haas,silverstone,0
+2018,10,Silverstone,British Grand Prix,49.11,Dry,Force India,7,6,Force India,49,force_india,silverstone,0
+2018,10,Silverstone,British Grand Prix,49.11,Dry,McLaren,4,7,McLaren,48,mclaren,silverstone,0
+2018,10,Silverstone,British Grand Prix,49.11,Dry,Toro Rosso,0,8,Toro Rosso,19,toro_rosso,silverstone,0
+2018,10,Silverstone,British Grand Prix,49.11,Dry,Sauber,0,9,Sauber,16,sauber,silverstone,0
+2018,10,Silverstone,British Grand Prix,49.11,Dry,Williams,0,10,Williams,4,williams,silverstone,0
+2018,11,Hockenheim,German Grand Prix,34.04,Rain,Mercedes,43,1,Mercedes,310,mercedes,hockenheimring,0
+2018,11,Hockenheim,German Grand Prix,34.04,Rain,Ferrari,15,2,Ferrari,302,ferrari,hockenheimring,0
+2018,11,Hockenheim,German Grand Prix,34.04,Rain,Red Bull,12,3,Red Bull,211,red_bull,hockenheimring,0
+2018,11,Hockenheim,German Grand Prix,34.04,Rain,Renault,10,4,Renault,80,renault,hockenheimring,0
+2018,11,Hockenheim,German Grand Prix,34.04,Rain,Force India,10,5,Force India,59,force_india,hockenheimring,0
+2018,11,Hockenheim,German Grand Prix,34.04,Rain,Haas F1 Team,8,6,Haas F1 Team,59,haas,hockenheimring,0
+2018,11,Hockenheim,German Grand Prix,34.04,Rain,McLaren,0,7,McLaren,48,mclaren,hockenheimring,0
+2018,11,Hockenheim,German Grand Prix,34.04,Rain,Toro Rosso,1,8,Toro Rosso,20,toro_rosso,hockenheimring,0
+2018,11,Hockenheim,German Grand Prix,34.04,Rain,Sauber,2,9,Sauber,18,sauber,hockenheimring,0
+2018,11,Hockenheim,German Grand Prix,34.04,Rain,Williams,0,10,Williams,4,williams,hockenheimring,0
+2018,12,Hungaroring,Hungarian Grand Prix,45.59,Rain,Mercedes,35,1,Mercedes,345,mercedes,hungaroring,0
+2018,12,Hungaroring,Hungarian Grand Prix,45.59,Rain,Ferrari,33,2,Ferrari,335,ferrari,hungaroring,0
+2018,12,Hungaroring,Hungarian Grand Prix,45.59,Rain,Red Bull,12,3,Red Bull,223,red_bull,hungaroring,0
+2018,12,Hungaroring,Hungarian Grand Prix,45.59,Rain,Renault,2,4,Renault,82,renault,hungaroring,0
+2018,12,Hungaroring,Hungarian Grand Prix,45.59,Rain,Haas F1 Team,7,5,Haas F1 Team,66,haas,hungaroring,0
+2018,12,Hungaroring,Hungarian Grand Prix,45.59,Rain,Force India,0,6,Force India,59,force_india,hungaroring,0
+2018,12,Hungaroring,Hungarian Grand Prix,45.59,Rain,McLaren,4,7,McLaren,52,mclaren,hungaroring,0
+2018,12,Hungaroring,Hungarian Grand Prix,45.59,Rain,Toro Rosso,8,8,Toro Rosso,28,toro_rosso,hungaroring,0
+2018,12,Hungaroring,Hungarian Grand Prix,45.59,Rain,Sauber,0,9,Sauber,18,sauber,hungaroring,0
+2018,12,Hungaroring,Hungarian Grand Prix,45.59,Rain,Williams,0,10,Williams,4,williams,hungaroring,0
+2018,13,Spa-Francorchamps,Belgian Grand Prix,25.19,Rain,Mercedes,30,1,Mercedes,375,mercedes,spa,0
+2018,13,Spa-Francorchamps,Belgian Grand Prix,25.19,Rain,Ferrari,25,2,Ferrari,360,ferrari,spa,0
+2018,13,Spa-Francorchamps,Belgian Grand Prix,25.19,Rain,Red Bull,15,3,Red Bull,238,red_bull,spa,0
+2018,13,Spa-Francorchamps,Belgian Grand Prix,25.19,Rain,Renault,0,4,Renault,82,renault,spa,0
+2018,13,Spa-Francorchamps,Belgian Grand Prix,25.19,Rain,Force India,18,5,Force India,77,force_india,spa,0
+2018,13,Spa-Francorchamps,Belgian Grand Prix,25.19,Rain,Haas F1 Team,10,6,Haas F1 Team,76,haas,spa,0
+2018,13,Spa-Francorchamps,Belgian Grand Prix,25.19,Rain,McLaren,0,7,McLaren,52,mclaren,spa,0
+2018,13,Spa-Francorchamps,Belgian Grand Prix,25.19,Rain,Toro Rosso,2,8,Toro Rosso,30,toro_rosso,spa,0
+2018,13,Spa-Francorchamps,Belgian Grand Prix,25.19,Rain,Sauber,1,9,Sauber,19,sauber,spa,0
+2018,13,Spa-Francorchamps,Belgian Grand Prix,25.19,Rain,Williams,0,10,Williams,4,williams,spa,0
+2018,14,Monza,Italian Grand Prix,27.87,Rain,Mercedes,40,1,Mercedes,415,mercedes,monza,0
+2018,14,Monza,Italian Grand Prix,27.87,Rain,Ferrari,30,2,Ferrari,390,ferrari,monza,0
+2018,14,Monza,Italian Grand Prix,27.87,Rain,Red Bull,10,3,Red Bull,248,red_bull,monza,0
+2018,14,Monza,Italian Grand Prix,27.87,Rain,Force India,14,4,Force India,91,force_india,monza,0
+2018,14,Monza,Italian Grand Prix,27.87,Rain,Renault,4,5,Renault,86,renault,monza,0
+2018,14,Monza,Italian Grand Prix,27.87,Rain,Haas F1 Team,0,6,Haas F1 Team,76,haas,monza,0
+2018,14,Monza,Italian Grand Prix,27.87,Rain,McLaren,0,7,McLaren,52,mclaren,monza,0
+2018,14,Monza,Italian Grand Prix,27.87,Rain,Toro Rosso,0,8,Toro Rosso,30,toro_rosso,monza,0
+2018,14,Monza,Italian Grand Prix,27.87,Rain,Sauber,0,9,Sauber,19,sauber,monza,0
+2018,14,Monza,Italian Grand Prix,27.87,Rain,Williams,3,10,Williams,7,williams,monza,0
+2018,15,Singapore,Singapore Grand Prix,35.84,Dry,Mercedes,37,1,Mercedes,452,mercedes,marina_bay,0
+2018,15,Singapore,Singapore Grand Prix,35.84,Dry,Ferrari,25,2,Ferrari,415,ferrari,marina_bay,0
+2018,15,Singapore,Singapore Grand Prix,35.84,Dry,Red Bull,26,3,Red Bull,274,red_bull,marina_bay,0
+2018,15,Singapore,Singapore Grand Prix,35.84,Dry,Force India,0,4,Force India,91,force_india,marina_bay,0
+2018,15,Singapore,Singapore Grand Prix,35.84,Dry,Renault,5,5,Renault,91,renault,marina_bay,0
+2018,15,Singapore,Singapore Grand Prix,35.84,Dry,Haas F1 Team,0,6,Haas F1 Team,76,haas,marina_bay,0
+2018,15,Singapore,Singapore Grand Prix,35.84,Dry,McLaren,6,7,McLaren,58,mclaren,marina_bay,0
+2018,15,Singapore,Singapore Grand Prix,35.84,Dry,Toro Rosso,0,8,Toro Rosso,30,toro_rosso,marina_bay,0
+2018,15,Singapore,Singapore Grand Prix,35.84,Dry,Sauber,2,9,Sauber,21,sauber,marina_bay,0
+2018,15,Singapore,Singapore Grand Prix,35.84,Dry,Williams,0,10,Williams,7,williams,marina_bay,0
+2018,16,Sochi,Russian Grand Prix,31.29,Rain,Mercedes,43,1,Mercedes,495,mercedes,sochi,0
+2018,16,Sochi,Russian Grand Prix,31.29,Rain,Ferrari,27,2,Ferrari,442,ferrari,sochi,0
+2018,16,Sochi,Russian Grand Prix,31.29,Rain,Red Bull,18,3,Red Bull,292,red_bull,sochi,0
+2018,16,Sochi,Russian Grand Prix,31.29,Rain,Force India,3,4,Force India,94,force_india,sochi,0
+2018,16,Sochi,Russian Grand Prix,31.29,Rain,Renault,0,5,Renault,91,renault,sochi,0
+2018,16,Sochi,Russian Grand Prix,31.29,Rain,Haas F1 Team,4,6,Haas F1 Team,80,haas,sochi,0
+2018,16,Sochi,Russian Grand Prix,31.29,Rain,McLaren,0,7,McLaren,58,mclaren,sochi,0
+2018,16,Sochi,Russian Grand Prix,31.29,Rain,Toro Rosso,0,8,Toro Rosso,30,toro_rosso,sochi,0
+2018,16,Sochi,Russian Grand Prix,31.29,Rain,Sauber,6,9,Sauber,27,sauber,sochi,0
+2018,16,Sochi,Russian Grand Prix,31.29,Rain,Williams,0,10,Williams,7,williams,sochi,0
+2018,17,Suzuka,Japanese Grand Prix,29.78,Rain,Mercedes,43,1,Mercedes,538,mercedes,suzuka,0
+2018,17,Suzuka,Japanese Grand Prix,29.78,Rain,Ferrari,18,2,Ferrari,460,ferrari,suzuka,0
+2018,17,Suzuka,Japanese Grand Prix,29.78,Rain,Red Bull,27,3,Red Bull,319,red_bull,suzuka,0
+2018,17,Suzuka,Japanese Grand Prix,29.78,Rain,Force India,8,4,Force India,102,force_india,suzuka,0
+2018,17,Suzuka,Japanese Grand Prix,29.78,Rain,Renault,1,5,Renault,92,renault,suzuka,0
+2018,17,Suzuka,Japanese Grand Prix,29.78,Rain,Haas F1 Team,4,6,Haas F1 Team,84,haas,suzuka,0
+2018,17,Suzuka,Japanese Grand Prix,29.78,Rain,McLaren,0,7,McLaren,58,mclaren,suzuka,0
+2018,17,Suzuka,Japanese Grand Prix,29.78,Rain,Toro Rosso,0,8,Toro Rosso,30,toro_rosso,suzuka,0
+2018,17,Suzuka,Japanese Grand Prix,29.78,Rain,Sauber,0,9,Sauber,27,sauber,suzuka,0
+2018,17,Suzuka,Japanese Grand Prix,29.78,Rain,Williams,0,10,Williams,7,williams,suzuka,0
+2018,18,Austin,United States Grand Prix,21.89,Rain,Mercedes,25,1,Mercedes,563,mercedes,americas,0
+2018,18,Austin,United States Grand Prix,21.89,Rain,Ferrari,37,2,Ferrari,497,ferrari,americas,0
+2018,18,Austin,United States Grand Prix,21.89,Rain,Red Bull,18,3,Red Bull,337,red_bull,americas,0
+2018,18,Austin,United States Grand Prix,21.89,Rain,Force India,4,4,Force India,106,force_india,americas,0
+2018,18,Austin,United States Grand Prix,21.89,Rain,Renault,14,5,Renault,106,renault,americas,0
+2018,18,Austin,United States Grand Prix,21.89,Rain,Haas F1 Team,0,6,Haas F1 Team,84,haas,americas,0
+2018,18,Austin,United States Grand Prix,21.89,Rain,McLaren,0,7,McLaren,58,mclaren,americas,0
+2018,18,Austin,United States Grand Prix,21.89,Rain,Toro Rosso,2,8,Toro Rosso,32,toro_rosso,americas,0
+2018,18,Austin,United States Grand Prix,21.89,Rain,Sauber,1,9,Sauber,28,sauber,americas,0
+2018,18,Austin,United States Grand Prix,21.89,Rain,Williams,0,10,Williams,7,williams,americas,0
+2018,19,Mexico City,Mexican Grand Prix,31.57,Rain,Mercedes,22,1,Mercedes,585,mercedes,rodriguez,0
+2018,19,Mexico City,Mexican Grand Prix,31.57,Rain,Ferrari,33,2,Ferrari,530,ferrari,rodriguez,0
+2018,19,Mexico City,Mexican Grand Prix,31.57,Rain,Red Bull,25,3,Red Bull,362,red_bull,rodriguez,0
+2018,19,Mexico City,Mexican Grand Prix,31.57,Rain,Renault,8,4,Renault,114,renault,rodriguez,0
+2018,19,Mexico City,Mexican Grand Prix,31.57,Rain,Force India,0,5,Force India,106,force_india,rodriguez,0
+2018,19,Mexico City,Mexican Grand Prix,31.57,Rain,Haas F1 Team,0,6,Haas F1 Team,84,haas,rodriguez,0
+2018,19,Mexico City,Mexican Grand Prix,31.57,Rain,McLaren,4,7,McLaren,62,mclaren,rodriguez,0
+2018,19,Mexico City,Mexican Grand Prix,31.57,Rain,Sauber,8,8,Sauber,36,sauber,rodriguez,0
+2018,19,Mexico City,Mexican Grand Prix,31.57,Rain,Toro Rosso,1,9,Toro Rosso,33,toro_rosso,rodriguez,0
+2018,19,Mexico City,Mexican Grand Prix,31.57,Rain,Williams,0,10,Williams,7,williams,rodriguez,0
+2018,20,Interlagos,Brazilian Grand Prix,34.75,Rain,Mercedes,35,1,Mercedes,620,mercedes,interlagos,0
+2018,20,Interlagos,Brazilian Grand Prix,34.75,Rain,Ferrari,23,2,Ferrari,553,ferrari,interlagos,0
+2018,20,Interlagos,Brazilian Grand Prix,34.75,Rain,Red Bull,30,3,Red Bull,392,red_bull,interlagos,0
+2018,20,Interlagos,Brazilian Grand Prix,34.75,Rain,Renault,0,4,Renault,114,renault,interlagos,0
+2018,20,Interlagos,Brazilian Grand Prix,34.75,Rain,Force India,1,5,Force India,107,force_india,interlagos,0
+2018,20,Interlagos,Brazilian Grand Prix,34.75,Rain,Haas F1 Team,6,6,Haas F1 Team,90,haas,interlagos,0
+2018,20,Interlagos,Brazilian Grand Prix,34.75,Rain,McLaren,0,7,McLaren,62,mclaren,interlagos,0
+2018,20,Interlagos,Brazilian Grand Prix,34.75,Rain,Sauber,6,8,Sauber,42,sauber,interlagos,0
+2018,20,Interlagos,Brazilian Grand Prix,34.75,Rain,Toro Rosso,0,9,Toro Rosso,33,toro_rosso,interlagos,0
+2018,20,Interlagos,Brazilian Grand Prix,34.75,Rain,Williams,0,10,Williams,7,williams,interlagos,0
+2018,21,Yas Marina Circuit,Abu Dhabi Grand Prix,35.1,Rain,Mercedes,35,1,Mercedes,655,mercedes,yas_marina,0
+2018,21,Yas Marina Circuit,Abu Dhabi Grand Prix,35.1,Rain,Ferrari,18,2,Ferrari,571,ferrari,yas_marina,0
+2018,21,Yas Marina Circuit,Abu Dhabi Grand Prix,35.1,Rain,Red Bull,27,3,Red Bull,419,red_bull,yas_marina,0
+2018,21,Yas Marina Circuit,Abu Dhabi Grand Prix,35.1,Rain,Renault,8,4,Renault,122,renault,yas_marina,0
+2018,21,Yas Marina Circuit,Abu Dhabi Grand Prix,35.1,Rain,Force India,4,5,Force India,111,force_india,yas_marina,0
+2018,21,Yas Marina Circuit,Abu Dhabi Grand Prix,35.1,Rain,Haas F1 Team,3,6,Haas F1 Team,93,haas,yas_marina,0
+2018,21,Yas Marina Circuit,Abu Dhabi Grand Prix,35.1,Rain,McLaren,0,7,McLaren,62,mclaren,yas_marina,0
+2018,21,Yas Marina Circuit,Abu Dhabi Grand Prix,35.1,Rain,Sauber,6,8,Sauber,48,sauber,yas_marina,0
+2018,21,Yas Marina Circuit,Abu Dhabi Grand Prix,35.1,Rain,Toro Rosso,0,9,Toro Rosso,33,toro_rosso,yas_marina,0
+2018,21,Yas Marina Circuit,Abu Dhabi Grand Prix,35.1,Rain,Williams,0,10,Williams,7,williams,yas_marina,0
+2019,1,Melbourne,Australian Grand Prix,40.65,Dry,Mercedes,44,1,Mercedes,44,mercedes,albert_park,0
+2019,1,Melbourne,Australian Grand Prix,40.65,Dry,Ferrari,22,2,Ferrari,22,ferrari,albert_park,0
+2019,1,Melbourne,Australian Grand Prix,40.65,Dry,Red Bull,15,3,Red Bull,15,red_bull,albert_park,0
+2019,1,Melbourne,Australian Grand Prix,40.65,Dry,Haas F1 Team,8,4,Haas F1 Team,8,haas,albert_park,0
+2019,1,Melbourne,Australian Grand Prix,40.65,Dry,Renault,6,5,Renault,6,renault,albert_park,0
+2019,1,Melbourne,Australian Grand Prix,40.65,Dry,Alfa Romeo,4,6,Alfa Romeo,4,alfa,albert_park,0
+2019,1,Melbourne,Australian Grand Prix,40.65,Dry,Racing Point,2,7,Racing Point,2,racing_point,albert_park,0
+2019,1,Melbourne,Australian Grand Prix,40.65,Dry,Toro Rosso,1,8,Toro Rosso,1,toro_rosso,albert_park,0
+2019,1,Melbourne,Australian Grand Prix,40.65,Dry,McLaren,0,9,McLaren,0,mclaren,albert_park,0
+2019,1,Melbourne,Australian Grand Prix,40.65,Dry,Williams,0,10,Williams,0,williams,albert_park,0
+2019,2,Sakhir,Bahrain Grand Prix,34.63,Rain,Mercedes,43,1,Mercedes,87,mercedes,bahrain,0
+2019,2,Sakhir,Bahrain Grand Prix,34.63,Rain,Ferrari,26,2,Ferrari,48,ferrari,bahrain,0
+2019,2,Sakhir,Bahrain Grand Prix,34.63,Rain,Red Bull,16,3,Red Bull,31,red_bull,bahrain,0
+2019,2,Sakhir,Bahrain Grand Prix,34.63,Rain,Alfa Romeo,6,4,Alfa Romeo,10,alfa,bahrain,0
+2019,2,Sakhir,Bahrain Grand Prix,34.63,Rain,McLaren,8,5,McLaren,8,mclaren,bahrain,0
+2019,2,Sakhir,Bahrain Grand Prix,34.63,Rain,Haas F1 Team,0,6,Haas F1 Team,8,haas,bahrain,0
+2019,2,Sakhir,Bahrain Grand Prix,34.63,Rain,Renault,0,7,Renault,6,renault,bahrain,0
+2019,2,Sakhir,Bahrain Grand Prix,34.63,Rain,Toro Rosso,2,8,Toro Rosso,3,toro_rosso,bahrain,0
+2019,2,Sakhir,Bahrain Grand Prix,34.63,Rain,Racing Point,1,9,Racing Point,3,racing_point,bahrain,0
+2019,2,Sakhir,Bahrain Grand Prix,34.63,Rain,Williams,0,10,Williams,0,williams,bahrain,0
+2019,3,Shanghai,Chinese Grand Prix,33.13,Dry,Mercedes,43,1,Mercedes,130,mercedes,shanghai,0
+2019,3,Shanghai,Chinese Grand Prix,33.13,Dry,Ferrari,25,2,Ferrari,73,ferrari,shanghai,0
+2019,3,Shanghai,Chinese Grand Prix,33.13,Dry,Red Bull,21,3,Red Bull,52,red_bull,shanghai,0
+2019,3,Shanghai,Chinese Grand Prix,33.13,Dry,Renault,6,4,Renault,12,renault,shanghai,0
+2019,3,Shanghai,Chinese Grand Prix,33.13,Dry,Alfa Romeo,2,5,Alfa Romeo,12,alfa,shanghai,0
+2019,3,Shanghai,Chinese Grand Prix,33.13,Dry,Haas F1 Team,0,6,Haas F1 Team,8,haas,shanghai,0
+2019,3,Shanghai,Chinese Grand Prix,33.13,Dry,McLaren,0,7,McLaren,8,mclaren,shanghai,0
+2019,3,Shanghai,Chinese Grand Prix,33.13,Dry,Racing Point,4,8,Racing Point,7,racing_point,shanghai,0
+2019,3,Shanghai,Chinese Grand Prix,33.13,Dry,Toro Rosso,1,9,Toro Rosso,4,toro_rosso,shanghai,0
+2019,3,Shanghai,Chinese Grand Prix,33.13,Dry,Williams,0,10,Williams,0,williams,shanghai,0
+2019,4,Baku,Azerbaijan Grand Prix,37.43,Dry,Mercedes,43,1,Mercedes,173,mercedes,baku,0
+2019,4,Baku,Azerbaijan Grand Prix,37.43,Dry,Ferrari,26,2,Ferrari,99,ferrari,baku,0
+2019,4,Baku,Azerbaijan Grand Prix,37.43,Dry,Red Bull,12,3,Red Bull,64,red_bull,baku,0
+2019,4,Baku,Azerbaijan Grand Prix,37.43,Dry,McLaren,10,4,McLaren,18,mclaren,baku,0
+2019,4,Baku,Azerbaijan Grand Prix,37.43,Dry,Racing Point,10,5,Racing Point,17,racing_point,baku,0
+2019,4,Baku,Azerbaijan Grand Prix,37.43,Dry,Alfa Romeo,1,6,Alfa Romeo,13,alfa,baku,0
+2019,4,Baku,Azerbaijan Grand Prix,37.43,Dry,Renault,0,7,Renault,12,renault,baku,0
+2019,4,Baku,Azerbaijan Grand Prix,37.43,Dry,Haas F1 Team,0,8,Haas F1 Team,8,haas,baku,0
+2019,4,Baku,Azerbaijan Grand Prix,37.43,Dry,Toro Rosso,0,9,Toro Rosso,4,toro_rosso,baku,0
+2019,4,Baku,Azerbaijan Grand Prix,37.43,Dry,Williams,0,10,Williams,0,williams,baku,0
+2019,5,Catalunya,Spanish Grand Prix,35.97,Dry,Mercedes,44,1,Mercedes,217,mercedes,catalunya,0
+2019,5,Catalunya,Spanish Grand Prix,35.97,Dry,Ferrari,22,2,Ferrari,121,ferrari,catalunya,0
+2019,5,Catalunya,Spanish Grand Prix,35.97,Dry,Red Bull,23,3,Red Bull,87,red_bull,catalunya,0
+2019,5,Catalunya,Spanish Grand Prix,35.97,Dry,McLaren,4,4,McLaren,22,mclaren,catalunya,0
+2019,5,Catalunya,Spanish Grand Prix,35.97,Dry,Racing Point,0,5,Racing Point,17,racing_point,catalunya,0
+2019,5,Catalunya,Spanish Grand Prix,35.97,Dry,Haas F1 Team,7,6,Haas F1 Team,15,haas,catalunya,0
+2019,5,Catalunya,Spanish Grand Prix,35.97,Dry,Alfa Romeo,0,7,Alfa Romeo,13,alfa,catalunya,0
+2019,5,Catalunya,Spanish Grand Prix,35.97,Dry,Renault,0,8,Renault,12,renault,catalunya,0
+2019,5,Catalunya,Spanish Grand Prix,35.97,Dry,Toro Rosso,2,9,Toro Rosso,6,toro_rosso,catalunya,0
+2019,5,Catalunya,Spanish Grand Prix,35.97,Dry,Williams,0,10,Williams,0,williams,catalunya,0
+2019,6,Monte Carlo,Monaco Grand Prix,33.64,Rain,Mercedes,40,1,Mercedes,257,mercedes,monaco,0
+2019,6,Monte Carlo,Monaco Grand Prix,33.64,Rain,Ferrari,18,2,Ferrari,139,ferrari,monaco,0
+2019,6,Monte Carlo,Monaco Grand Prix,33.64,Rain,Red Bull,23,3,Red Bull,110,red_bull,monaco,0
+2019,6,Monte Carlo,Monaco Grand Prix,33.64,Rain,McLaren,8,4,McLaren,30,mclaren,monaco,0
+2019,6,Monte Carlo,Monaco Grand Prix,33.64,Rain,Racing Point,0,5,Racing Point,17,racing_point,monaco,0
+2019,6,Monte Carlo,Monaco Grand Prix,33.64,Rain,Haas F1 Team,1,6,Haas F1 Team,16,haas,monaco,0
+2019,6,Monte Carlo,Monaco Grand Prix,33.64,Rain,Toro Rosso,10,7,Toro Rosso,16,toro_rosso,monaco,0
+2019,6,Monte Carlo,Monaco Grand Prix,33.64,Rain,Renault,2,8,Renault,14,renault,monaco,0
+2019,6,Monte Carlo,Monaco Grand Prix,33.64,Rain,Alfa Romeo,0,9,Alfa Romeo,13,alfa,monaco,0
+2019,6,Monte Carlo,Monaco Grand Prix,33.64,Rain,Williams,0,10,Williams,0,williams,monaco,0
+2019,7,Montreal,Canadian Grand Prix,43.96,Dry,Mercedes,38,1,Mercedes,295,mercedes,villeneuve,0
+2019,7,Montreal,Canadian Grand Prix,43.96,Dry,Ferrari,33,2,Ferrari,172,ferrari,villeneuve,0
+2019,7,Montreal,Canadian Grand Prix,43.96,Dry,Red Bull,14,3,Red Bull,124,red_bull,villeneuve,0
+2019,7,Montreal,Canadian Grand Prix,43.96,Dry,McLaren,0,4,McLaren,30,mclaren,villeneuve,0
+2019,7,Montreal,Canadian Grand Prix,43.96,Dry,Renault,14,5,Renault,28,renault,villeneuve,0
+2019,7,Montreal,Canadian Grand Prix,43.96,Dry,Racing Point,2,6,Racing Point,19,racing_point,villeneuve,0
+2019,7,Montreal,Canadian Grand Prix,43.96,Dry,Toro Rosso,1,7,Toro Rosso,17,toro_rosso,villeneuve,0
+2019,7,Montreal,Canadian Grand Prix,43.96,Dry,Haas F1 Team,0,8,Haas F1 Team,16,haas,villeneuve,0
+2019,7,Montreal,Canadian Grand Prix,43.96,Dry,Alfa Romeo,0,9,Alfa Romeo,13,alfa,villeneuve,0
+2019,7,Montreal,Canadian Grand Prix,43.96,Dry,Williams,0,10,Williams,0,williams,villeneuve,0
+2019,8,Paul Ricard,French Grand Prix,51.7,Rain,Mercedes,43,1,Mercedes,338,mercedes,ricard,0
+2019,8,Paul Ricard,French Grand Prix,51.7,Rain,Ferrari,26,2,Ferrari,198,ferrari,ricard,0
+2019,8,Paul Ricard,French Grand Prix,51.7,Rain,Red Bull,13,3,Red Bull,137,red_bull,ricard,0
+2019,8,Paul Ricard,French Grand Prix,51.7,Rain,McLaren,10,4,McLaren,40,mclaren,ricard,0
+2019,8,Paul Ricard,French Grand Prix,51.7,Rain,Renault,4,5,Renault,32,renault,ricard,0
+2019,8,Paul Ricard,French Grand Prix,51.7,Rain,Racing Point,0,6,Racing Point,19,racing_point,ricard,0
+2019,8,Paul Ricard,French Grand Prix,51.7,Rain,Alfa Romeo,6,7,Alfa Romeo,19,alfa,ricard,0
+2019,8,Paul Ricard,French Grand Prix,51.7,Rain,Toro Rosso,0,8,Toro Rosso,17,toro_rosso,ricard,0
+2019,8,Paul Ricard,French Grand Prix,51.7,Rain,Haas F1 Team,0,9,Haas F1 Team,16,haas,ricard,0
+2019,8,Paul Ricard,French Grand Prix,51.7,Rain,Williams,0,10,Williams,0,williams,ricard,0
+2019,9,Spielberg,Austrian Grand Prix,49.56,Rain,Mercedes,25,1,Mercedes,363,mercedes,red_bull_ring,0
+2019,9,Spielberg,Austrian Grand Prix,49.56,Rain,Ferrari,30,2,Ferrari,228,ferrari,red_bull_ring,0
+2019,9,Spielberg,Austrian Grand Prix,49.56,Rain,Red Bull,32,3,Red Bull,169,red_bull,red_bull_ring,0
+2019,9,Spielberg,Austrian Grand Prix,49.56,Rain,McLaren,12,4,McLaren,52,mclaren,red_bull_ring,0
+2019,9,Spielberg,Austrian Grand Prix,49.56,Rain,Renault,0,5,Renault,32,renault,red_bull_ring,0
+2019,9,Spielberg,Austrian Grand Prix,49.56,Rain,Alfa Romeo,3,6,Alfa Romeo,22,alfa,red_bull_ring,0
+2019,9,Spielberg,Austrian Grand Prix,49.56,Rain,Racing Point,0,7,Racing Point,19,racing_point,red_bull_ring,0
+2019,9,Spielberg,Austrian Grand Prix,49.56,Rain,Toro Rosso,0,8,Toro Rosso,17,toro_rosso,red_bull_ring,0
+2019,9,Spielberg,Austrian Grand Prix,49.56,Rain,Haas F1 Team,0,9,Haas F1 Team,16,haas,red_bull_ring,0
+2019,9,Spielberg,Austrian Grand Prix,49.56,Rain,Williams,0,10,Williams,0,williams,red_bull_ring,0
+2019,10,Silverstone,British Grand Prix,30.42,Rain,Mercedes,44,1,Mercedes,407,mercedes,silverstone,0
+2019,10,Silverstone,British Grand Prix,30.42,Rain,Ferrari,15,2,Ferrari,243,ferrari,silverstone,0
+2019,10,Silverstone,British Grand Prix,30.42,Rain,Red Bull,22,3,Red Bull,191,red_bull,silverstone,0
+2019,10,Silverstone,British Grand Prix,30.42,Rain,McLaren,8,4,McLaren,60,mclaren,silverstone,0
+2019,10,Silverstone,British Grand Prix,30.42,Rain,Renault,7,5,Renault,39,renault,silverstone,0
+2019,10,Silverstone,British Grand Prix,30.42,Rain,Alfa Romeo,4,6,Alfa Romeo,26,alfa,silverstone,0
+2019,10,Silverstone,British Grand Prix,30.42,Rain,Racing Point,0,7,Racing Point,19,racing_point,silverstone,0
+2019,10,Silverstone,British Grand Prix,30.42,Rain,Toro Rosso,2,8,Toro Rosso,19,toro_rosso,silverstone,0
+2019,10,Silverstone,British Grand Prix,30.42,Rain,Haas F1 Team,0,9,Haas F1 Team,16,haas,silverstone,0
+2019,10,Silverstone,British Grand Prix,30.42,Rain,Williams,0,10,Williams,0,williams,silverstone,0
+2019,11,Hockenheim,German Grand Prix,40.64,Rain,Mercedes,2,1,Mercedes,409,mercedes,hockenheimring,0
+2019,11,Hockenheim,German Grand Prix,40.64,Rain,Ferrari,18,2,Ferrari,261,ferrari,hockenheimring,0
+2019,11,Hockenheim,German Grand Prix,40.64,Rain,Red Bull,26,3,Red Bull,217,red_bull,hockenheimring,0
+2019,11,Hockenheim,German Grand Prix,40.64,Rain,McLaren,10,4,McLaren,70,mclaren,hockenheimring,0
+2019,11,Hockenheim,German Grand Prix,40.64,Rain,Toro Rosso,23,5,Toro Rosso,42,toro_rosso,hockenheimring,0
+2019,11,Hockenheim,German Grand Prix,40.64,Rain,Renault,0,6,Renault,39,renault,hockenheimring,0
+2019,11,Hockenheim,German Grand Prix,40.64,Rain,Racing Point,12,7,Racing Point,31,racing_point,hockenheimring,0
+2019,11,Hockenheim,German Grand Prix,40.64,Rain,Haas F1 Team,10,8,Haas F1 Team,26,haas,hockenheimring,0
+2019,11,Hockenheim,German Grand Prix,40.64,Rain,Alfa Romeo,0,9,Alfa Romeo,26,alfa,hockenheimring,0
+2019,11,Hockenheim,German Grand Prix,40.64,Rain,Williams,1,10,Williams,1,williams,hockenheimring,0
+2019,12,Hungaroring,Hungarian Grand Prix,37.59,Rain,Mercedes,29,1,Mercedes,438,mercedes,hungaroring,0
+2019,12,Hungaroring,Hungarian Grand Prix,37.59,Rain,Ferrari,27,2,Ferrari,288,ferrari,hungaroring,0
+2019,12,Hungaroring,Hungarian Grand Prix,37.59,Rain,Red Bull,27,3,Red Bull,244,red_bull,hungaroring,0
+2019,12,Hungaroring,Hungarian Grand Prix,37.59,Rain,McLaren,12,4,McLaren,82,mclaren,hungaroring,0
+2019,12,Hungaroring,Hungarian Grand Prix,37.59,Rain,Toro Rosso,1,5,Toro Rosso,43,toro_rosso,hungaroring,0
+2019,12,Hungaroring,Hungarian Grand Prix,37.59,Rain,Renault,0,6,Renault,39,renault,hungaroring,0
+2019,12,Hungaroring,Hungarian Grand Prix,37.59,Rain,Alfa Romeo,6,7,Alfa Romeo,32,alfa,hungaroring,0
+2019,12,Hungaroring,Hungarian Grand Prix,37.59,Rain,Racing Point,0,8,Racing Point,31,racing_point,hungaroring,0
+2019,12,Hungaroring,Hungarian Grand Prix,37.59,Rain,Haas F1 Team,0,9,Haas F1 Team,26,haas,hungaroring,0
+2019,12,Hungaroring,Hungarian Grand Prix,37.59,Rain,Williams,0,10,Williams,1,williams,hungaroring,0
+2019,13,Spa-Francorchamps,Belgian Grand Prix,35.03,Dry,Mercedes,33,1,Mercedes,471,mercedes,spa,0
+2019,13,Spa-Francorchamps,Belgian Grand Prix,35.03,Dry,Ferrari,38,2,Ferrari,326,ferrari,spa,0
+2019,13,Spa-Francorchamps,Belgian Grand Prix,35.03,Dry,Red Bull,10,3,Red Bull,254,red_bull,spa,0
+2019,13,Spa-Francorchamps,Belgian Grand Prix,35.03,Dry,McLaren,0,4,McLaren,82,mclaren,spa,0
+2019,13,Spa-Francorchamps,Belgian Grand Prix,35.03,Dry,Toro Rosso,8,5,Toro Rosso,51,toro_rosso,spa,0
+2019,13,Spa-Francorchamps,Belgian Grand Prix,35.03,Dry,Renault,4,6,Renault,43,renault,spa,0
+2019,13,Spa-Francorchamps,Belgian Grand Prix,35.03,Dry,Racing Point,9,7,Racing Point,40,racing_point,spa,0
+2019,13,Spa-Francorchamps,Belgian Grand Prix,35.03,Dry,Alfa Romeo,0,8,Alfa Romeo,32,alfa,spa,0
+2019,13,Spa-Francorchamps,Belgian Grand Prix,35.03,Dry,Haas F1 Team,0,9,Haas F1 Team,26,haas,spa,0
+2019,13,Spa-Francorchamps,Belgian Grand Prix,35.03,Dry,Williams,0,10,Williams,1,williams,spa,0
+2019,14,Monza,Italian Grand Prix,29.02,Rain,Mercedes,34,1,Mercedes,505,mercedes,monza,0
+2019,14,Monza,Italian Grand Prix,29.02,Rain,Ferrari,25,2,Ferrari,351,ferrari,monza,0
+2019,14,Monza,Italian Grand Prix,29.02,Rain,Red Bull,12,3,Red Bull,266,red_bull,monza,0
+2019,14,Monza,Italian Grand Prix,29.02,Rain,McLaren,1,4,McLaren,83,mclaren,monza,0
+2019,14,Monza,Italian Grand Prix,29.02,Rain,Renault,22,5,Renault,65,renault,monza,0
+2019,14,Monza,Italian Grand Prix,29.02,Rain,Toro Rosso,0,6,Toro Rosso,51,toro_rosso,monza,0
+2019,14,Monza,Italian Grand Prix,29.02,Rain,Racing Point,6,7,Racing Point,46,racing_point,monza,0
+2019,14,Monza,Italian Grand Prix,29.02,Rain,Alfa Romeo,2,8,Alfa Romeo,34,alfa,monza,0
+2019,14,Monza,Italian Grand Prix,29.02,Rain,Haas F1 Team,0,9,Haas F1 Team,26,haas,monza,0
+2019,14,Monza,Italian Grand Prix,29.02,Rain,Williams,0,10,Williams,1,williams,monza,0
+2019,15,Singapore,Singapore Grand Prix,36.78,Dry,Mercedes,22,1,Mercedes,527,mercedes,marina_bay,0
+2019,15,Singapore,Singapore Grand Prix,36.78,Dry,Ferrari,43,2,Ferrari,394,ferrari,marina_bay,0
+2019,15,Singapore,Singapore Grand Prix,36.78,Dry,Red Bull,23,3,Red Bull,289,red_bull,marina_bay,0
+2019,15,Singapore,Singapore Grand Prix,36.78,Dry,McLaren,6,4,McLaren,89,mclaren,marina_bay,0
+2019,15,Singapore,Singapore Grand Prix,36.78,Dry,Renault,2,5,Renault,67,renault,marina_bay,0
+2019,15,Singapore,Singapore Grand Prix,36.78,Dry,Toro Rosso,4,6,Toro Rosso,55,toro_rosso,marina_bay,0
+2019,15,Singapore,Singapore Grand Prix,36.78,Dry,Racing Point,0,7,Racing Point,46,racing_point,marina_bay,0
+2019,15,Singapore,Singapore Grand Prix,36.78,Dry,Alfa Romeo,1,8,Alfa Romeo,35,alfa,marina_bay,0
+2019,15,Singapore,Singapore Grand Prix,36.78,Dry,Haas F1 Team,0,9,Haas F1 Team,26,haas,marina_bay,0
+2019,15,Singapore,Singapore Grand Prix,36.78,Dry,Williams,0,10,Williams,1,williams,marina_bay,0
+2019,16,Sochi,Russian Grand Prix,29.71,Rain,Mercedes,44,1,Mercedes,571,mercedes,sochi,0
+2019,16,Sochi,Russian Grand Prix,29.71,Rain,Ferrari,15,2,Ferrari,409,ferrari,sochi,0
+2019,16,Sochi,Russian Grand Prix,29.71,Rain,Red Bull,22,3,Red Bull,311,red_bull,sochi,0
+2019,16,Sochi,Russian Grand Prix,29.71,Rain,McLaren,12,4,McLaren,101,mclaren,sochi,0
+2019,16,Sochi,Russian Grand Prix,29.71,Rain,Renault,1,5,Renault,68,renault,sochi,0
+2019,16,Sochi,Russian Grand Prix,29.71,Rain,Toro Rosso,0,6,Toro Rosso,55,toro_rosso,sochi,0
+2019,16,Sochi,Russian Grand Prix,29.71,Rain,Racing Point,6,7,Racing Point,52,racing_point,sochi,0
+2019,16,Sochi,Russian Grand Prix,29.71,Rain,Alfa Romeo,0,8,Alfa Romeo,35,alfa,sochi,0
+2019,16,Sochi,Russian Grand Prix,29.71,Rain,Haas F1 Team,2,9,Haas F1 Team,28,haas,sochi,0
+2019,16,Sochi,Russian Grand Prix,29.71,Rain,Williams,0,10,Williams,1,williams,sochi,0
+2019,17,Suzuka,Japanese Grand Prix,33.14,Dry,Mercedes,41,1,Mercedes,612,mercedes,suzuka,0
+2019,17,Suzuka,Japanese Grand Prix,33.14,Dry,Ferrari,26,2,Ferrari,435,ferrari,suzuka,0
+2019,17,Suzuka,Japanese Grand Prix,33.14,Dry,Red Bull,12,3,Red Bull,323,red_bull,suzuka,0
+2019,17,Suzuka,Japanese Grand Prix,33.14,Dry,McLaren,10,4,McLaren,111,mclaren,suzuka,0
+2019,17,Suzuka,Japanese Grand Prix,33.14,Dry,Renault,0,5,Renault,68,renault,suzuka,0
+2019,17,Suzuka,Japanese Grand Prix,33.14,Dry,Toro Rosso,7,6,Toro Rosso,62,toro_rosso,suzuka,0
+2019,17,Suzuka,Japanese Grand Prix,33.14,Dry,Racing Point,6,7,Racing Point,58,racing_point,suzuka,0
+2019,17,Suzuka,Japanese Grand Prix,33.14,Dry,Alfa Romeo,0,8,Alfa Romeo,35,alfa,suzuka,0
+2019,17,Suzuka,Japanese Grand Prix,33.14,Dry,Haas F1 Team,0,9,Haas F1 Team,28,haas,suzuka,0
+2019,17,Suzuka,Japanese Grand Prix,33.14,Dry,Williams,0,10,Williams,1,williams,suzuka,0
+2019,18,Mexico City,Mexican Grand Prix,30.98,Dry,Mercedes,40,1,Mercedes,652,mercedes,rodriguez,0
+2019,18,Mexico City,Mexican Grand Prix,30.98,Dry,Ferrari,31,2,Ferrari,466,ferrari,rodriguez,0
+2019,18,Mexico City,Mexican Grand Prix,30.98,Dry,Red Bull,18,3,Red Bull,341,red_bull,rodriguez,0
+2019,18,Mexico City,Mexican Grand Prix,30.98,Dry,McLaren,0,4,McLaren,111,mclaren,rodriguez,0
+2019,18,Mexico City,Mexican Grand Prix,30.98,Dry,Renault,5,5,Renault,73,renault,rodriguez,0
+2019,18,Mexico City,Mexican Grand Prix,30.98,Dry,Toro Rosso,2,6,Toro Rosso,64,toro_rosso,rodriguez,0
+2019,18,Mexico City,Mexican Grand Prix,30.98,Dry,Racing Point,6,7,Racing Point,64,racing_point,rodriguez,0
+2019,18,Mexico City,Mexican Grand Prix,30.98,Dry,Alfa Romeo,0,8,Alfa Romeo,35,alfa,rodriguez,0
+2019,18,Mexico City,Mexican Grand Prix,30.98,Dry,Haas F1 Team,0,9,Haas F1 Team,28,haas,rodriguez,0
+2019,18,Mexico City,Mexican Grand Prix,30.98,Dry,Williams,0,10,Williams,1,williams,rodriguez,0
+2019,19,Austin,United States Grand Prix,24.81,Dry,Mercedes,43,1,Mercedes,695,mercedes,americas,0
+2019,19,Austin,United States Grand Prix,24.81,Dry,Ferrari,13,2,Ferrari,479,ferrari,americas,0
+2019,19,Austin,United States Grand Prix,24.81,Dry,Red Bull,25,3,Red Bull,366,red_bull,americas,0
+2019,19,Austin,United States Grand Prix,24.81,Dry,McLaren,10,4,McLaren,121,mclaren,americas,0
+2019,19,Austin,United States Grand Prix,24.81,Dry,Renault,10,5,Renault,83,renault,americas,0
+2019,19,Austin,United States Grand Prix,24.81,Dry,Racing Point,1,6,Racing Point,65,racing_point,americas,0
+2019,19,Austin,United States Grand Prix,24.81,Dry,Toro Rosso,0,7,Toro Rosso,64,toro_rosso,americas,0
+2019,19,Austin,United States Grand Prix,24.81,Dry,Alfa Romeo,0,8,Alfa Romeo,35,alfa,americas,0
+2019,19,Austin,United States Grand Prix,24.81,Dry,Haas F1 Team,0,9,Haas F1 Team,28,haas,americas,0
+2019,19,Austin,United States Grand Prix,24.81,Dry,Williams,0,10,Williams,1,williams,americas,0
+2019,20,Interlagos,Brazilian Grand Prix,32.92,Rain,Mercedes,6,1,Mercedes,701,mercedes,interlagos,0
+2019,20,Interlagos,Brazilian Grand Prix,32.92,Rain,Ferrari,0,2,Ferrari,479,ferrari,interlagos,0
+2019,20,Interlagos,Brazilian Grand Prix,32.92,Rain,Red Bull,25,3,Red Bull,391,red_bull,interlagos,0
+2019,20,Interlagos,Brazilian Grand Prix,32.92,Rain,McLaren,19,4,McLaren,140,mclaren,interlagos,0
+2019,20,Interlagos,Brazilian Grand Prix,32.92,Rain,Renault,8,5,Renault,91,renault,interlagos,0
+2019,20,Interlagos,Brazilian Grand Prix,32.92,Rain,Toro Rosso,19,6,Toro Rosso,83,toro_rosso,interlagos,0
+2019,20,Interlagos,Brazilian Grand Prix,32.92,Rain,Racing Point,2,7,Racing Point,67,racing_point,interlagos,0
+2019,20,Interlagos,Brazilian Grand Prix,32.92,Rain,Alfa Romeo,22,8,Alfa Romeo,57,alfa,interlagos,0
+2019,20,Interlagos,Brazilian Grand Prix,32.92,Rain,Haas F1 Team,0,9,Haas F1 Team,28,haas,interlagos,0
+2019,20,Interlagos,Brazilian Grand Prix,32.92,Rain,Williams,0,10,Williams,1,williams,interlagos,0
+2019,21,Yas Marina Circuit,Abu Dhabi Grand Prix,32.89,Rain,Mercedes,38,1,Mercedes,739,mercedes,yas_marina,0
+2019,21,Yas Marina Circuit,Abu Dhabi Grand Prix,32.89,Rain,Ferrari,25,2,Ferrari,504,ferrari,yas_marina,0
+2019,21,Yas Marina Circuit,Abu Dhabi Grand Prix,32.89,Rain,Red Bull,26,3,Red Bull,417,red_bull,yas_marina,0
+2019,21,Yas Marina Circuit,Abu Dhabi Grand Prix,32.89,Rain,McLaren,5,4,McLaren,145,mclaren,yas_marina,0
+2019,21,Yas Marina Circuit,Abu Dhabi Grand Prix,32.89,Rain,Renault,0,5,Renault,91,renault,yas_marina,0
+2019,21,Yas Marina Circuit,Abu Dhabi Grand Prix,32.89,Rain,Toro Rosso,2,6,Toro Rosso,85,toro_rosso,yas_marina,0
+2019,21,Yas Marina Circuit,Abu Dhabi Grand Prix,32.89,Rain,Racing Point,6,7,Racing Point,73,racing_point,yas_marina,0
+2019,21,Yas Marina Circuit,Abu Dhabi Grand Prix,32.89,Rain,Alfa Romeo,0,8,Alfa Romeo,57,alfa,yas_marina,0
+2019,21,Yas Marina Circuit,Abu Dhabi Grand Prix,32.89,Rain,Haas F1 Team,0,9,Haas F1 Team,28,haas,yas_marina,0
+2019,21,Yas Marina Circuit,Abu Dhabi Grand Prix,32.89,Rain,Williams,0,10,Williams,1,williams,yas_marina,0
+2020,1,Spielberg,Austrian Grand Prix,40.42,Rain,Mercedes,37,1,Mercedes,37,mercedes,red_bull_ring,0
+2020,1,Spielberg,Austrian Grand Prix,40.42,Rain,McLaren,26,2,McLaren,26,mclaren,red_bull_ring,0
+2020,1,Spielberg,Austrian Grand Prix,40.42,Rain,Ferrari,19,3,Ferrari,19,ferrari,red_bull_ring,0
+2020,1,Spielberg,Austrian Grand Prix,40.42,Rain,Racing Point,8,4,Racing Point,8,racing_point,red_bull_ring,0
+2020,1,Spielberg,Austrian Grand Prix,40.42,Rain,AlphaTauri,6,5,AlphaTauri,6,alphatauri,red_bull_ring,0
+2020,1,Spielberg,Austrian Grand Prix,40.42,Rain,Renault,4,6,Renault,4,renault,red_bull_ring,0
+2020,1,Spielberg,Austrian Grand Prix,40.42,Rain,Alfa Romeo,2,7,Alfa Romeo,2,alfa,red_bull_ring,0
+2020,1,Spielberg,Austrian Grand Prix,40.42,Rain,Williams,0,8,Williams,0,williams,red_bull_ring,0
+2020,1,Spielberg,Austrian Grand Prix,40.42,Rain,Red Bull,0,9,Red Bull,0,red_bull,red_bull_ring,0
+2020,1,Spielberg,Austrian Grand Prix,40.42,Rain,Haas F1 Team,0,10,Haas F1 Team,0,haas,red_bull_ring,0
+2020,2,Spielberg,Styrian Grand Prix,35.28,Rain,Mercedes,43,1,Mercedes,80,mercedes,red_bull_ring,0
+2020,2,Spielberg,Styrian Grand Prix,35.28,Rain,McLaren,13,2,McLaren,39,mclaren,red_bull_ring,0
+2020,2,Spielberg,Styrian Grand Prix,35.28,Rain,Red Bull,27,3,Red Bull,27,red_bull,red_bull_ring,0
+2020,2,Spielberg,Styrian Grand Prix,35.28,Rain,Racing Point,14,4,Racing Point,22,racing_point,red_bull_ring,0
+2020,2,Spielberg,Styrian Grand Prix,35.28,Rain,Ferrari,0,5,Ferrari,19,ferrari,red_bull_ring,0
+2020,2,Spielberg,Styrian Grand Prix,35.28,Rain,Renault,4,6,Renault,8,renault,red_bull_ring,0
+2020,2,Spielberg,Styrian Grand Prix,35.28,Rain,AlphaTauri,1,7,AlphaTauri,7,alphatauri,red_bull_ring,0
+2020,2,Spielberg,Styrian Grand Prix,35.28,Rain,Alfa Romeo,0,8,Alfa Romeo,2,alfa,red_bull_ring,0
+2020,2,Spielberg,Styrian Grand Prix,35.28,Rain,Williams,0,9,Williams,0,williams,red_bull_ring,0
+2020,2,Spielberg,Styrian Grand Prix,35.28,Rain,Haas F1 Team,0,10,Haas F1 Team,0,haas,red_bull_ring,0
+2020,3,Hungaroring,Hungarian Grand Prix,25.22,Rain,Mercedes,41,1,Mercedes,121,mercedes,hungaroring,0
+2020,3,Hungaroring,Hungarian Grand Prix,25.22,Rain,Red Bull,28,2,Red Bull,55,red_bull,hungaroring,0
+2020,3,Hungaroring,Hungarian Grand Prix,25.22,Rain,McLaren,2,3,McLaren,41,mclaren,hungaroring,0
+2020,3,Hungaroring,Hungarian Grand Prix,25.22,Rain,Racing Point,18,4,Racing Point,40,racing_point,hungaroring,0
+2020,3,Hungaroring,Hungarian Grand Prix,25.22,Rain,Ferrari,8,5,Ferrari,27,ferrari,hungaroring,0
+2020,3,Hungaroring,Hungarian Grand Prix,25.22,Rain,Renault,4,6,Renault,12,renault,hungaroring,0
+2020,3,Hungaroring,Hungarian Grand Prix,25.22,Rain,AlphaTauri,0,7,AlphaTauri,7,alphatauri,hungaroring,0
+2020,3,Hungaroring,Hungarian Grand Prix,25.22,Rain,Alfa Romeo,0,8,Alfa Romeo,2,alfa,hungaroring,0
+2020,3,Hungaroring,Hungarian Grand Prix,25.22,Rain,Haas F1 Team,1,9,Haas F1 Team,1,haas,hungaroring,0
+2020,3,Hungaroring,Hungarian Grand Prix,25.22,Rain,Williams,0,10,Williams,0,williams,hungaroring,0
+2020,4,Silverstone,British Grand Prix,40.55,Dry,Mercedes,25,1,Mercedes,146,mercedes,silverstone,0
+2020,4,Silverstone,British Grand Prix,40.55,Dry,Red Bull,23,2,Red Bull,78,red_bull,silverstone,0
+2020,4,Silverstone,British Grand Prix,40.55,Dry,McLaren,10,3,McLaren,51,mclaren,silverstone,0
+2020,4,Silverstone,British Grand Prix,40.55,Dry,Ferrari,16,4,Ferrari,43,ferrari,silverstone,0
+2020,4,Silverstone,British Grand Prix,40.55,Dry,Renault,20,5,Renault,32,renault,silverstone,0
+2020,4,Silverstone,British Grand Prix,40.55,Dry,Racing Point,2,6,Racing Point,27,racing_point,silverstone,-15
+2020,4,Silverstone,British Grand Prix,40.55,Dry,AlphaTauri,6,7,AlphaTauri,13,alphatauri,silverstone,0
+2020,4,Silverstone,British Grand Prix,40.55,Dry,Alfa Romeo,0,8,Alfa Romeo,2,alfa,silverstone,0
+2020,4,Silverstone,British Grand Prix,40.55,Dry,Haas F1 Team,0,9,Haas F1 Team,1,haas,silverstone,0
+2020,4,Silverstone,British Grand Prix,40.55,Dry,Williams,0,10,Williams,0,williams,silverstone,0
+2020,5,Silverstone,70th Anniversary Grand Prix,39.78,Dry,Mercedes,34,1,Mercedes,180,mercedes,silverstone,0
+2020,5,Silverstone,70th Anniversary Grand Prix,39.78,Dry,Red Bull,35,2,Red Bull,113,red_bull,silverstone,0
+2020,5,Silverstone,70th Anniversary Grand Prix,39.78,Dry,Ferrari,12,3,Ferrari,55,ferrari,silverstone,0
+2020,5,Silverstone,70th Anniversary Grand Prix,39.78,Dry,McLaren,2,4,McLaren,53,mclaren,silverstone,0
+2020,5,Silverstone,70th Anniversary Grand Prix,39.78,Dry,Racing Point,14,5,Racing Point,41,racing_point,silverstone,0
+2020,5,Silverstone,70th Anniversary Grand Prix,39.78,Dry,Renault,4,6,Renault,36,renault,silverstone,0
+2020,5,Silverstone,70th Anniversary Grand Prix,39.78,Dry,AlphaTauri,1,7,AlphaTauri,14,alphatauri,silverstone,0
+2020,5,Silverstone,70th Anniversary Grand Prix,39.78,Dry,Alfa Romeo,0,8,Alfa Romeo,2,alfa,silverstone,0
+2020,5,Silverstone,70th Anniversary Grand Prix,39.78,Dry,Haas F1 Team,0,9,Haas F1 Team,1,haas,silverstone,0
+2020,5,Silverstone,70th Anniversary Grand Prix,39.78,Dry,Williams,0,10,Williams,0,williams,silverstone,0
+2020,6,Catalunya,Spanish Grand Prix,45.82,Dry,Mercedes,41,1,Mercedes,221,mercedes,catalunya,0
+2020,6,Catalunya,Spanish Grand Prix,45.82,Dry,Red Bull,22,2,Red Bull,135,red_bull,catalunya,0
+2020,6,Catalunya,Spanish Grand Prix,45.82,Dry,Racing Point,22,3,Racing Point,63,racing_point,catalunya,0
+2020,6,Catalunya,Spanish Grand Prix,45.82,Dry,McLaren,9,4,McLaren,62,mclaren,catalunya,0
+2020,6,Catalunya,Spanish Grand Prix,45.82,Dry,Ferrari,6,5,Ferrari,61,ferrari,catalunya,0
+2020,6,Catalunya,Spanish Grand Prix,45.82,Dry,Renault,0,6,Renault,36,renault,catalunya,0
+2020,6,Catalunya,Spanish Grand Prix,45.82,Dry,AlphaTauri,2,7,AlphaTauri,16,alphatauri,catalunya,0
+2020,6,Catalunya,Spanish Grand Prix,45.82,Dry,Alfa Romeo,0,8,Alfa Romeo,2,alfa,catalunya,0
+2020,6,Catalunya,Spanish Grand Prix,45.82,Dry,Haas F1 Team,0,9,Haas F1 Team,1,haas,catalunya,0
+2020,6,Catalunya,Spanish Grand Prix,45.82,Dry,Williams,0,10,Williams,0,williams,catalunya,0
+2020,7,Spa-Francorchamps,Belgian Grand Prix,24.43,Rain,Mercedes,43,1,Mercedes,264,mercedes,spa,0
+2020,7,Spa-Francorchamps,Belgian Grand Prix,24.43,Rain,Red Bull,23,2,Red Bull,158,red_bull,spa,0
+2020,7,Spa-Francorchamps,Belgian Grand Prix,24.43,Rain,McLaren,6,3,McLaren,68,mclaren,spa,0
+2020,7,Spa-Francorchamps,Belgian Grand Prix,24.43,Rain,Racing Point,3,4,Racing Point,66,racing_point,spa,0
+2020,7,Spa-Francorchamps,Belgian Grand Prix,24.43,Rain,Ferrari,0,5,Ferrari,61,ferrari,spa,0
+2020,7,Spa-Francorchamps,Belgian Grand Prix,24.43,Rain,Renault,23,6,Renault,59,renault,spa,0
+2020,7,Spa-Francorchamps,Belgian Grand Prix,24.43,Rain,AlphaTauri,4,7,AlphaTauri,20,alphatauri,spa,0
+2020,7,Spa-Francorchamps,Belgian Grand Prix,24.43,Rain,Alfa Romeo,0,8,Alfa Romeo,2,alfa,spa,0
+2020,7,Spa-Francorchamps,Belgian Grand Prix,24.43,Rain,Haas F1 Team,0,9,Haas F1 Team,1,haas,spa,0
+2020,7,Spa-Francorchamps,Belgian Grand Prix,24.43,Rain,Williams,0,10,Williams,0,williams,spa,0
+2020,8,Monza,Italian Grand Prix,40.65,Dry,Mercedes,17,1,Mercedes,281,mercedes,monza,0
+2020,8,Monza,Italian Grand Prix,40.65,Dry,Red Bull,0,2,Red Bull,158,red_bull,monza,0
+2020,8,Monza,Italian Grand Prix,40.65,Dry,McLaren,30,3,McLaren,98,mclaren,monza,0
+2020,8,Monza,Italian Grand Prix,40.65,Dry,Racing Point,16,4,Racing Point,82,racing_point,monza,0
+2020,8,Monza,Italian Grand Prix,40.65,Dry,Renault,12,5,Renault,71,renault,monza,0
+2020,8,Monza,Italian Grand Prix,40.65,Dry,Ferrari,0,6,Ferrari,61,ferrari,monza,0
+2020,8,Monza,Italian Grand Prix,40.65,Dry,AlphaTauri,27,7,AlphaTauri,47,alphatauri,monza,0
+2020,8,Monza,Italian Grand Prix,40.65,Dry,Alfa Romeo,0,8,Alfa Romeo,2,alfa,monza,0
+2020,8,Monza,Italian Grand Prix,40.65,Dry,Haas F1 Team,0,9,Haas F1 Team,1,haas,monza,0
+2020,8,Monza,Italian Grand Prix,40.65,Dry,Williams,0,10,Williams,0,williams,monza,0
+2020,9,Mugello,Tuscan Grand Prix,42.24,Dry,Mercedes,44,1,Mercedes,325,mercedes,mugello,0
+2020,9,Mugello,Tuscan Grand Prix,42.24,Dry,Red Bull,15,2,Red Bull,173,red_bull,mugello,0
+2020,9,Mugello,Tuscan Grand Prix,42.24,Dry,McLaren,8,3,McLaren,106,mclaren,mugello,0
+2020,9,Mugello,Tuscan Grand Prix,42.24,Dry,Racing Point,10,4,Racing Point,92,racing_point,mugello,0
+2020,9,Mugello,Tuscan Grand Prix,42.24,Dry,Renault,12,5,Renault,83,renault,mugello,0
+2020,9,Mugello,Tuscan Grand Prix,42.24,Dry,Ferrari,5,6,Ferrari,66,ferrari,mugello,0
+2020,9,Mugello,Tuscan Grand Prix,42.24,Dry,AlphaTauri,6,7,AlphaTauri,53,alphatauri,mugello,0
+2020,9,Mugello,Tuscan Grand Prix,42.24,Dry,Alfa Romeo,2,8,Alfa Romeo,4,alfa,mugello,0
+2020,9,Mugello,Tuscan Grand Prix,42.24,Dry,Haas F1 Team,0,9,Haas F1 Team,1,haas,mugello,0
+2020,9,Mugello,Tuscan Grand Prix,42.24,Dry,Williams,0,10,Williams,0,williams,mugello,0
+2020,10,Sochi,Russian Grand Prix,35.7,Dry,Mercedes,41,1,Mercedes,366,mercedes,sochi,0
+2020,10,Sochi,Russian Grand Prix,35.7,Dry,Red Bull,19,2,Red Bull,192,red_bull,sochi,0
+2020,10,Sochi,Russian Grand Prix,35.7,Dry,McLaren,0,3,McLaren,106,mclaren,sochi,0
+2020,10,Sochi,Russian Grand Prix,35.7,Dry,Racing Point,12,4,Racing Point,104,racing_point,sochi,0
+2020,10,Sochi,Russian Grand Prix,35.7,Dry,Renault,16,5,Renault,99,renault,sochi,0
+2020,10,Sochi,Russian Grand Prix,35.7,Dry,Ferrari,8,6,Ferrari,74,ferrari,sochi,0
+2020,10,Sochi,Russian Grand Prix,35.7,Dry,AlphaTauri,6,7,AlphaTauri,59,alphatauri,sochi,0
+2020,10,Sochi,Russian Grand Prix,35.7,Dry,Alfa Romeo,0,8,Alfa Romeo,4,alfa,sochi,0
+2020,10,Sochi,Russian Grand Prix,35.7,Dry,Haas F1 Team,0,9,Haas F1 Team,1,haas,sochi,0
+2020,10,Sochi,Russian Grand Prix,35.7,Dry,Williams,0,10,Williams,0,williams,sochi,0
+2020,11,Nurburgring,Eifel Grand Prix,15.08,Rain,Mercedes,25,1,Mercedes,391,mercedes,nurburgring,0
+2020,11,Nurburgring,Eifel Grand Prix,15.08,Rain,Red Bull,19,2,Red Bull,211,red_bull,nurburgring,0
+2020,11,Nurburgring,Eifel Grand Prix,15.08,Rain,Racing Point,16,3,Racing Point,120,racing_point,nurburgring,0
+2020,11,Nurburgring,Eifel Grand Prix,15.08,Rain,McLaren,10,4,McLaren,116,mclaren,nurburgring,0
+2020,11,Nurburgring,Eifel Grand Prix,15.08,Rain,Renault,15,5,Renault,114,renault,nurburgring,0
+2020,11,Nurburgring,Eifel Grand Prix,15.08,Rain,Ferrari,6,6,Ferrari,80,ferrari,nurburgring,0
+2020,11,Nurburgring,Eifel Grand Prix,15.08,Rain,AlphaTauri,8,7,AlphaTauri,67,alphatauri,nurburgring,0
+2020,11,Nurburgring,Eifel Grand Prix,15.08,Rain,Alfa Romeo,1,8,Alfa Romeo,5,alfa,nurburgring,0
+2020,11,Nurburgring,Eifel Grand Prix,15.08,Rain,Haas F1 Team,2,9,Haas F1 Team,3,haas,nurburgring,0
+2020,11,Nurburgring,Eifel Grand Prix,15.08,Rain,Williams,0,10,Williams,0,williams,nurburgring,0
+2020,12,Algarve International Circuit,Portuguese Grand Prix,29.82,Dry,Mercedes,44,1,Mercedes,435,mercedes,portimao,0
+2020,12,Algarve International Circuit,Portuguese Grand Prix,29.82,Dry,Red Bull,15,2,Red Bull,226,red_bull,portimao,0
+2020,12,Algarve International Circuit,Portuguese Grand Prix,29.82,Dry,Racing Point,6,3,Racing Point,126,racing_point,portimao,0
+2020,12,Algarve International Circuit,Portuguese Grand Prix,29.82,Dry,McLaren,8,4,McLaren,124,mclaren,portimao,0
+2020,12,Algarve International Circuit,Portuguese Grand Prix,29.82,Dry,Renault,6,5,Renault,120,renault,portimao,0
+2020,12,Algarve International Circuit,Portuguese Grand Prix,29.82,Dry,Ferrari,13,6,Ferrari,93,ferrari,portimao,0
+2020,12,Algarve International Circuit,Portuguese Grand Prix,29.82,Dry,AlphaTauri,10,7,AlphaTauri,77,alphatauri,portimao,0
+2020,12,Algarve International Circuit,Portuguese Grand Prix,29.82,Dry,Alfa Romeo,0,8,Alfa Romeo,5,alfa,portimao,0
+2020,12,Algarve International Circuit,Portuguese Grand Prix,29.82,Dry,Haas F1 Team,0,9,Haas F1 Team,3,haas,portimao,0
+2020,12,Algarve International Circuit,Portuguese Grand Prix,29.82,Dry,Williams,0,10,Williams,0,williams,portimao,0
+2020,13,Imola,Emilia Romagna Grand Prix,22.99,Dry,Mercedes,44,1,Mercedes,479,mercedes,imola,0
+2020,13,Imola,Emilia Romagna Grand Prix,22.99,Dry,Red Bull,0,2,Red Bull,226,red_bull,imola,0
+2020,13,Imola,Emilia Romagna Grand Prix,22.99,Dry,Renault,15,3,Renault,135,renault,imola,0
+2020,13,Imola,Emilia Romagna Grand Prix,22.99,Dry,McLaren,10,4,McLaren,134,mclaren,imola,0
+2020,13,Imola,Emilia Romagna Grand Prix,22.99,Dry,Racing Point,8,5,Racing Point,134,racing_point,imola,0
+2020,13,Imola,Emilia Romagna Grand Prix,22.99,Dry,Ferrari,10,6,Ferrari,103,ferrari,imola,0
+2020,13,Imola,Emilia Romagna Grand Prix,22.99,Dry,AlphaTauri,12,7,AlphaTauri,89,alphatauri,imola,0
+2020,13,Imola,Emilia Romagna Grand Prix,22.99,Dry,Alfa Romeo,3,8,Alfa Romeo,8,alfa,imola,0
+2020,13,Imola,Emilia Romagna Grand Prix,22.99,Dry,Haas F1 Team,0,9,Haas F1 Team,3,haas,imola,0
+2020,13,Imola,Emilia Romagna Grand Prix,22.99,Dry,Williams,0,10,Williams,0,williams,imola,0
+2020,14,Istanbul,Turkish Grand Prix,16.39,Rain,Mercedes,25,1,Mercedes,504,mercedes,istanbul,0
+2020,14,Istanbul,Turkish Grand Prix,16.39,Rain,Red Bull,14,2,Red Bull,240,red_bull,istanbul,0
+2020,14,Istanbul,Turkish Grand Prix,16.39,Rain,Racing Point,20,3,Racing Point,154,racing_point,istanbul,0
+2020,14,Istanbul,Turkish Grand Prix,16.39,Rain,McLaren,15,4,McLaren,149,mclaren,istanbul,0
+2020,14,Istanbul,Turkish Grand Prix,16.39,Rain,Renault,1,5,Renault,136,renault,istanbul,0
+2020,14,Istanbul,Turkish Grand Prix,16.39,Rain,Ferrari,27,6,Ferrari,130,ferrari,istanbul,0
+2020,14,Istanbul,Turkish Grand Prix,16.39,Rain,AlphaTauri,0,7,AlphaTauri,89,alphatauri,istanbul,0
+2020,14,Istanbul,Turkish Grand Prix,16.39,Rain,Alfa Romeo,0,8,Alfa Romeo,8,alfa,istanbul,0
+2020,14,Istanbul,Turkish Grand Prix,16.39,Rain,Haas F1 Team,0,9,Haas F1 Team,3,haas,istanbul,0
+2020,14,Istanbul,Turkish Grand Prix,16.39,Rain,Williams,0,10,Williams,0,williams,istanbul,0
+2020,15,Sakhir,Bahrain Grand Prix,28.18,Rain,Mercedes,29,1,Mercedes,533,mercedes,bahrain,0
+2020,15,Sakhir,Bahrain Grand Prix,28.18,Rain,Red Bull,34,2,Red Bull,274,red_bull,bahrain,0
+2020,15,Sakhir,Bahrain Grand Prix,28.18,Rain,McLaren,22,3,McLaren,171,mclaren,bahrain,0
+2020,15,Sakhir,Bahrain Grand Prix,28.18,Rain,Racing Point,0,4,Racing Point,154,racing_point,bahrain,0
+2020,15,Sakhir,Bahrain Grand Prix,28.18,Rain,Renault,8,5,Renault,144,renault,bahrain,0
+2020,15,Sakhir,Bahrain Grand Prix,28.18,Rain,Ferrari,1,6,Ferrari,131,ferrari,bahrain,0
+2020,15,Sakhir,Bahrain Grand Prix,28.18,Rain,AlphaTauri,8,7,AlphaTauri,97,alphatauri,bahrain,0
+2020,15,Sakhir,Bahrain Grand Prix,28.18,Rain,Alfa Romeo,0,8,Alfa Romeo,8,alfa,bahrain,0
+2020,15,Sakhir,Bahrain Grand Prix,28.18,Rain,Haas F1 Team,0,9,Haas F1 Team,3,haas,bahrain,0
+2020,15,Sakhir,Bahrain Grand Prix,28.18,Rain,Williams,0,10,Williams,0,williams,bahrain,0
+2020,16,Sakhir,Sakhir Grand Prix,27.08,Dry,Mercedes,7,1,Mercedes,540,mercedes,bahrain,0
+2020,16,Sakhir,Sakhir Grand Prix,27.08,Dry,Red Bull,8,2,Red Bull,282,red_bull,bahrain,0
+2020,16,Sakhir,Sakhir Grand Prix,27.08,Dry,Racing Point,40,3,Racing Point,194,racing_point,bahrain,0
+2020,16,Sakhir,Sakhir Grand Prix,27.08,Dry,McLaren,13,4,McLaren,184,mclaren,bahrain,0
+2020,16,Sakhir,Sakhir Grand Prix,27.08,Dry,Renault,28,5,Renault,172,renault,bahrain,0
+2020,16,Sakhir,Sakhir Grand Prix,27.08,Dry,Ferrari,0,6,Ferrari,131,ferrari,bahrain,0
+2020,16,Sakhir,Sakhir Grand Prix,27.08,Dry,AlphaTauri,6,7,AlphaTauri,103,alphatauri,bahrain,0
+2020,16,Sakhir,Sakhir Grand Prix,27.08,Dry,Alfa Romeo,0,8,Alfa Romeo,8,alfa,bahrain,0
+2020,16,Sakhir,Sakhir Grand Prix,27.08,Dry,Haas F1 Team,0,9,Haas F1 Team,3,haas,bahrain,0
+2020,16,Sakhir,Sakhir Grand Prix,27.08,Dry,Williams,0,10,Williams,0,williams,bahrain,0
+2020,17,Yas Marina Circuit,Abu Dhabi Grand Prix,32.5,Dry,Mercedes,33,1,Mercedes,573,mercedes,yas_marina,0
+2020,17,Yas Marina Circuit,Abu Dhabi Grand Prix,32.5,Dry,Red Bull,37,2,Red Bull,319,red_bull,yas_marina,0
+2020,17,Yas Marina Circuit,Abu Dhabi Grand Prix,32.5,Dry,McLaren,18,3,McLaren,202,mclaren,yas_marina,0
+2020,17,Yas Marina Circuit,Abu Dhabi Grand Prix,32.5,Dry,Racing Point,1,4,Racing Point,195,racing_point,yas_marina,0
+2020,17,Yas Marina Circuit,Abu Dhabi Grand Prix,32.5,Dry,Renault,9,5,Renault,181,renault,yas_marina,0
+2020,17,Yas Marina Circuit,Abu Dhabi Grand Prix,32.5,Dry,Ferrari,0,6,Ferrari,131,ferrari,yas_marina,0
+2020,17,Yas Marina Circuit,Abu Dhabi Grand Prix,32.5,Dry,AlphaTauri,4,7,AlphaTauri,107,alphatauri,yas_marina,0
+2020,17,Yas Marina Circuit,Abu Dhabi Grand Prix,32.5,Dry,Alfa Romeo,0,8,Alfa Romeo,8,alfa,yas_marina,0
+2020,17,Yas Marina Circuit,Abu Dhabi Grand Prix,32.5,Dry,Haas F1 Team,0,9,Haas F1 Team,3,haas,yas_marina,0
+2020,17,Yas Marina Circuit,Abu Dhabi Grand Prix,32.5,Dry,Williams,0,10,Williams,0,williams,yas_marina,0
+2021,1,Sakhir,Bahrain Grand Prix,37.56,Dry,Mercedes,41,1,Mercedes,41,mercedes,bahrain,0
+2021,1,Sakhir,Bahrain Grand Prix,37.56,Dry,Red Bull,28,2,Red Bull,28,red_bull,bahrain,0
+2021,1,Sakhir,Bahrain Grand Prix,37.56,Dry,McLaren,18,3,McLaren,18,mclaren,bahrain,0
+2021,1,Sakhir,Bahrain Grand Prix,37.56,Dry,Ferrari,12,4,Ferrari,12,ferrari,bahrain,0
+2021,1,Sakhir,Bahrain Grand Prix,37.56,Dry,AlphaTauri,2,5,AlphaTauri,2,alphatauri,bahrain,0
+2021,1,Sakhir,Bahrain Grand Prix,37.56,Dry,Aston Martin,1,6,Aston Martin,1,aston_martin,bahrain,0
+2021,1,Sakhir,Bahrain Grand Prix,37.56,Dry,Alfa Romeo,0,7,Alfa Romeo,0,alfa,bahrain,0
+2021,1,Sakhir,Bahrain Grand Prix,37.56,Dry,Alpine,0,8,Alpine,0,alpine,bahrain,0
+2021,1,Sakhir,Bahrain Grand Prix,37.56,Dry,Williams,0,9,Williams,0,williams,bahrain,0
+2021,1,Sakhir,Bahrain Grand Prix,37.56,Dry,Haas F1 Team,0,10,Haas F1 Team,0,haas,bahrain,0
+2021,2,Imola,Emilia Romagna Grand Prix,22.47,Rain,Mercedes,19,1,Mercedes,60,mercedes,imola,0
+2021,2,Imola,Emilia Romagna Grand Prix,22.47,Rain,Red Bull,25,2,Red Bull,53,red_bull,imola,0
+2021,2,Imola,Emilia Romagna Grand Prix,22.47,Rain,McLaren,23,3,McLaren,41,mclaren,imola,0
+2021,2,Imola,Emilia Romagna Grand Prix,22.47,Rain,Ferrari,22,4,Ferrari,34,ferrari,imola,0
+2021,2,Imola,Emilia Romagna Grand Prix,22.47,Rain,AlphaTauri,6,5,AlphaTauri,8,alphatauri,imola,0
+2021,2,Imola,Emilia Romagna Grand Prix,22.47,Rain,Aston Martin,4,6,Aston Martin,5,aston_martin,imola,0
+2021,2,Imola,Emilia Romagna Grand Prix,22.47,Rain,Alpine,3,7,Alpine,3,alpine,imola,0
+2021,2,Imola,Emilia Romagna Grand Prix,22.47,Rain,Alfa Romeo,0,8,Alfa Romeo,0,alfa,imola,0
+2021,2,Imola,Emilia Romagna Grand Prix,22.47,Rain,Williams,0,9,Williams,0,williams,imola,0
+2021,2,Imola,Emilia Romagna Grand Prix,22.47,Rain,Haas F1 Team,0,10,Haas F1 Team,0,haas,imola,0
+2021,3,Algarve International Circuit,Portuguese Grand Prix,35.82,Rain,Mercedes,41,1,Mercedes,101,mercedes,portimao,0
+2021,3,Algarve International Circuit,Portuguese Grand Prix,35.82,Rain,Red Bull,30,2,Red Bull,83,red_bull,portimao,0
+2021,3,Algarve International Circuit,Portuguese Grand Prix,35.82,Rain,McLaren,12,3,McLaren,53,mclaren,portimao,0
+2021,3,Algarve International Circuit,Portuguese Grand Prix,35.82,Rain,Ferrari,8,4,Ferrari,42,ferrari,portimao,0
+2021,3,Algarve International Circuit,Portuguese Grand Prix,35.82,Rain,Alpine,10,5,Alpine,13,alpine,portimao,0
+2021,3,Algarve International Circuit,Portuguese Grand Prix,35.82,Rain,AlphaTauri,1,6,AlphaTauri,9,alphatauri,portimao,0
+2021,3,Algarve International Circuit,Portuguese Grand Prix,35.82,Rain,Aston Martin,0,7,Aston Martin,5,aston_martin,portimao,0
+2021,3,Algarve International Circuit,Portuguese Grand Prix,35.82,Rain,Alfa Romeo,0,8,Alfa Romeo,0,alfa,portimao,0
+2021,3,Algarve International Circuit,Portuguese Grand Prix,35.82,Rain,Williams,0,9,Williams,0,williams,portimao,0
+2021,3,Algarve International Circuit,Portuguese Grand Prix,35.82,Rain,Haas F1 Team,0,10,Haas F1 Team,0,haas,portimao,0
+2021,4,Catalunya,Spanish Grand Prix,38.74,Dry,Mercedes,40,1,Mercedes,141,mercedes,catalunya,0
+2021,4,Catalunya,Spanish Grand Prix,38.74,Dry,Red Bull,29,2,Red Bull,112,red_bull,catalunya,0
+2021,4,Catalunya,Spanish Grand Prix,38.74,Dry,McLaren,12,3,McLaren,65,mclaren,catalunya,0
+2021,4,Catalunya,Spanish Grand Prix,38.74,Dry,Ferrari,18,4,Ferrari,60,ferrari,catalunya,0
+2021,4,Catalunya,Spanish Grand Prix,38.74,Dry,Alpine,2,5,Alpine,15,alpine,catalunya,0
+2021,4,Catalunya,Spanish Grand Prix,38.74,Dry,AlphaTauri,1,6,AlphaTauri,10,alphatauri,catalunya,0
+2021,4,Catalunya,Spanish Grand Prix,38.74,Dry,Aston Martin,0,7,Aston Martin,5,aston_martin,catalunya,0
+2021,4,Catalunya,Spanish Grand Prix,38.74,Dry,Alfa Romeo,0,8,Alfa Romeo,0,alfa,catalunya,0
+2021,4,Catalunya,Spanish Grand Prix,38.74,Dry,Williams,0,9,Williams,0,williams,catalunya,0
+2021,4,Catalunya,Spanish Grand Prix,38.74,Dry,Haas F1 Team,0,10,Haas F1 Team,0,haas,catalunya,0
+2021,5,Monte Carlo,Monaco Grand Prix,37.2,Dry,Red Bull,37,1,Red Bull,149,red_bull,monaco,0
+2021,5,Monte Carlo,Monaco Grand Prix,37.2,Dry,Mercedes,7,2,Mercedes,148,mercedes,monaco,0
+2021,5,Monte Carlo,Monaco Grand Prix,37.2,Dry,McLaren,15,3,McLaren,80,mclaren,monaco,0
+2021,5,Monte Carlo,Monaco Grand Prix,37.2,Dry,Ferrari,18,4,Ferrari,78,ferrari,monaco,0
+2021,5,Monte Carlo,Monaco Grand Prix,37.2,Dry,Aston Martin,14,5,Aston Martin,19,aston_martin,monaco,0
+2021,5,Monte Carlo,Monaco Grand Prix,37.2,Dry,AlphaTauri,8,6,AlphaTauri,18,alphatauri,monaco,0
+2021,5,Monte Carlo,Monaco Grand Prix,37.2,Dry,Alpine,2,7,Alpine,17,alpine,monaco,0
+2021,5,Monte Carlo,Monaco Grand Prix,37.2,Dry,Alfa Romeo,1,8,Alfa Romeo,1,alfa,monaco,0
+2021,5,Monte Carlo,Monaco Grand Prix,37.2,Dry,Williams,0,9,Williams,0,williams,monaco,0
+2021,5,Monte Carlo,Monaco Grand Prix,37.2,Dry,Haas F1 Team,0,10,Haas F1 Team,0,haas,monaco,0
+2021,6,Baku,Azerbaijan Grand Prix,47.14,Dry,Red Bull,25,1,Red Bull,174,red_bull,baku,0
+2021,6,Baku,Azerbaijan Grand Prix,47.14,Dry,Mercedes,0,2,Mercedes,148,mercedes,baku,0
+2021,6,Baku,Azerbaijan Grand Prix,47.14,Dry,Ferrari,16,3,Ferrari,94,ferrari,baku,0
+2021,6,Baku,Azerbaijan Grand Prix,47.14,Dry,McLaren,12,4,McLaren,92,mclaren,baku,0
+2021,6,Baku,Azerbaijan Grand Prix,47.14,Dry,AlphaTauri,21,5,AlphaTauri,39,alphatauri,baku,0
+2021,6,Baku,Azerbaijan Grand Prix,47.14,Dry,Aston Martin,18,6,Aston Martin,37,aston_martin,baku,0
+2021,6,Baku,Azerbaijan Grand Prix,47.14,Dry,Alpine,8,7,Alpine,25,alpine,baku,0
+2021,6,Baku,Azerbaijan Grand Prix,47.14,Dry,Alfa Romeo,1,8,Alfa Romeo,2,alfa,baku,0
+2021,6,Baku,Azerbaijan Grand Prix,47.14,Dry,Haas F1 Team,0,9,Haas F1 Team,0,haas,baku,0
+2021,6,Baku,Azerbaijan Grand Prix,47.14,Dry,Williams,0,10,Williams,0,williams,baku,0
+2021,7,Paul Ricard,French Grand Prix,40.93,Dry,Red Bull,41,1,Red Bull,215,red_bull,ricard,0
+2021,7,Paul Ricard,French Grand Prix,40.93,Dry,Mercedes,30,2,Mercedes,178,mercedes,ricard,0
+2021,7,Paul Ricard,French Grand Prix,40.93,Dry,McLaren,18,3,McLaren,110,mclaren,ricard,0
+2021,7,Paul Ricard,French Grand Prix,40.93,Dry,Ferrari,0,4,Ferrari,94,ferrari,ricard,0
+2021,7,Paul Ricard,French Grand Prix,40.93,Dry,AlphaTauri,6,5,AlphaTauri,45,alphatauri,ricard,0
+2021,7,Paul Ricard,French Grand Prix,40.93,Dry,Aston Martin,3,6,Aston Martin,40,aston_martin,ricard,0
+2021,7,Paul Ricard,French Grand Prix,40.93,Dry,Alpine,4,7,Alpine,29,alpine,ricard,0
+2021,7,Paul Ricard,French Grand Prix,40.93,Dry,Alfa Romeo,0,8,Alfa Romeo,2,alfa,ricard,0
+2021,7,Paul Ricard,French Grand Prix,40.93,Dry,Williams,0,9,Williams,0,williams,ricard,0
+2021,7,Paul Ricard,French Grand Prix,40.93,Dry,Haas F1 Team,0,10,Haas F1 Team,0,haas,ricard,0
+2021,8,Spielberg,Styrian Grand Prix,49.27,Rain,Red Bull,37,1,Red Bull,252,red_bull,red_bull_ring,0
+2021,8,Spielberg,Styrian Grand Prix,49.27,Rain,Mercedes,34,2,Mercedes,212,mercedes,red_bull_ring,0
+2021,8,Spielberg,Styrian Grand Prix,49.27,Rain,McLaren,10,3,McLaren,120,mclaren,red_bull_ring,0
+2021,8,Spielberg,Styrian Grand Prix,49.27,Rain,Ferrari,14,4,Ferrari,108,ferrari,red_bull_ring,0
+2021,8,Spielberg,Styrian Grand Prix,49.27,Rain,AlphaTauri,1,5,AlphaTauri,46,alphatauri,red_bull_ring,0
+2021,8,Spielberg,Styrian Grand Prix,49.27,Rain,Aston Martin,4,6,Aston Martin,44,aston_martin,red_bull_ring,0
+2021,8,Spielberg,Styrian Grand Prix,49.27,Rain,Alpine,2,7,Alpine,31,alpine,red_bull_ring,0
+2021,8,Spielberg,Styrian Grand Prix,49.27,Rain,Alfa Romeo,0,8,Alfa Romeo,2,alfa,red_bull_ring,0
+2021,8,Spielberg,Styrian Grand Prix,49.27,Rain,Williams,0,9,Williams,0,williams,red_bull_ring,0
+2021,8,Spielberg,Styrian Grand Prix,49.27,Rain,Haas F1 Team,0,10,Haas F1 Team,0,haas,red_bull_ring,0
+2021,9,Spielberg,Austrian Grand Prix,39.09,Rain,Red Bull,34,1,Red Bull,286,red_bull,red_bull_ring,0
+2021,9,Spielberg,Austrian Grand Prix,39.09,Rain,Mercedes,30,2,Mercedes,242,mercedes,red_bull_ring,0
+2021,9,Spielberg,Austrian Grand Prix,39.09,Rain,McLaren,21,3,McLaren,141,mclaren,red_bull_ring,0
+2021,9,Spielberg,Austrian Grand Prix,39.09,Rain,Ferrari,14,4,Ferrari,122,ferrari,red_bull_ring,0
+2021,9,Spielberg,Austrian Grand Prix,39.09,Rain,AlphaTauri,2,5,AlphaTauri,48,alphatauri,red_bull_ring,0
+2021,9,Spielberg,Austrian Grand Prix,39.09,Rain,Aston Martin,0,6,Aston Martin,44,aston_martin,red_bull_ring,0
+2021,9,Spielberg,Austrian Grand Prix,39.09,Rain,Alpine,1,7,Alpine,32,alpine,red_bull_ring,0
+2021,9,Spielberg,Austrian Grand Prix,39.09,Rain,Alfa Romeo,0,8,Alfa Romeo,2,alfa,red_bull_ring,0
+2021,9,Spielberg,Austrian Grand Prix,39.09,Rain,Williams,0,9,Williams,0,williams,red_bull_ring,0
+2021,9,Spielberg,Austrian Grand Prix,39.09,Rain,Haas F1 Team,0,10,Haas F1 Team,0,haas,red_bull_ring,0
+2021,10,Silverstone,British Grand Prix,45.95,Dry,Red Bull,3,1,Red Bull,289,red_bull,silverstone,0
+2021,10,Silverstone,British Grand Prix,45.95,Dry,Mercedes,43,2,Mercedes,285,mercedes,silverstone,0
+2021,10,Silverstone,British Grand Prix,45.95,Dry,McLaren,22,3,McLaren,163,mclaren,silverstone,0
+2021,10,Silverstone,British Grand Prix,45.95,Dry,Ferrari,26,4,Ferrari,148,ferrari,silverstone,0
+2021,10,Silverstone,British Grand Prix,45.95,Dry,AlphaTauri,1,5,AlphaTauri,49,alphatauri,silverstone,0
+2021,10,Silverstone,British Grand Prix,45.95,Dry,Aston Martin,4,6,Aston Martin,48,aston_martin,silverstone,0
+2021,10,Silverstone,British Grand Prix,45.95,Dry,Alpine,8,7,Alpine,40,alpine,silverstone,0
+2021,10,Silverstone,British Grand Prix,45.95,Dry,Alfa Romeo,0,8,Alfa Romeo,2,alfa,silverstone,0
+2021,10,Silverstone,British Grand Prix,45.95,Dry,Williams,0,9,Williams,0,williams,silverstone,0
+2021,10,Silverstone,British Grand Prix,45.95,Dry,Haas F1 Team,0,10,Haas F1 Team,0,haas,silverstone,0
+2021,11,Hungaroring,Hungarian Grand Prix,53.64,Rain,Mercedes,18,1,Mercedes,303,mercedes,hungaroring,0
+2021,11,Hungaroring,Hungarian Grand Prix,53.64,Rain,Red Bull,2,2,Red Bull,291,red_bull,hungaroring,0
+2021,11,Hungaroring,Hungarian Grand Prix,53.64,Rain,Ferrari,15,3,Ferrari,163,ferrari,hungaroring,0
+2021,11,Hungaroring,Hungarian Grand Prix,53.64,Rain,McLaren,0,4,McLaren,163,mclaren,hungaroring,0
+2021,11,Hungaroring,Hungarian Grand Prix,53.64,Rain,Alpine,37,5,Alpine,77,alpine,hungaroring,0
+2021,11,Hungaroring,Hungarian Grand Prix,53.64,Rain,AlphaTauri,19,6,AlphaTauri,68,alphatauri,hungaroring,0
+2021,11,Hungaroring,Hungarian Grand Prix,53.64,Rain,Aston Martin,0,7,Aston Martin,48,aston_martin,hungaroring,0
+2021,11,Hungaroring,Hungarian Grand Prix,53.64,Rain,Williams,10,8,Williams,10,williams,hungaroring,0
+2021,11,Hungaroring,Hungarian Grand Prix,53.64,Rain,Alfa Romeo,1,9,Alfa Romeo,3,alfa,hungaroring,0
+2021,11,Hungaroring,Hungarian Grand Prix,53.64,Rain,Haas F1 Team,0,10,Haas F1 Team,0,haas,hungaroring,0
+2021,12,Spa-Francorchamps,Belgian Grand Prix,17.46,Rain,Mercedes,7.5,1,Mercedes,310.5,mercedes,spa,0
+2021,12,Spa-Francorchamps,Belgian Grand Prix,17.46,Rain,Red Bull,12.5,2,Red Bull,303.5,red_bull,spa,0
+2021,12,Spa-Francorchamps,Belgian Grand Prix,17.46,Rain,McLaren,6,3,McLaren,169,mclaren,spa,0
+2021,12,Spa-Francorchamps,Belgian Grand Prix,17.46,Rain,Ferrari,2.5,4,Ferrari,165.5,ferrari,spa,0
+2021,12,Spa-Francorchamps,Belgian Grand Prix,17.46,Rain,Alpine,3,5,Alpine,80,alpine,spa,0
+2021,12,Spa-Francorchamps,Belgian Grand Prix,17.46,Rain,AlphaTauri,4,6,AlphaTauri,72,alphatauri,spa,0
+2021,12,Spa-Francorchamps,Belgian Grand Prix,17.46,Rain,Aston Martin,5,7,Aston Martin,53,aston_martin,spa,0
+2021,12,Spa-Francorchamps,Belgian Grand Prix,17.46,Rain,Williams,10,8,Williams,20,williams,spa,0
+2021,12,Spa-Francorchamps,Belgian Grand Prix,17.46,Rain,Alfa Romeo,0,9,Alfa Romeo,3,alfa,spa,0
+2021,12,Spa-Francorchamps,Belgian Grand Prix,17.46,Rain,Haas F1 Team,0,10,Haas F1 Team,0,haas,spa,0
+2021,13,Zandvoort,Dutch Grand Prix,32.1,Dry,Mercedes,34,1,Mercedes,344.5,mercedes,zandvoort,0
+2021,13,Zandvoort,Dutch Grand Prix,32.1,Dry,Red Bull,29,2,Red Bull,332.5,red_bull,zandvoort,0
+2021,13,Zandvoort,Dutch Grand Prix,32.1,Dry,Ferrari,16,3,Ferrari,181.5,ferrari,zandvoort,0
+2021,13,Zandvoort,Dutch Grand Prix,32.1,Dry,McLaren,1,4,McLaren,170,mclaren,zandvoort,0
+2021,13,Zandvoort,Dutch Grand Prix,32.1,Dry,Alpine,10,5,Alpine,90,alpine,zandvoort,0
+2021,13,Zandvoort,Dutch Grand Prix,32.1,Dry,AlphaTauri,12,6,AlphaTauri,84,alphatauri,zandvoort,0
+2021,13,Zandvoort,Dutch Grand Prix,32.1,Dry,Aston Martin,0,7,Aston Martin,53,aston_martin,zandvoort,0
+2021,13,Zandvoort,Dutch Grand Prix,32.1,Dry,Williams,0,8,Williams,20,williams,zandvoort,0
+2021,13,Zandvoort,Dutch Grand Prix,32.1,Dry,Alfa Romeo,0,9,Alfa Romeo,3,alfa,zandvoort,0
+2021,13,Zandvoort,Dutch Grand Prix,32.1,Dry,Haas F1 Team,0,10,Haas F1 Team,0,haas,zandvoort,0
+2021,14,Monza,Italian Grand Prix,39.52,Dry,Mercedes,18,1,Mercedes,362.5,mercedes,monza,0
+2021,14,Monza,Italian Grand Prix,39.52,Dry,Red Bull,12,2,Red Bull,344.5,red_bull,monza,0
+2021,14,Monza,Italian Grand Prix,39.52,Dry,McLaren,45,3,McLaren,215,mclaren,monza,0
+2021,14,Monza,Italian Grand Prix,39.52,Dry,Ferrari,20,4,Ferrari,201.5,ferrari,monza,0
+2021,14,Monza,Italian Grand Prix,39.52,Dry,Alpine,5,5,Alpine,95,alpine,monza,0
+2021,14,Monza,Italian Grand Prix,39.52,Dry,AlphaTauri,0,6,AlphaTauri,84,alphatauri,monza,0
+2021,14,Monza,Italian Grand Prix,39.52,Dry,Aston Martin,6,7,Aston Martin,59,aston_martin,monza,0
+2021,14,Monza,Italian Grand Prix,39.52,Dry,Williams,2,8,Williams,22,williams,monza,0
+2021,14,Monza,Italian Grand Prix,39.52,Dry,Alfa Romeo,0,9,Alfa Romeo,3,alfa,monza,0
+2021,14,Monza,Italian Grand Prix,39.52,Dry,Haas F1 Team,0,10,Haas F1 Team,0,haas,monza,0
+2021,15,Sochi,Russian Grand Prix,23.23,Rain,Mercedes,35,1,Mercedes,397.5,mercedes,sochi,0
+2021,15,Sochi,Russian Grand Prix,23.23,Rain,Red Bull,20,2,Red Bull,364.5,red_bull,sochi,0
+2021,15,Sochi,Russian Grand Prix,23.23,Rain,McLaren,19,3,McLaren,234,mclaren,sochi,0
+2021,15,Sochi,Russian Grand Prix,23.23,Rain,Ferrari,15,4,Ferrari,216.5,ferrari,sochi,0
+2021,15,Sochi,Russian Grand Prix,23.23,Rain,Alpine,8,5,Alpine,103,alpine,sochi,0
+2021,15,Sochi,Russian Grand Prix,23.23,Rain,AlphaTauri,0,6,AlphaTauri,84,alphatauri,sochi,0
+2021,15,Sochi,Russian Grand Prix,23.23,Rain,Aston Martin,0,7,Aston Martin,59,aston_martin,sochi,0
+2021,15,Sochi,Russian Grand Prix,23.23,Rain,Williams,1,8,Williams,23,williams,sochi,0
+2021,15,Sochi,Russian Grand Prix,23.23,Rain,Alfa Romeo,4,9,Alfa Romeo,7,alfa,sochi,0
+2021,15,Sochi,Russian Grand Prix,23.23,Rain,Haas F1 Team,0,10,Haas F1 Team,0,haas,sochi,0
+2021,16,Istanbul,Turkish Grand Prix,24.29,Rain,Mercedes,36,1,Mercedes,433.5,mercedes,istanbul,0
+2021,16,Istanbul,Turkish Grand Prix,24.29,Rain,Red Bull,33,2,Red Bull,397.5,red_bull,istanbul,0
+2021,16,Istanbul,Turkish Grand Prix,24.29,Rain,McLaren,6,3,McLaren,240,mclaren,istanbul,0
+2021,16,Istanbul,Turkish Grand Prix,24.29,Rain,Ferrari,16,4,Ferrari,232.5,ferrari,istanbul,0
+2021,16,Istanbul,Turkish Grand Prix,24.29,Rain,Alpine,1,5,Alpine,104,alpine,istanbul,0
+2021,16,Istanbul,Turkish Grand Prix,24.29,Rain,AlphaTauri,8,6,AlphaTauri,92,alphatauri,istanbul,0
+2021,16,Istanbul,Turkish Grand Prix,24.29,Rain,Aston Martin,2,7,Aston Martin,61,aston_martin,istanbul,0
+2021,16,Istanbul,Turkish Grand Prix,24.29,Rain,Williams,0,8,Williams,23,williams,istanbul,0
+2021,16,Istanbul,Turkish Grand Prix,24.29,Rain,Alfa Romeo,0,9,Alfa Romeo,7,alfa,istanbul,0
+2021,16,Istanbul,Turkish Grand Prix,24.29,Rain,Haas F1 Team,0,10,Haas F1 Team,0,haas,istanbul,0
+2021,17,Austin,United States Grand Prix,35.77,Rain,Mercedes,27,1,Mercedes,460.5,mercedes,americas,0
+2021,17,Austin,United States Grand Prix,35.77,Rain,Red Bull,40,2,Red Bull,437.5,red_bull,americas,0
+2021,17,Austin,United States Grand Prix,35.77,Rain,McLaren,14,3,McLaren,254,mclaren,americas,0
+2021,17,Austin,United States Grand Prix,35.77,Rain,Ferrari,18,4,Ferrari,250.5,ferrari,americas,0
+2021,17,Austin,United States Grand Prix,35.77,Rain,Alpine,0,5,Alpine,104,alpine,americas,0
+2021,17,Austin,United States Grand Prix,35.77,Rain,AlphaTauri,2,6,AlphaTauri,94,alphatauri,americas,0
+2021,17,Austin,United States Grand Prix,35.77,Rain,Aston Martin,1,7,Aston Martin,62,aston_martin,americas,0
+2021,17,Austin,United States Grand Prix,35.77,Rain,Williams,0,8,Williams,23,williams,americas,0
+2021,17,Austin,United States Grand Prix,35.77,Rain,Alfa Romeo,0,9,Alfa Romeo,7,alfa,americas,0
+2021,17,Austin,United States Grand Prix,35.77,Rain,Haas F1 Team,0,10,Haas F1 Team,0,haas,americas,0
+2021,18,Mexico City,Mexico City Grand Prix,42.12,Dry,Mercedes,18,1,Mercedes,478.5,mercedes,rodriguez,0
+2021,18,Mexico City,Mexico City Grand Prix,42.12,Dry,Red Bull,40,2,Red Bull,477.5,red_bull,rodriguez,0
+2021,18,Mexico City,Mexico City Grand Prix,42.12,Dry,Ferrari,18,3,Ferrari,268.5,ferrari,rodriguez,0
+2021,18,Mexico City,Mexico City Grand Prix,42.12,Dry,McLaren,1,4,McLaren,255,mclaren,rodriguez,0
+2021,18,Mexico City,Mexico City Grand Prix,42.12,Dry,Alpine,2,5,Alpine,106,alpine,rodriguez,0
+2021,18,Mexico City,Mexico City Grand Prix,42.12,Dry,AlphaTauri,12,6,AlphaTauri,106,alphatauri,rodriguez,0
+2021,18,Mexico City,Mexico City Grand Prix,42.12,Dry,Aston Martin,6,7,Aston Martin,68,aston_martin,rodriguez,0
+2021,18,Mexico City,Mexico City Grand Prix,42.12,Dry,Williams,0,8,Williams,23,williams,rodriguez,0
+2021,18,Mexico City,Mexico City Grand Prix,42.12,Dry,Alfa Romeo,4,9,Alfa Romeo,11,alfa,rodriguez,0
+2021,18,Mexico City,Mexico City Grand Prix,42.12,Dry,Haas F1 Team,0,10,Haas F1 Team,0,haas,rodriguez,0
+2021,19,Interlagos,São Paulo Grand Prix,38.72,Dry,Mercedes,43,1,Mercedes,521.5,mercedes,interlagos,0
+2021,19,Interlagos,São Paulo Grand Prix,38.72,Dry,Red Bull,33,2,Red Bull,510.5,red_bull,interlagos,0
+2021,19,Interlagos,São Paulo Grand Prix,38.72,Dry,Ferrari,19,3,Ferrari,287.5,ferrari,interlagos,0
+2021,19,Interlagos,São Paulo Grand Prix,38.72,Dry,McLaren,1,4,McLaren,256,mclaren,interlagos,0
+2021,19,Interlagos,São Paulo Grand Prix,38.72,Dry,Alpine,6,5,Alpine,112,alpine,interlagos,0
+2021,19,Interlagos,São Paulo Grand Prix,38.72,Dry,AlphaTauri,6,6,AlphaTauri,112,alphatauri,interlagos,0
+2021,19,Interlagos,São Paulo Grand Prix,38.72,Dry,Aston Martin,0,7,Aston Martin,68,aston_martin,interlagos,0
+2021,19,Interlagos,São Paulo Grand Prix,38.72,Dry,Williams,0,8,Williams,23,williams,interlagos,0
+2021,19,Interlagos,São Paulo Grand Prix,38.72,Dry,Alfa Romeo,0,9,Alfa Romeo,11,alfa,interlagos,0
+2021,19,Interlagos,São Paulo Grand Prix,38.72,Dry,Haas F1 Team,0,10,Haas F1 Team,0,haas,interlagos,0
+2021,20,Lusail,Qatar Grand Prix,33.66,Rain,Mercedes,25,1,Mercedes,546.5,mercedes,losail,0
+2021,20,Lusail,Qatar Grand Prix,33.66,Rain,Red Bull,31,2,Red Bull,541.5,red_bull,losail,0
+2021,20,Lusail,Qatar Grand Prix,33.66,Rain,Ferrari,10,3,Ferrari,297.5,ferrari,losail,0
+2021,20,Lusail,Qatar Grand Prix,33.66,Rain,McLaren,2,4,McLaren,258,mclaren,losail,0
+2021,20,Lusail,Qatar Grand Prix,33.66,Rain,Alpine,25,5,Alpine,137,alpine,losail,0
+2021,20,Lusail,Qatar Grand Prix,33.66,Rain,AlphaTauri,0,6,AlphaTauri,112,alphatauri,losail,0
+2021,20,Lusail,Qatar Grand Prix,33.66,Rain,Aston Martin,9,7,Aston Martin,77,aston_martin,losail,0
+2021,20,Lusail,Qatar Grand Prix,33.66,Rain,Williams,0,8,Williams,23,williams,losail,0
+2021,20,Lusail,Qatar Grand Prix,33.66,Rain,Alfa Romeo,0,9,Alfa Romeo,11,alfa,losail,0
+2021,20,Lusail,Qatar Grand Prix,33.66,Rain,Haas F1 Team,0,10,Haas F1 Team,0,haas,losail,0
+2021,21,Jeddah,Saudi Arabian Grand Prix,32.42,Dry,Mercedes,41,1,Mercedes,587.5,mercedes,jeddah,0
+2021,21,Jeddah,Saudi Arabian Grand Prix,32.42,Dry,Red Bull,18,2,Red Bull,559.5,red_bull,jeddah,0
+2021,21,Jeddah,Saudi Arabian Grand Prix,32.42,Dry,Ferrari,10,3,Ferrari,307.5,ferrari,jeddah,0
+2021,21,Jeddah,Saudi Arabian Grand Prix,32.42,Dry,McLaren,11,4,McLaren,269,mclaren,jeddah,0
+2021,21,Jeddah,Saudi Arabian Grand Prix,32.42,Dry,Alpine,12,5,Alpine,149,alpine,jeddah,0
+2021,21,Jeddah,Saudi Arabian Grand Prix,32.42,Dry,AlphaTauri,8,6,AlphaTauri,120,alphatauri,jeddah,0
+2021,21,Jeddah,Saudi Arabian Grand Prix,32.42,Dry,Aston Martin,0,7,Aston Martin,77,aston_martin,jeddah,0
+2021,21,Jeddah,Saudi Arabian Grand Prix,32.42,Dry,Williams,0,8,Williams,23,williams,jeddah,0
+2021,21,Jeddah,Saudi Arabian Grand Prix,32.42,Dry,Alfa Romeo,2,9,Alfa Romeo,13,alfa,jeddah,0
+2021,21,Jeddah,Saudi Arabian Grand Prix,32.42,Dry,Haas F1 Team,0,10,Haas F1 Team,0,haas,jeddah,0
+2021,22,Yas Marina Circuit,Abu Dhabi Grand Prix,33.06,Dry,Mercedes,26,1,Mercedes,613.5,mercedes,yas_marina,0
+2021,22,Yas Marina Circuit,Abu Dhabi Grand Prix,33.06,Dry,Red Bull,26,2,Red Bull,585.5,red_bull,yas_marina,0
+2021,22,Yas Marina Circuit,Abu Dhabi Grand Prix,33.06,Dry,Ferrari,16,3,Ferrari,323.5,ferrari,yas_marina,0
+2021,22,Yas Marina Circuit,Abu Dhabi Grand Prix,33.06,Dry,McLaren,6,4,McLaren,275,mclaren,yas_marina,0
+2021,22,Yas Marina Circuit,Abu Dhabi Grand Prix,33.06,Dry,Alpine,6,5,Alpine,155,alpine,yas_marina,0
+2021,22,Yas Marina Circuit,Abu Dhabi Grand Prix,33.06,Dry,AlphaTauri,22,6,AlphaTauri,142,alphatauri,yas_marina,0
+2021,22,Yas Marina Circuit,Abu Dhabi Grand Prix,33.06,Dry,Aston Martin,0,7,Aston Martin,77,aston_martin,yas_marina,0
+2021,22,Yas Marina Circuit,Abu Dhabi Grand Prix,33.06,Dry,Williams,0,8,Williams,23,williams,yas_marina,0
+2021,22,Yas Marina Circuit,Abu Dhabi Grand Prix,33.06,Dry,Alfa Romeo,0,9,Alfa Romeo,13,alfa,yas_marina,0
+2021,22,Yas Marina Circuit,Abu Dhabi Grand Prix,33.06,Dry,Haas F1 Team,0,10,Haas F1 Team,0,haas,yas_marina,0
+2022,1,Sakhir,Bahrain Grand Prix,29.8,Rain,Ferrari,44,1,Ferrari,44,ferrari,bahrain,0
+2022,1,Sakhir,Bahrain Grand Prix,29.8,Rain,Mercedes,27,2,Mercedes,27,mercedes,bahrain,0
+2022,1,Sakhir,Bahrain Grand Prix,29.8,Rain,Haas F1 Team,10,3,Haas F1 Team,10,haas,bahrain,0
+2022,1,Sakhir,Bahrain Grand Prix,29.8,Rain,Alfa Romeo,9,4,Alfa Romeo,9,alfa,bahrain,0
+2022,1,Sakhir,Bahrain Grand Prix,29.8,Rain,Alpine,8,5,Alpine,8,alpine,bahrain,0
+2022,1,Sakhir,Bahrain Grand Prix,29.8,Rain,AlphaTauri,4,6,AlphaTauri,4,alphatauri,bahrain,0
+2022,1,Sakhir,Bahrain Grand Prix,29.8,Rain,Aston Martin,0,7,Aston Martin,0,aston_martin,bahrain,0
+2022,1,Sakhir,Bahrain Grand Prix,29.8,Rain,Williams,0,8,Williams,0,williams,bahrain,0
+2022,1,Sakhir,Bahrain Grand Prix,29.8,Rain,McLaren,0,9,McLaren,0,mclaren,bahrain,0
+2022,1,Sakhir,Bahrain Grand Prix,29.8,Rain,Red Bull,0,10,Red Bull,0,red_bull,bahrain,0
+2022,2,Jeddah,Saudi Arabian Grand Prix,26.79,Dry,Ferrari,34,1,Ferrari,78,ferrari,jeddah,0
+2022,2,Jeddah,Saudi Arabian Grand Prix,26.79,Dry,Mercedes,11,2,Mercedes,38,mercedes,jeddah,0
+2022,2,Jeddah,Saudi Arabian Grand Prix,26.79,Dry,Red Bull,37,3,Red Bull,37,red_bull,jeddah,0
+2022,2,Jeddah,Saudi Arabian Grand Prix,26.79,Dry,Alpine,8,4,Alpine,16,alpine,jeddah,0
+2022,2,Jeddah,Saudi Arabian Grand Prix,26.79,Dry,Haas F1 Team,2,5,Haas F1 Team,12,haas,jeddah,0
+2022,2,Jeddah,Saudi Arabian Grand Prix,26.79,Dry,Alfa Romeo,0,6,Alfa Romeo,9,alfa,jeddah,0
+2022,2,Jeddah,Saudi Arabian Grand Prix,26.79,Dry,AlphaTauri,4,7,AlphaTauri,8,alphatauri,jeddah,0
+2022,2,Jeddah,Saudi Arabian Grand Prix,26.79,Dry,McLaren,6,8,McLaren,6,mclaren,jeddah,0
+2022,2,Jeddah,Saudi Arabian Grand Prix,26.79,Dry,Aston Martin,0,9,Aston Martin,0,aston_martin,jeddah,0
+2022,2,Jeddah,Saudi Arabian Grand Prix,26.79,Dry,Williams,0,10,Williams,0,williams,jeddah,0
+2022,3,Melbourne,Australian Grand Prix,33.28,Dry,Ferrari,26,1,Ferrari,104,ferrari,albert_park,0
+2022,3,Melbourne,Australian Grand Prix,33.28,Dry,Mercedes,27,2,Mercedes,65,mercedes,albert_park,0
+2022,3,Melbourne,Australian Grand Prix,33.28,Dry,Red Bull,18,3,Red Bull,55,red_bull,albert_park,0
+2022,3,Melbourne,Australian Grand Prix,33.28,Dry,McLaren,18,4,McLaren,24,mclaren,albert_park,0
+2022,3,Melbourne,Australian Grand Prix,33.28,Dry,Alpine,6,5,Alpine,22,alpine,albert_park,0
+2022,3,Melbourne,Australian Grand Prix,33.28,Dry,Alfa Romeo,4,6,Alfa Romeo,13,alfa,albert_park,0
+2022,3,Melbourne,Australian Grand Prix,33.28,Dry,Haas F1 Team,0,7,Haas F1 Team,12,haas,albert_park,0
+2022,3,Melbourne,Australian Grand Prix,33.28,Dry,AlphaTauri,2,8,AlphaTauri,10,alphatauri,albert_park,0
+2022,3,Melbourne,Australian Grand Prix,33.28,Dry,Williams,1,9,Williams,1,williams,albert_park,0
+2022,3,Melbourne,Australian Grand Prix,33.28,Dry,Aston Martin,0,10,Aston Martin,0,aston_martin,albert_park,0
+2022,4,Imola,Emilia Romagna Grand Prix,22.58,Rain,Ferrari,20,1,Ferrari,124,ferrari,imola,0
+2022,4,Imola,Emilia Romagna Grand Prix,22.58,Rain,Red Bull,58,2,Red Bull,113,red_bull,imola,0
+2022,4,Imola,Emilia Romagna Grand Prix,22.58,Rain,Mercedes,12,3,Mercedes,77,mercedes,imola,0
+2022,4,Imola,Emilia Romagna Grand Prix,22.58,Rain,McLaren,22,4,McLaren,46,mclaren,imola,0
+2022,4,Imola,Emilia Romagna Grand Prix,22.58,Rain,Alfa Romeo,12,5,Alfa Romeo,25,alfa,imola,0
+2022,4,Imola,Emilia Romagna Grand Prix,22.58,Rain,Alpine,0,6,Alpine,22,alpine,imola,0
+2022,4,Imola,Emilia Romagna Grand Prix,22.58,Rain,AlphaTauri,6,7,AlphaTauri,16,alphatauri,imola,0
+2022,4,Imola,Emilia Romagna Grand Prix,22.58,Rain,Haas F1 Team,3,8,Haas F1 Team,15,haas,imola,0
+2022,4,Imola,Emilia Romagna Grand Prix,22.58,Rain,Aston Martin,5,9,Aston Martin,5,aston_martin,imola,0
+2022,4,Imola,Emilia Romagna Grand Prix,22.58,Rain,Williams,0,10,Williams,1,williams,imola,0
+2022,5,Miami,Miami Grand Prix,47.29,Rain,Ferrari,33,1,Ferrari,157,ferrari,miami,0
+2022,5,Miami,Miami Grand Prix,47.29,Rain,Red Bull,38,2,Red Bull,151,red_bull,miami,0
+2022,5,Miami,Miami Grand Prix,47.29,Rain,Mercedes,18,3,Mercedes,95,mercedes,miami,0
+2022,5,Miami,Miami Grand Prix,47.29,Rain,McLaren,0,4,McLaren,46,mclaren,miami,0
+2022,5,Miami,Miami Grand Prix,47.29,Rain,Alfa Romeo,6,5,Alfa Romeo,31,alfa,miami,0
+2022,5,Miami,Miami Grand Prix,47.29,Rain,Alpine,4,6,Alpine,26,alpine,miami,0
+2022,5,Miami,Miami Grand Prix,47.29,Rain,AlphaTauri,0,7,AlphaTauri,16,alphatauri,miami,0
+2022,5,Miami,Miami Grand Prix,47.29,Rain,Haas F1 Team,0,8,Haas F1 Team,15,haas,miami,0
+2022,5,Miami,Miami Grand Prix,47.29,Rain,Aston Martin,1,9,Aston Martin,6,aston_martin,miami,0
+2022,5,Miami,Miami Grand Prix,47.29,Rain,Williams,2,10,Williams,3,williams,miami,0
+2022,6,Catalunya,Spanish Grand Prix,45.96,Dry,Red Bull,44,1,Red Bull,195,red_bull,catalunya,0
+2022,6,Catalunya,Spanish Grand Prix,45.96,Dry,Ferrari,12,2,Ferrari,169,ferrari,catalunya,0
+2022,6,Catalunya,Spanish Grand Prix,45.96,Dry,Mercedes,25,3,Mercedes,120,mercedes,catalunya,0
+2022,6,Catalunya,Spanish Grand Prix,45.96,Dry,McLaren,4,4,McLaren,50,mclaren,catalunya,0
+2022,6,Catalunya,Spanish Grand Prix,45.96,Dry,Alfa Romeo,8,5,Alfa Romeo,39,alfa,catalunya,0
+2022,6,Catalunya,Spanish Grand Prix,45.96,Dry,Alpine,8,6,Alpine,34,alpine,catalunya,0
+2022,6,Catalunya,Spanish Grand Prix,45.96,Dry,AlphaTauri,1,7,AlphaTauri,17,alphatauri,catalunya,0
+2022,6,Catalunya,Spanish Grand Prix,45.96,Dry,Haas F1 Team,0,8,Haas F1 Team,15,haas,catalunya,0
+2022,6,Catalunya,Spanish Grand Prix,45.96,Dry,Aston Martin,0,9,Aston Martin,6,aston_martin,catalunya,0
+2022,6,Catalunya,Spanish Grand Prix,45.96,Dry,Williams,0,10,Williams,3,williams,catalunya,0
+2022,7,Monte Carlo,Monaco Grand Prix,47.05,Rain,Red Bull,40,1,Red Bull,235,red_bull,monaco,0
+2022,7,Monte Carlo,Monaco Grand Prix,47.05,Rain,Ferrari,30,2,Ferrari,199,ferrari,monaco,0
+2022,7,Monte Carlo,Monaco Grand Prix,47.05,Rain,Mercedes,14,3,Mercedes,134,mercedes,monaco,0
+2022,7,Monte Carlo,Monaco Grand Prix,47.05,Rain,McLaren,9,4,McLaren,59,mclaren,monaco,0
+2022,7,Monte Carlo,Monaco Grand Prix,47.05,Rain,Alfa Romeo,2,5,Alfa Romeo,41,alfa,monaco,0
+2022,7,Monte Carlo,Monaco Grand Prix,47.05,Rain,Alpine,6,6,Alpine,40,alpine,monaco,0
+2022,7,Monte Carlo,Monaco Grand Prix,47.05,Rain,AlphaTauri,0,7,AlphaTauri,17,alphatauri,monaco,0
+2022,7,Monte Carlo,Monaco Grand Prix,47.05,Rain,Haas F1 Team,0,8,Haas F1 Team,15,haas,monaco,0
+2022,7,Monte Carlo,Monaco Grand Prix,47.05,Rain,Aston Martin,1,9,Aston Martin,7,aston_martin,monaco,0
+2022,7,Monte Carlo,Monaco Grand Prix,47.05,Rain,Williams,0,10,Williams,3,williams,monaco,0
+2022,8,Baku,Azerbaijan Grand Prix,40.94,Dry,Red Bull,44,1,Red Bull,279,red_bull,baku,0
+2022,8,Baku,Azerbaijan Grand Prix,40.94,Dry,Ferrari,0,2,Ferrari,199,ferrari,baku,0
+2022,8,Baku,Azerbaijan Grand Prix,40.94,Dry,Mercedes,27,3,Mercedes,161,mercedes,baku,0
+2022,8,Baku,Azerbaijan Grand Prix,40.94,Dry,McLaren,6,4,McLaren,65,mclaren,baku,0
+2022,8,Baku,Azerbaijan Grand Prix,40.94,Dry,Alpine,7,5,Alpine,47,alpine,baku,0
+2022,8,Baku,Azerbaijan Grand Prix,40.94,Dry,Alfa Romeo,0,6,Alfa Romeo,41,alfa,baku,0
+2022,8,Baku,Azerbaijan Grand Prix,40.94,Dry,AlphaTauri,10,7,AlphaTauri,27,alphatauri,baku,0
+2022,8,Baku,Azerbaijan Grand Prix,40.94,Dry,Haas F1 Team,0,8,Haas F1 Team,15,haas,baku,0
+2022,8,Baku,Azerbaijan Grand Prix,40.94,Dry,Aston Martin,8,9,Aston Martin,15,aston_martin,baku,0
+2022,8,Baku,Azerbaijan Grand Prix,40.94,Dry,Williams,0,10,Williams,3,williams,baku,0
+2022,9,Montreal,Canadian Grand Prix,31.48,Rain,Red Bull,25,1,Red Bull,304,red_bull,villeneuve,0
+2022,9,Montreal,Canadian Grand Prix,31.48,Rain,Ferrari,29,2,Ferrari,228,ferrari,villeneuve,0
+2022,9,Montreal,Canadian Grand Prix,31.48,Rain,Mercedes,27,3,Mercedes,188,mercedes,villeneuve,0
+2022,9,Montreal,Canadian Grand Prix,31.48,Rain,McLaren,0,4,McLaren,65,mclaren,villeneuve,0
+2022,9,Montreal,Canadian Grand Prix,31.48,Rain,Alpine,10,5,Alpine,57,alpine,villeneuve,0
+2022,9,Montreal,Canadian Grand Prix,31.48,Rain,Alfa Romeo,10,6,Alfa Romeo,51,alfa,villeneuve,0
+2022,9,Montreal,Canadian Grand Prix,31.48,Rain,AlphaTauri,0,7,AlphaTauri,27,alphatauri,villeneuve,0
+2022,9,Montreal,Canadian Grand Prix,31.48,Rain,Aston Martin,1,8,Aston Martin,16,aston_martin,villeneuve,0
+2022,9,Montreal,Canadian Grand Prix,31.48,Rain,Haas F1 Team,0,9,Haas F1 Team,15,haas,villeneuve,0
+2022,9,Montreal,Canadian Grand Prix,31.48,Rain,Williams,0,10,Williams,3,williams,villeneuve,0
+2022,10,Silverstone,British Grand Prix,26.21,Rain,Red Bull,24,1,Red Bull,328,red_bull,silverstone,0
+2022,10,Silverstone,British Grand Prix,26.21,Rain,Ferrari,37,2,Ferrari,265,ferrari,silverstone,0
+2022,10,Silverstone,British Grand Prix,26.21,Rain,Mercedes,16,3,Mercedes,204,mercedes,silverstone,0
+2022,10,Silverstone,British Grand Prix,26.21,Rain,McLaren,8,4,McLaren,73,mclaren,silverstone,0
+2022,10,Silverstone,British Grand Prix,26.21,Rain,Alpine,10,5,Alpine,67,alpine,silverstone,0
+2022,10,Silverstone,British Grand Prix,26.21,Rain,Alfa Romeo,0,6,Alfa Romeo,51,alfa,silverstone,0
+2022,10,Silverstone,British Grand Prix,26.21,Rain,AlphaTauri,0,7,AlphaTauri,27,alphatauri,silverstone,0
+2022,10,Silverstone,British Grand Prix,26.21,Rain,Haas F1 Team,5,8,Haas F1 Team,20,haas,silverstone,0
+2022,10,Silverstone,British Grand Prix,26.21,Rain,Aston Martin,2,9,Aston Martin,18,aston_martin,silverstone,0
+2022,10,Silverstone,British Grand Prix,26.21,Rain,Williams,0,10,Williams,3,williams,silverstone,0
+2022,11,Spielberg,Austrian Grand Prix,34.9,Dry,Red Bull,31,1,Red Bull,359,red_bull,red_bull_ring,0
+2022,11,Spielberg,Austrian Grand Prix,34.9,Dry,Ferrari,38,2,Ferrari,303,ferrari,red_bull_ring,0
+2022,11,Spielberg,Austrian Grand Prix,34.9,Dry,Mercedes,33,3,Mercedes,237,mercedes,red_bull_ring,0
+2022,11,Spielberg,Austrian Grand Prix,34.9,Dry,McLaren,8,4,McLaren,81,mclaren,red_bull_ring,0
+2022,11,Spielberg,Austrian Grand Prix,34.9,Dry,Alpine,14,5,Alpine,81,alpine,red_bull_ring,0
+2022,11,Spielberg,Austrian Grand Prix,34.9,Dry,Alfa Romeo,0,6,Alfa Romeo,51,alfa,red_bull_ring,0
+2022,11,Spielberg,Austrian Grand Prix,34.9,Dry,Haas F1 Team,14,7,Haas F1 Team,34,haas,red_bull_ring,0
+2022,11,Spielberg,Austrian Grand Prix,34.9,Dry,AlphaTauri,0,8,AlphaTauri,27,alphatauri,red_bull_ring,0
+2022,11,Spielberg,Austrian Grand Prix,34.9,Dry,Aston Martin,0,9,Aston Martin,18,aston_martin,red_bull_ring,0
+2022,11,Spielberg,Austrian Grand Prix,34.9,Dry,Williams,0,10,Williams,3,williams,red_bull_ring,0
+2022,12,Paul Ricard,French Grand Prix,54.47,Dry,Red Bull,37,1,Red Bull,396,red_bull,ricard,0
+2022,12,Paul Ricard,French Grand Prix,54.47,Dry,Ferrari,11,2,Ferrari,314,ferrari,ricard,0
+2022,12,Paul Ricard,French Grand Prix,54.47,Dry,Mercedes,33,3,Mercedes,270,mercedes,ricard,0
+2022,12,Paul Ricard,French Grand Prix,54.47,Dry,Alpine,12,4,Alpine,93,alpine,ricard,0
+2022,12,Paul Ricard,French Grand Prix,54.47,Dry,McLaren,8,5,McLaren,89,mclaren,ricard,0
+2022,12,Paul Ricard,French Grand Prix,54.47,Dry,Alfa Romeo,0,6,Alfa Romeo,51,alfa,ricard,0
+2022,12,Paul Ricard,French Grand Prix,54.47,Dry,Haas F1 Team,0,7,Haas F1 Team,34,haas,ricard,0
+2022,12,Paul Ricard,French Grand Prix,54.47,Dry,AlphaTauri,0,8,AlphaTauri,27,alphatauri,ricard,0
+2022,12,Paul Ricard,French Grand Prix,54.47,Dry,Aston Martin,1,9,Aston Martin,19,aston_martin,ricard,0
+2022,12,Paul Ricard,French Grand Prix,54.47,Dry,Williams,0,10,Williams,3,williams,ricard,0
+2022,13,Hungaroring,Hungarian Grand Prix,35.83,Rain,Red Bull,35,1,Red Bull,431,red_bull,hungaroring,0
+2022,13,Hungaroring,Hungarian Grand Prix,35.83,Rain,Ferrari,20,2,Ferrari,334,ferrari,hungaroring,0
+2022,13,Hungaroring,Hungarian Grand Prix,35.83,Rain,Mercedes,34,3,Mercedes,304,mercedes,hungaroring,0
+2022,13,Hungaroring,Hungarian Grand Prix,35.83,Rain,Alpine,6,4,Alpine,99,alpine,hungaroring,0
+2022,13,Hungaroring,Hungarian Grand Prix,35.83,Rain,McLaren,6,5,McLaren,95,mclaren,hungaroring,0
+2022,13,Hungaroring,Hungarian Grand Prix,35.83,Rain,Alfa Romeo,0,6,Alfa Romeo,51,alfa,hungaroring,0
+2022,13,Hungaroring,Hungarian Grand Prix,35.83,Rain,Haas F1 Team,0,7,Haas F1 Team,34,haas,hungaroring,0
+2022,13,Hungaroring,Hungarian Grand Prix,35.83,Rain,AlphaTauri,0,8,AlphaTauri,27,alphatauri,hungaroring,0
+2022,13,Hungaroring,Hungarian Grand Prix,35.83,Rain,Aston Martin,1,9,Aston Martin,20,aston_martin,hungaroring,0
+2022,13,Hungaroring,Hungarian Grand Prix,35.83,Rain,Williams,0,10,Williams,3,williams,hungaroring,0
+2022,14,Spa-Francorchamps,Belgian Grand Prix,24.01,Rain,Red Bull,44,1,Red Bull,475,red_bull,spa,0
+2022,14,Spa-Francorchamps,Belgian Grand Prix,24.01,Rain,Ferrari,23,2,Ferrari,357,ferrari,spa,0
+2022,14,Spa-Francorchamps,Belgian Grand Prix,24.01,Rain,Mercedes,12,3,Mercedes,316,mercedes,spa,0
+2022,14,Spa-Francorchamps,Belgian Grand Prix,24.01,Rain,Alpine,16,4,Alpine,115,alpine,spa,0
+2022,14,Spa-Francorchamps,Belgian Grand Prix,24.01,Rain,McLaren,0,5,McLaren,95,mclaren,spa,0
+2022,14,Spa-Francorchamps,Belgian Grand Prix,24.01,Rain,Alfa Romeo,0,6,Alfa Romeo,51,alfa,spa,0
+2022,14,Spa-Francorchamps,Belgian Grand Prix,24.01,Rain,Haas F1 Team,0,7,Haas F1 Team,34,haas,spa,0
+2022,14,Spa-Francorchamps,Belgian Grand Prix,24.01,Rain,AlphaTauri,2,8,AlphaTauri,29,alphatauri,spa,0
+2022,14,Spa-Francorchamps,Belgian Grand Prix,24.01,Rain,Aston Martin,4,9,Aston Martin,24,aston_martin,spa,0
+2022,14,Spa-Francorchamps,Belgian Grand Prix,24.01,Rain,Williams,1,10,Williams,4,williams,spa,0
+2022,15,Zandvoort,Dutch Grand Prix,34.23,Dry,Red Bull,36,1,Red Bull,511,red_bull,zandvoort,0
+2022,15,Zandvoort,Dutch Grand Prix,34.23,Dry,Ferrari,19,2,Ferrari,376,ferrari,zandvoort,0
+2022,15,Zandvoort,Dutch Grand Prix,34.23,Dry,Mercedes,30,3,Mercedes,346,mercedes,zandvoort,0
+2022,15,Zandvoort,Dutch Grand Prix,34.23,Dry,Alpine,10,4,Alpine,125,alpine,zandvoort,0
+2022,15,Zandvoort,Dutch Grand Prix,34.23,Dry,McLaren,6,5,McLaren,101,mclaren,zandvoort,0
+2022,15,Zandvoort,Dutch Grand Prix,34.23,Dry,Alfa Romeo,0,6,Alfa Romeo,51,alfa,zandvoort,0
+2022,15,Zandvoort,Dutch Grand Prix,34.23,Dry,Haas F1 Team,0,7,Haas F1 Team,34,haas,zandvoort,0
+2022,15,Zandvoort,Dutch Grand Prix,34.23,Dry,AlphaTauri,0,8,AlphaTauri,29,alphatauri,zandvoort,0
+2022,15,Zandvoort,Dutch Grand Prix,34.23,Dry,Aston Martin,1,9,Aston Martin,25,aston_martin,zandvoort,0
+2022,15,Zandvoort,Dutch Grand Prix,34.23,Dry,Williams,0,10,Williams,4,williams,zandvoort,0
+2022,16,Monza,Italian Grand Prix,39.65,Dry,Red Bull,34,1,Red Bull,545,red_bull,monza,0
+2022,16,Monza,Italian Grand Prix,39.65,Dry,Ferrari,30,2,Ferrari,406,ferrari,monza,0
+2022,16,Monza,Italian Grand Prix,39.65,Dry,Mercedes,25,3,Mercedes,371,mercedes,monza,0
+2022,16,Monza,Italian Grand Prix,39.65,Dry,Alpine,0,4,Alpine,125,alpine,monza,0
+2022,16,Monza,Italian Grand Prix,39.65,Dry,McLaren,6,5,McLaren,107,mclaren,monza,0
+2022,16,Monza,Italian Grand Prix,39.65,Dry,Alfa Romeo,1,6,Alfa Romeo,52,alfa,monza,0
+2022,16,Monza,Italian Grand Prix,39.65,Dry,Haas F1 Team,0,7,Haas F1 Team,34,haas,monza,0
+2022,16,Monza,Italian Grand Prix,39.65,Dry,AlphaTauri,4,8,AlphaTauri,33,alphatauri,monza,0
+2022,16,Monza,Italian Grand Prix,39.65,Dry,Aston Martin,0,9,Aston Martin,25,aston_martin,monza,0
+2022,16,Monza,Italian Grand Prix,39.65,Dry,Williams,2,10,Williams,6,williams,monza,0
+2022,17,Singapore,Singapore Grand Prix,31.1,Rain,Red Bull,31,1,Red Bull,576,red_bull,marina_bay,0
+2022,17,Singapore,Singapore Grand Prix,31.1,Rain,Ferrari,33,2,Ferrari,439,ferrari,marina_bay,0
+2022,17,Singapore,Singapore Grand Prix,31.1,Rain,Mercedes,2,3,Mercedes,373,mercedes,marina_bay,0
+2022,17,Singapore,Singapore Grand Prix,31.1,Rain,McLaren,22,4,McLaren,129,mclaren,marina_bay,0
+2022,17,Singapore,Singapore Grand Prix,31.1,Rain,Alpine,0,5,Alpine,125,alpine,marina_bay,0
+2022,17,Singapore,Singapore Grand Prix,31.1,Rain,Alfa Romeo,0,6,Alfa Romeo,52,alfa,marina_bay,0
+2022,17,Singapore,Singapore Grand Prix,31.1,Rain,Aston Martin,12,7,Aston Martin,37,aston_martin,marina_bay,0
+2022,17,Singapore,Singapore Grand Prix,31.1,Rain,Haas F1 Team,0,8,Haas F1 Team,34,haas,marina_bay,0
+2022,17,Singapore,Singapore Grand Prix,31.1,Rain,AlphaTauri,1,9,AlphaTauri,34,alphatauri,marina_bay,0
+2022,17,Singapore,Singapore Grand Prix,31.1,Rain,Williams,0,10,Williams,6,williams,marina_bay,0
+2022,18,Suzuka,Japanese Grand Prix,23.04,Rain,Red Bull,43,1,Red Bull,619,red_bull,suzuka,0
+2022,18,Suzuka,Japanese Grand Prix,23.04,Rain,Ferrari,15,2,Ferrari,454,ferrari,suzuka,0
+2022,18,Suzuka,Japanese Grand Prix,23.04,Rain,Mercedes,14,3,Mercedes,387,mercedes,suzuka,0
+2022,18,Suzuka,Japanese Grand Prix,23.04,Rain,Alpine,18,4,Alpine,143,alpine,suzuka,0
+2022,18,Suzuka,Japanese Grand Prix,23.04,Rain,McLaren,1,5,McLaren,130,mclaren,suzuka,0
+2022,18,Suzuka,Japanese Grand Prix,23.04,Rain,Alfa Romeo,0,6,Alfa Romeo,52,alfa,suzuka,0
+2022,18,Suzuka,Japanese Grand Prix,23.04,Rain,Aston Martin,8,7,Aston Martin,45,aston_martin,suzuka,0
+2022,18,Suzuka,Japanese Grand Prix,23.04,Rain,Haas F1 Team,0,8,Haas F1 Team,34,haas,suzuka,0
+2022,18,Suzuka,Japanese Grand Prix,23.04,Rain,AlphaTauri,0,9,AlphaTauri,34,alphatauri,suzuka,0
+2022,18,Suzuka,Japanese Grand Prix,23.04,Rain,Williams,2,10,Williams,8,williams,suzuka,0
+2022,19,Austin,United States Grand Prix,36.97,Dry,Red Bull,37,1,Red Bull,656,red_bull,americas,0
+2022,19,Austin,United States Grand Prix,36.97,Dry,Ferrari,15,2,Ferrari,469,ferrari,americas,0
+2022,19,Austin,United States Grand Prix,36.97,Dry,Mercedes,29,3,Mercedes,416,mercedes,americas,0
+2022,19,Austin,United States Grand Prix,36.97,Dry,Alpine,6,4,Alpine,149,alpine,americas,0
+2022,19,Austin,United States Grand Prix,36.97,Dry,McLaren,8,5,McLaren,138,mclaren,americas,0
+2022,19,Austin,United States Grand Prix,36.97,Dry,Alfa Romeo,0,6,Alfa Romeo,52,alfa,americas,0
+2022,19,Austin,United States Grand Prix,36.97,Dry,Aston Martin,4,7,Aston Martin,49,aston_martin,americas,0
+2022,19,Austin,United States Grand Prix,36.97,Dry,Haas F1 Team,2,8,Haas F1 Team,36,haas,americas,0
+2022,19,Austin,United States Grand Prix,36.97,Dry,AlphaTauri,1,9,AlphaTauri,35,alphatauri,americas,0
+2022,19,Austin,United States Grand Prix,36.97,Dry,Williams,0,10,Williams,8,williams,americas,0
+2022,20,Mexico City,Mexico City Grand Prix,42.16,Dry,Red Bull,40,1,Red Bull,696,red_bull,rodriguez,0
+2022,20,Mexico City,Mexico City Grand Prix,42.16,Dry,Ferrari,18,2,Ferrari,487,ferrari,rodriguez,0
+2022,20,Mexico City,Mexico City Grand Prix,42.16,Dry,Mercedes,31,3,Mercedes,447,mercedes,rodriguez,0
+2022,20,Mexico City,Mexico City Grand Prix,42.16,Dry,Alpine,4,4,Alpine,153,alpine,rodriguez,0
+2022,20,Mexico City,Mexico City Grand Prix,42.16,Dry,McLaren,8,5,McLaren,146,mclaren,rodriguez,0
+2022,20,Mexico City,Mexico City Grand Prix,42.16,Dry,Alfa Romeo,1,6,Alfa Romeo,53,alfa,rodriguez,0
+2022,20,Mexico City,Mexico City Grand Prix,42.16,Dry,Aston Martin,0,7,Aston Martin,49,aston_martin,rodriguez,0
+2022,20,Mexico City,Mexico City Grand Prix,42.16,Dry,Haas F1 Team,0,8,Haas F1 Team,36,haas,rodriguez,0
+2022,20,Mexico City,Mexico City Grand Prix,42.16,Dry,AlphaTauri,0,9,AlphaTauri,35,alphatauri,rodriguez,0
+2022,20,Mexico City,Mexico City Grand Prix,42.16,Dry,Williams,0,10,Williams,8,williams,rodriguez,0
+2022,21,Interlagos,São Paulo Grand Prix,40.43,Rain,Red Bull,23,1,Red Bull,719,red_bull,interlagos,0
+2022,21,Interlagos,São Paulo Grand Prix,40.43,Rain,Ferrari,37,2,Ferrari,524,ferrari,interlagos,0
+2022,21,Interlagos,São Paulo Grand Prix,40.43,Rain,Mercedes,58,3,Mercedes,505,mercedes,interlagos,0
+2022,21,Interlagos,São Paulo Grand Prix,40.43,Rain,Alpine,14,4,Alpine,167,alpine,interlagos,0
+2022,21,Interlagos,São Paulo Grand Prix,40.43,Rain,McLaren,2,5,McLaren,148,mclaren,interlagos,0
+2022,21,Interlagos,São Paulo Grand Prix,40.43,Rain,Alfa Romeo,2,6,Alfa Romeo,55,alfa,interlagos,0
+2022,21,Interlagos,São Paulo Grand Prix,40.43,Rain,Aston Martin,1,7,Aston Martin,50,aston_martin,interlagos,0
+2022,21,Interlagos,São Paulo Grand Prix,40.43,Rain,Haas F1 Team,1,8,Haas F1 Team,37,haas,interlagos,0
+2022,21,Interlagos,São Paulo Grand Prix,40.43,Rain,AlphaTauri,0,9,AlphaTauri,35,alphatauri,interlagos,0
+2022,21,Interlagos,São Paulo Grand Prix,40.43,Rain,Williams,0,10,Williams,8,williams,interlagos,0
+2022,22,Yas Marina Circuit,Abu Dhabi Grand Prix,38.89,Dry,Red Bull,40,1,Red Bull,759,red_bull,yas_marina,0
+2022,22,Yas Marina Circuit,Abu Dhabi Grand Prix,38.89,Dry,Ferrari,30,2,Ferrari,554,ferrari,yas_marina,0
+2022,22,Yas Marina Circuit,Abu Dhabi Grand Prix,38.89,Dry,Mercedes,10,3,Mercedes,515,mercedes,yas_marina,0
+2022,22,Yas Marina Circuit,Abu Dhabi Grand Prix,38.89,Dry,Alpine,6,4,Alpine,173,alpine,yas_marina,0
+2022,22,Yas Marina Circuit,Abu Dhabi Grand Prix,38.89,Dry,McLaren,11,5,McLaren,159,mclaren,yas_marina,0
+2022,22,Yas Marina Circuit,Abu Dhabi Grand Prix,38.89,Dry,Alfa Romeo,0,6,Alfa Romeo,55,alfa,yas_marina,0
+2022,22,Yas Marina Circuit,Abu Dhabi Grand Prix,38.89,Dry,Aston Martin,5,7,Aston Martin,55,aston_martin,yas_marina,0
+2022,22,Yas Marina Circuit,Abu Dhabi Grand Prix,38.89,Dry,Haas F1 Team,0,8,Haas F1 Team,37,haas,yas_marina,0
+2022,22,Yas Marina Circuit,Abu Dhabi Grand Prix,38.89,Dry,AlphaTauri,0,9,AlphaTauri,35,alphatauri,yas_marina,0
+2022,22,Yas Marina Circuit,Abu Dhabi Grand Prix,38.89,Dry,Williams,0,10,Williams,8,williams,yas_marina,0
+2023,1,Sakhir,Bahrain Grand Prix,33.42,Dry,Red Bull,43,1,Red Bull,43,red_bull,bahrain,0
+2023,1,Sakhir,Bahrain Grand Prix,33.42,Dry,Aston Martin,23,2,Aston Martin,23,aston_martin,bahrain,0
+2023,1,Sakhir,Bahrain Grand Prix,33.42,Dry,Mercedes,16,3,Mercedes,16,mercedes,bahrain,0
+2023,1,Sakhir,Bahrain Grand Prix,33.42,Dry,Ferrari,12,4,Ferrari,12,ferrari,bahrain,0
+2023,1,Sakhir,Bahrain Grand Prix,33.42,Dry,Alfa Romeo,4,5,Alfa Romeo,4,alfa,bahrain,0
+2023,1,Sakhir,Bahrain Grand Prix,33.42,Dry,Alpine,2,6,Alpine,2,alpine,bahrain,0
+2023,1,Sakhir,Bahrain Grand Prix,33.42,Dry,Williams,1,7,Williams,1,williams,bahrain,0
+2023,1,Sakhir,Bahrain Grand Prix,33.42,Dry,AlphaTauri,0,8,AlphaTauri,0,alphatauri,bahrain,0
+2023,1,Sakhir,Bahrain Grand Prix,33.42,Dry,Haas F1 Team,0,9,Haas F1 Team,0,haas,bahrain,0
+2023,1,Sakhir,Bahrain Grand Prix,33.42,Dry,McLaren,0,10,McLaren,0,mclaren,bahrain,0
+2023,2,Jeddah,Saudi Arabian Grand Prix,35.49,Dry,Red Bull,44,1,Red Bull,87,red_bull,jeddah,0
+2023,2,Jeddah,Saudi Arabian Grand Prix,35.49,Dry,Aston Martin,15,2,Aston Martin,38,aston_martin,jeddah,0
+2023,2,Jeddah,Saudi Arabian Grand Prix,35.49,Dry,Mercedes,22,3,Mercedes,38,mercedes,jeddah,0
+2023,2,Jeddah,Saudi Arabian Grand Prix,35.49,Dry,Ferrari,14,4,Ferrari,26,ferrari,jeddah,0
+2023,2,Jeddah,Saudi Arabian Grand Prix,35.49,Dry,Alpine,6,5,Alpine,8,alpine,jeddah,0
+2023,2,Jeddah,Saudi Arabian Grand Prix,35.49,Dry,Alfa Romeo,0,6,Alfa Romeo,4,alfa,jeddah,0
+2023,2,Jeddah,Saudi Arabian Grand Prix,35.49,Dry,Haas F1 Team,1,7,Haas F1 Team,1,haas,jeddah,0
+2023,2,Jeddah,Saudi Arabian Grand Prix,35.49,Dry,Williams,0,8,Williams,1,williams,jeddah,0
+2023,2,Jeddah,Saudi Arabian Grand Prix,35.49,Dry,AlphaTauri,0,9,AlphaTauri,0,alphatauri,jeddah,0
+2023,2,Jeddah,Saudi Arabian Grand Prix,35.49,Dry,McLaren,0,10,McLaren,0,mclaren,jeddah,0
+2023,3,Melbourne,Australian Grand Prix,26.51,Rain,Red Bull,36,1,Red Bull,123,red_bull,albert_park,0
+2023,3,Melbourne,Australian Grand Prix,26.51,Rain,Aston Martin,27,2,Aston Martin,65,aston_martin,albert_park,0
+2023,3,Melbourne,Australian Grand Prix,26.51,Rain,Mercedes,18,3,Mercedes,56,mercedes,albert_park,0
+2023,3,Melbourne,Australian Grand Prix,26.51,Rain,Ferrari,0,4,Ferrari,26,ferrari,albert_park,0
+2023,3,Melbourne,Australian Grand Prix,26.51,Rain,McLaren,12,5,McLaren,12,mclaren,albert_park,0
+2023,3,Melbourne,Australian Grand Prix,26.51,Rain,Alpine,0,6,Alpine,8,alpine,albert_park,0
+2023,3,Melbourne,Australian Grand Prix,26.51,Rain,Haas F1 Team,6,7,Haas F1 Team,7,haas,albert_park,0
+2023,3,Melbourne,Australian Grand Prix,26.51,Rain,Alfa Romeo,2,8,Alfa Romeo,6,alfa,albert_park,0
+2023,3,Melbourne,Australian Grand Prix,26.51,Rain,AlphaTauri,1,9,AlphaTauri,1,alphatauri,albert_park,0
+2023,3,Melbourne,Australian Grand Prix,26.51,Rain,Williams,0,10,Williams,1,williams,albert_park,0
+2023,4,Baku,Azerbaijan Grand Prix,38.9,Rain,Red Bull,57,1,Red Bull,180,red_bull,baku,0
+2023,4,Baku,Azerbaijan Grand Prix,38.9,Rain,Aston Martin,22,2,Aston Martin,87,aston_martin,baku,0
+2023,4,Baku,Azerbaijan Grand Prix,38.9,Rain,Mercedes,20,3,Mercedes,76,mercedes,baku,0
+2023,4,Baku,Azerbaijan Grand Prix,38.9,Rain,Ferrari,36,4,Ferrari,62,ferrari,baku,0
+2023,4,Baku,Azerbaijan Grand Prix,38.9,Rain,McLaren,2,5,McLaren,14,mclaren,baku,0
+2023,4,Baku,Azerbaijan Grand Prix,38.9,Rain,Alpine,0,6,Alpine,8,alpine,baku,0
+2023,4,Baku,Azerbaijan Grand Prix,38.9,Rain,Haas F1 Team,0,7,Haas F1 Team,7,haas,baku,0
+2023,4,Baku,Azerbaijan Grand Prix,38.9,Rain,Alfa Romeo,0,8,Alfa Romeo,6,alfa,baku,0
+2023,4,Baku,Azerbaijan Grand Prix,38.9,Rain,AlphaTauri,1,9,AlphaTauri,2,alphatauri,baku,0
+2023,4,Baku,Azerbaijan Grand Prix,38.9,Rain,Williams,0,10,Williams,1,williams,baku,0
+2023,5,Miami,Miami Grand Prix,43.05,Dry,Red Bull,44,1,Red Bull,224,red_bull,miami,0
+2023,5,Miami,Miami Grand Prix,43.05,Dry,Aston Martin,15,2,Aston Martin,102,aston_martin,miami,0
+2023,5,Miami,Miami Grand Prix,43.05,Dry,Mercedes,20,3,Mercedes,96,mercedes,miami,0
+2023,5,Miami,Miami Grand Prix,43.05,Dry,Ferrari,16,4,Ferrari,78,ferrari,miami,0
+2023,5,Miami,Miami Grand Prix,43.05,Dry,McLaren,0,5,McLaren,14,mclaren,miami,0
+2023,5,Miami,Miami Grand Prix,43.05,Dry,Alpine,6,6,Alpine,14,alpine,miami,0
+2023,5,Miami,Miami Grand Prix,43.05,Dry,Haas F1 Team,1,7,Haas F1 Team,8,haas,miami,0
+2023,5,Miami,Miami Grand Prix,43.05,Dry,Alfa Romeo,0,8,Alfa Romeo,6,alfa,miami,0
+2023,5,Miami,Miami Grand Prix,43.05,Dry,AlphaTauri,0,9,AlphaTauri,2,alphatauri,miami,0
+2023,5,Miami,Miami Grand Prix,43.05,Dry,Williams,0,10,Williams,1,williams,miami,0
+2023,6,Monte Carlo,Monaco Grand Prix,44.13,Rain,Red Bull,25,1,Red Bull,249,red_bull,monaco,0
+2023,6,Monte Carlo,Monaco Grand Prix,44.13,Rain,Aston Martin,18,2,Aston Martin,120,aston_martin,monaco,0
+2023,6,Monte Carlo,Monaco Grand Prix,44.13,Rain,Mercedes,23,3,Mercedes,119,mercedes,monaco,0
+2023,6,Monte Carlo,Monaco Grand Prix,44.13,Rain,Ferrari,12,4,Ferrari,90,ferrari,monaco,0
+2023,6,Monte Carlo,Monaco Grand Prix,44.13,Rain,Alpine,21,5,Alpine,35,alpine,monaco,0
+2023,6,Monte Carlo,Monaco Grand Prix,44.13,Rain,McLaren,3,6,McLaren,17,mclaren,monaco,0
+2023,6,Monte Carlo,Monaco Grand Prix,44.13,Rain,Haas F1 Team,0,7,Haas F1 Team,8,haas,monaco,0
+2023,6,Monte Carlo,Monaco Grand Prix,44.13,Rain,Alfa Romeo,0,8,Alfa Romeo,6,alfa,monaco,0
+2023,6,Monte Carlo,Monaco Grand Prix,44.13,Rain,AlphaTauri,0,9,AlphaTauri,2,alphatauri,monaco,0
+2023,6,Monte Carlo,Monaco Grand Prix,44.13,Rain,Williams,0,10,Williams,1,williams,monaco,0
+2023,7,Catalunya,Spanish Grand Prix,31.1,Rain,Red Bull,38,1,Red Bull,287,red_bull,catalunya,0
+2023,7,Catalunya,Spanish Grand Prix,31.1,Rain,Mercedes,33,2,Mercedes,152,mercedes,catalunya,0
+2023,7,Catalunya,Spanish Grand Prix,31.1,Rain,Aston Martin,14,3,Aston Martin,134,aston_martin,catalunya,0
+2023,7,Catalunya,Spanish Grand Prix,31.1,Rain,Ferrari,10,4,Ferrari,100,ferrari,catalunya,0
+2023,7,Catalunya,Spanish Grand Prix,31.1,Rain,Alpine,5,5,Alpine,40,alpine,catalunya,0
+2023,7,Catalunya,Spanish Grand Prix,31.1,Rain,McLaren,0,6,McLaren,17,mclaren,catalunya,0
+2023,7,Catalunya,Spanish Grand Prix,31.1,Rain,Haas F1 Team,0,7,Haas F1 Team,8,haas,catalunya,0
+2023,7,Catalunya,Spanish Grand Prix,31.1,Rain,Alfa Romeo,2,8,Alfa Romeo,8,alfa,catalunya,0
+2023,7,Catalunya,Spanish Grand Prix,31.1,Rain,AlphaTauri,0,9,AlphaTauri,2,alphatauri,catalunya,0
+2023,7,Catalunya,Spanish Grand Prix,31.1,Rain,Williams,0,10,Williams,1,williams,catalunya,0
+2023,8,Montreal,Canadian Grand Prix,27.19,Rain,Red Bull,34,1,Red Bull,321,red_bull,villeneuve,0
+2023,8,Montreal,Canadian Grand Prix,27.19,Rain,Mercedes,15,2,Mercedes,167,mercedes,villeneuve,0
+2023,8,Montreal,Canadian Grand Prix,27.19,Rain,Aston Martin,20,3,Aston Martin,154,aston_martin,villeneuve,0
+2023,8,Montreal,Canadian Grand Prix,27.19,Rain,Ferrari,22,4,Ferrari,122,ferrari,villeneuve,0
+2023,8,Montreal,Canadian Grand Prix,27.19,Rain,Alpine,4,5,Alpine,44,alpine,villeneuve,0
+2023,8,Montreal,Canadian Grand Prix,27.19,Rain,McLaren,0,6,McLaren,17,mclaren,villeneuve,0
+2023,8,Montreal,Canadian Grand Prix,27.19,Rain,Alfa Romeo,1,7,Alfa Romeo,9,alfa,villeneuve,0
+2023,8,Montreal,Canadian Grand Prix,27.19,Rain,Haas F1 Team,0,8,Haas F1 Team,8,haas,villeneuve,0
+2023,8,Montreal,Canadian Grand Prix,27.19,Rain,Williams,6,9,Williams,7,williams,villeneuve,0
+2023,8,Montreal,Canadian Grand Prix,27.19,Rain,AlphaTauri,0,10,AlphaTauri,2,alphatauri,villeneuve,0
+2023,9,Spielberg,Austrian Grand Prix,34.99,Rain,Red Bull,56,1,Red Bull,377,red_bull,red_bull_ring,0
+2023,9,Spielberg,Austrian Grand Prix,34.99,Rain,Mercedes,11,2,Mercedes,178,mercedes,red_bull_ring,0
+2023,9,Spielberg,Austrian Grand Prix,34.99,Rain,Aston Martin,21,3,Aston Martin,175,aston_martin,red_bull_ring,0
+2023,9,Spielberg,Austrian Grand Prix,34.99,Rain,Ferrari,32,4,Ferrari,154,ferrari,red_bull_ring,0
+2023,9,Spielberg,Austrian Grand Prix,34.99,Rain,Alpine,3,5,Alpine,47,alpine,red_bull_ring,0
+2023,9,Spielberg,Austrian Grand Prix,34.99,Rain,McLaren,12,6,McLaren,29,mclaren,red_bull_ring,0
+2023,9,Spielberg,Austrian Grand Prix,34.99,Rain,Haas F1 Team,3,7,Haas F1 Team,11,haas,red_bull_ring,0
+2023,9,Spielberg,Austrian Grand Prix,34.99,Rain,Alfa Romeo,0,8,Alfa Romeo,9,alfa,red_bull_ring,0
+2023,9,Spielberg,Austrian Grand Prix,34.99,Rain,Williams,0,9,Williams,7,williams,red_bull_ring,0
+2023,9,Spielberg,Austrian Grand Prix,34.99,Rain,AlphaTauri,0,10,AlphaTauri,2,alphatauri,red_bull_ring,0
+2023,10,Silverstone,British Grand Prix,31.82,Rain,Red Bull,34,1,Red Bull,411,red_bull,silverstone,0
+2023,10,Silverstone,British Grand Prix,31.82,Rain,Mercedes,25,2,Mercedes,203,mercedes,silverstone,0
+2023,10,Silverstone,British Grand Prix,31.82,Rain,Aston Martin,6,3,Aston Martin,181,aston_martin,silverstone,0
+2023,10,Silverstone,British Grand Prix,31.82,Rain,Ferrari,3,4,Ferrari,157,ferrari,silverstone,0
+2023,10,Silverstone,British Grand Prix,31.82,Rain,McLaren,30,5,McLaren,59,mclaren,silverstone,0
+2023,10,Silverstone,British Grand Prix,31.82,Rain,Alpine,0,6,Alpine,47,alpine,silverstone,0
+2023,10,Silverstone,British Grand Prix,31.82,Rain,Williams,4,7,Williams,11,williams,silverstone,0
+2023,10,Silverstone,British Grand Prix,31.82,Rain,Haas F1 Team,0,8,Haas F1 Team,11,haas,silverstone,0
+2023,10,Silverstone,British Grand Prix,31.82,Rain,Alfa Romeo,0,9,Alfa Romeo,9,alfa,silverstone,0
+2023,10,Silverstone,British Grand Prix,31.82,Rain,AlphaTauri,0,10,AlphaTauri,2,alphatauri,silverstone,0
+2023,11,Hungaroring,Hungarian Grand Prix,40.14,Rain,Red Bull,41,1,Red Bull,452,red_bull,hungaroring,0
+2023,11,Hungaroring,Hungarian Grand Prix,40.14,Rain,Mercedes,20,2,Mercedes,223,mercedes,hungaroring,0
+2023,11,Hungaroring,Hungarian Grand Prix,40.14,Rain,Aston Martin,3,3,Aston Martin,184,aston_martin,hungaroring,0
+2023,11,Hungaroring,Hungarian Grand Prix,40.14,Rain,Ferrari,10,4,Ferrari,167,ferrari,hungaroring,0
+2023,11,Hungaroring,Hungarian Grand Prix,40.14,Rain,McLaren,28,5,McLaren,87,mclaren,hungaroring,0
+2023,11,Hungaroring,Hungarian Grand Prix,40.14,Rain,Alpine,0,6,Alpine,47,alpine,hungaroring,0
+2023,11,Hungaroring,Hungarian Grand Prix,40.14,Rain,Williams,0,7,Williams,11,williams,hungaroring,0
+2023,11,Hungaroring,Hungarian Grand Prix,40.14,Rain,Haas F1 Team,0,8,Haas F1 Team,11,haas,hungaroring,0
+2023,11,Hungaroring,Hungarian Grand Prix,40.14,Rain,Alfa Romeo,0,9,Alfa Romeo,9,alfa,hungaroring,0
+2023,11,Hungaroring,Hungarian Grand Prix,40.14,Rain,AlphaTauri,0,10,AlphaTauri,2,alphatauri,hungaroring,0
+2023,12,Spa-Francorchamps,Belgian Grand Prix,25.31,Rain,Red Bull,51,1,Red Bull,503,red_bull,spa,0
+2023,12,Spa-Francorchamps,Belgian Grand Prix,25.31,Rain,Mercedes,24,2,Mercedes,247,mercedes,spa,0
+2023,12,Spa-Francorchamps,Belgian Grand Prix,25.31,Rain,Aston Martin,12,3,Aston Martin,196,aston_martin,spa,0
+2023,12,Spa-Francorchamps,Belgian Grand Prix,25.31,Rain,Ferrari,24,4,Ferrari,191,ferrari,spa,0
+2023,12,Spa-Francorchamps,Belgian Grand Prix,25.31,Rain,McLaren,16,5,McLaren,103,mclaren,spa,0
+2023,12,Spa-Francorchamps,Belgian Grand Prix,25.31,Rain,Alpine,10,6,Alpine,57,alpine,spa,0
+2023,12,Spa-Francorchamps,Belgian Grand Prix,25.31,Rain,Williams,0,7,Williams,11,williams,spa,0
+2023,12,Spa-Francorchamps,Belgian Grand Prix,25.31,Rain,Haas F1 Team,0,8,Haas F1 Team,11,haas,spa,0
+2023,12,Spa-Francorchamps,Belgian Grand Prix,25.31,Rain,Alfa Romeo,0,9,Alfa Romeo,9,alfa,spa,0
+2023,12,Spa-Francorchamps,Belgian Grand Prix,25.31,Rain,AlphaTauri,1,10,AlphaTauri,3,alphatauri,spa,0
+2023,13,Zandvoort,Dutch Grand Prix,26.63,Rain,Red Bull,37,1,Red Bull,540,red_bull,zandvoort,0
+2023,13,Zandvoort,Dutch Grand Prix,26.63,Rain,Mercedes,8,2,Mercedes,255,mercedes,zandvoort,0
+2023,13,Zandvoort,Dutch Grand Prix,26.63,Rain,Aston Martin,19,3,Aston Martin,215,aston_martin,zandvoort,0
+2023,13,Zandvoort,Dutch Grand Prix,26.63,Rain,Ferrari,10,4,Ferrari,201,ferrari,zandvoort,0
+2023,13,Zandvoort,Dutch Grand Prix,26.63,Rain,McLaren,8,5,McLaren,111,mclaren,zandvoort,0
+2023,13,Zandvoort,Dutch Grand Prix,26.63,Rain,Alpine,16,6,Alpine,73,alpine,zandvoort,0
+2023,13,Zandvoort,Dutch Grand Prix,26.63,Rain,Williams,4,7,Williams,15,williams,zandvoort,0
+2023,13,Zandvoort,Dutch Grand Prix,26.63,Rain,Haas F1 Team,0,8,Haas F1 Team,11,haas,zandvoort,0
+2023,13,Zandvoort,Dutch Grand Prix,26.63,Rain,Alfa Romeo,0,9,Alfa Romeo,9,alfa,zandvoort,0
+2023,13,Zandvoort,Dutch Grand Prix,26.63,Rain,AlphaTauri,0,10,AlphaTauri,3,alphatauri,zandvoort,0
+2023,14,Monza,Italian Grand Prix,39.13,Dry,Red Bull,43,1,Red Bull,583,red_bull,monza,0
+2023,14,Monza,Italian Grand Prix,39.13,Dry,Mercedes,18,2,Mercedes,273,mercedes,monza,0
+2023,14,Monza,Italian Grand Prix,39.13,Dry,Ferrari,27,3,Ferrari,228,ferrari,monza,0
+2023,14,Monza,Italian Grand Prix,39.13,Dry,Aston Martin,2,4,Aston Martin,217,aston_martin,monza,0
+2023,14,Monza,Italian Grand Prix,39.13,Dry,McLaren,4,5,McLaren,115,mclaren,monza,0
+2023,14,Monza,Italian Grand Prix,39.13,Dry,Alpine,0,6,Alpine,73,alpine,monza,0
+2023,14,Monza,Italian Grand Prix,39.13,Dry,Williams,6,7,Williams,21,williams,monza,0
+2023,14,Monza,Italian Grand Prix,39.13,Dry,Haas F1 Team,0,8,Haas F1 Team,11,haas,monza,0
+2023,14,Monza,Italian Grand Prix,39.13,Dry,Alfa Romeo,1,9,Alfa Romeo,10,alfa,monza,0
+2023,14,Monza,Italian Grand Prix,39.13,Dry,AlphaTauri,0,10,AlphaTauri,3,alphatauri,monza,0
+2023,15,Singapore,Singapore Grand Prix,37.68,Dry,Red Bull,14,1,Red Bull,597,red_bull,marina_bay,0
+2023,15,Singapore,Singapore Grand Prix,37.68,Dry,Mercedes,16,2,Mercedes,289,mercedes,marina_bay,0
+2023,15,Singapore,Singapore Grand Prix,37.68,Dry,Ferrari,37,3,Ferrari,265,ferrari,marina_bay,0
+2023,15,Singapore,Singapore Grand Prix,37.68,Dry,Aston Martin,0,4,Aston Martin,217,aston_martin,marina_bay,0
+2023,15,Singapore,Singapore Grand Prix,37.68,Dry,McLaren,24,5,McLaren,139,mclaren,marina_bay,0
+2023,15,Singapore,Singapore Grand Prix,37.68,Dry,Alpine,8,6,Alpine,81,alpine,marina_bay,0
+2023,15,Singapore,Singapore Grand Prix,37.68,Dry,Williams,0,7,Williams,21,williams,marina_bay,0
+2023,15,Singapore,Singapore Grand Prix,37.68,Dry,Haas F1 Team,1,8,Haas F1 Team,12,haas,marina_bay,0
+2023,15,Singapore,Singapore Grand Prix,37.68,Dry,Alfa Romeo,0,9,Alfa Romeo,10,alfa,marina_bay,0
+2023,15,Singapore,Singapore Grand Prix,37.68,Dry,AlphaTauri,2,10,AlphaTauri,5,alphatauri,marina_bay,0
+2023,16,Suzuka,Japanese Grand Prix,40.1,Rain,Red Bull,26,1,Red Bull,623,red_bull,suzuka,0
+2023,16,Suzuka,Japanese Grand Prix,40.1,Rain,Mercedes,16,2,Mercedes,305,mercedes,suzuka,0
+2023,16,Suzuka,Japanese Grand Prix,40.1,Rain,Ferrari,20,3,Ferrari,285,ferrari,suzuka,0
+2023,16,Suzuka,Japanese Grand Prix,40.1,Rain,Aston Martin,4,4,Aston Martin,221,aston_martin,suzuka,0
+2023,16,Suzuka,Japanese Grand Prix,40.1,Rain,McLaren,33,5,McLaren,172,mclaren,suzuka,0
+2023,16,Suzuka,Japanese Grand Prix,40.1,Rain,Alpine,3,6,Alpine,84,alpine,suzuka,0
+2023,16,Suzuka,Japanese Grand Prix,40.1,Rain,Williams,0,7,Williams,21,williams,suzuka,0
+2023,16,Suzuka,Japanese Grand Prix,40.1,Rain,Haas F1 Team,0,8,Haas F1 Team,12,haas,suzuka,0
+2023,16,Suzuka,Japanese Grand Prix,40.1,Rain,Alfa Romeo,0,9,Alfa Romeo,10,alfa,suzuka,0
+2023,16,Suzuka,Japanese Grand Prix,40.1,Rain,AlphaTauri,0,10,AlphaTauri,5,alphatauri,suzuka,0
+2023,17,Lusail,Qatar Grand Prix,36.77,Dry,Red Bull,34,1,Red Bull,657,red_bull,losail,0
+2023,17,Lusail,Qatar Grand Prix,36.77,Dry,Mercedes,21,2,Mercedes,326,mercedes,losail,0
+2023,17,Lusail,Qatar Grand Prix,36.77,Dry,Ferrari,13,3,Ferrari,298,ferrari,losail,0
+2023,17,Lusail,Qatar Grand Prix,36.77,Dry,Aston Martin,9,4,Aston Martin,230,aston_martin,losail,0
+2023,17,Lusail,Qatar Grand Prix,36.77,Dry,McLaren,47,5,McLaren,219,mclaren,losail,0
+2023,17,Lusail,Qatar Grand Prix,36.77,Dry,Alpine,6,6,Alpine,90,alpine,losail,0
+2023,17,Lusail,Qatar Grand Prix,36.77,Dry,Williams,2,7,Williams,23,williams,losail,0
+2023,17,Lusail,Qatar Grand Prix,36.77,Dry,Alfa Romeo,6,8,Alfa Romeo,16,alfa,losail,0
+2023,17,Lusail,Qatar Grand Prix,36.77,Dry,Haas F1 Team,0,9,Haas F1 Team,12,haas,losail,0
+2023,17,Lusail,Qatar Grand Prix,36.77,Dry,AlphaTauri,0,10,AlphaTauri,5,alphatauri,losail,0
+2023,18,Austin,United States Grand Prix,39.51,Rain,Red Bull,49,1,Red Bull,706,red_bull,americas,0
+2023,18,Austin,United States Grand Prix,39.51,Rain,Mercedes,18,2,Mercedes,344,mercedes,americas,0
+2023,18,Austin,United States Grand Prix,39.51,Rain,Ferrari,24,3,Ferrari,322,ferrari,americas,0
+2023,18,Austin,United States Grand Prix,39.51,Rain,McLaren,23,4,McLaren,242,mclaren,americas,0
+2023,18,Austin,United States Grand Prix,39.51,Rain,Aston Martin,6,5,Aston Martin,236,aston_martin,americas,0
+2023,18,Austin,United States Grand Prix,39.51,Rain,Alpine,10,6,Alpine,100,alpine,americas,0
+2023,18,Austin,United States Grand Prix,39.51,Rain,Williams,3,7,Williams,26,williams,americas,0
+2023,18,Austin,United States Grand Prix,39.51,Rain,Alfa Romeo,0,8,Alfa Romeo,16,alfa,americas,0
+2023,18,Austin,United States Grand Prix,39.51,Rain,Haas F1 Team,0,9,Haas F1 Team,12,haas,americas,0
+2023,18,Austin,United States Grand Prix,39.51,Rain,AlphaTauri,5,10,AlphaTauri,10,alphatauri,americas,0
+2023,19,Mexico City,Mexico City Grand Prix,42.58,Rain,Red Bull,25,1,Red Bull,731,red_bull,rodriguez,0
+2023,19,Mexico City,Mexico City Grand Prix,42.58,Rain,Mercedes,27,2,Mercedes,371,mercedes,rodriguez,0
+2023,19,Mexico City,Mexico City Grand Prix,42.58,Rain,Ferrari,27,3,Ferrari,349,ferrari,rodriguez,0
+2023,19,Mexico City,Mexico City Grand Prix,42.58,Rain,McLaren,14,4,McLaren,256,mclaren,rodriguez,0
+2023,19,Mexico City,Mexico City Grand Prix,42.58,Rain,Aston Martin,0,5,Aston Martin,236,aston_martin,rodriguez,0
+2023,19,Mexico City,Mexico City Grand Prix,42.58,Rain,Alpine,1,6,Alpine,101,alpine,rodriguez,0
+2023,19,Mexico City,Mexico City Grand Prix,42.58,Rain,Williams,2,7,Williams,28,williams,rodriguez,0
+2023,19,Mexico City,Mexico City Grand Prix,42.58,Rain,AlphaTauri,6,8,AlphaTauri,16,alphatauri,rodriguez,0
+2023,19,Mexico City,Mexico City Grand Prix,42.58,Rain,Alfa Romeo,0,9,Alfa Romeo,16,alfa,rodriguez,0
+2023,19,Mexico City,Mexico City Grand Prix,42.58,Rain,Haas F1 Team,0,10,Haas F1 Team,12,haas,rodriguez,0
+2023,20,Interlagos,São Paulo Grand Prix,44.73,Rain,Red Bull,51,1,Red Bull,782,red_bull,interlagos,0
+2023,20,Interlagos,São Paulo Grand Prix,44.73,Rain,Mercedes,11,2,Mercedes,382,mercedes,interlagos,0
+2023,20,Interlagos,São Paulo Grand Prix,44.73,Rain,Ferrari,13,3,Ferrari,362,ferrari,interlagos,0
+2023,20,Interlagos,São Paulo Grand Prix,44.73,Rain,McLaren,26,4,McLaren,282,mclaren,interlagos,0
+2023,20,Interlagos,São Paulo Grand Prix,44.73,Rain,Aston Martin,25,5,Aston Martin,261,aston_martin,interlagos,0
+2023,20,Interlagos,São Paulo Grand Prix,44.73,Rain,Alpine,7,6,Alpine,108,alpine,interlagos,0
+2023,20,Interlagos,São Paulo Grand Prix,44.73,Rain,Williams,0,7,Williams,28,williams,interlagos,0
+2023,20,Interlagos,São Paulo Grand Prix,44.73,Rain,AlphaTauri,5,8,AlphaTauri,21,alphatauri,interlagos,0
+2023,20,Interlagos,São Paulo Grand Prix,44.73,Rain,Alfa Romeo,0,9,Alfa Romeo,16,alfa,interlagos,0
+2023,20,Interlagos,São Paulo Grand Prix,44.73,Rain,Haas F1 Team,0,10,Haas F1 Team,12,haas,interlagos,0
+2023,21,Las Vegas,Las Vegas Grand Prix,17.47,Dry,Red Bull,40,1,Red Bull,822,red_bull,vegas,0
+2023,21,Las Vegas,Las Vegas Grand Prix,17.47,Dry,Mercedes,10,2,Mercedes,392,mercedes,vegas,0
+2023,21,Las Vegas,Las Vegas Grand Prix,17.47,Dry,Ferrari,26,3,Ferrari,388,ferrari,vegas,0
+2023,21,Las Vegas,Las Vegas Grand Prix,17.47,Dry,McLaren,2,4,McLaren,284,mclaren,vegas,0
+2023,21,Las Vegas,Las Vegas Grand Prix,17.47,Dry,Aston Martin,12,5,Aston Martin,273,aston_martin,vegas,0
+2023,21,Las Vegas,Las Vegas Grand Prix,17.47,Dry,Alpine,12,6,Alpine,120,alpine,vegas,0
+2023,21,Las Vegas,Las Vegas Grand Prix,17.47,Dry,Williams,0,7,Williams,28,williams,vegas,0
+2023,21,Las Vegas,Las Vegas Grand Prix,17.47,Dry,AlphaTauri,0,8,AlphaTauri,21,alphatauri,vegas,0
+2023,21,Las Vegas,Las Vegas Grand Prix,17.47,Dry,Alfa Romeo,0,9,Alfa Romeo,16,alfa,vegas,0
+2023,21,Las Vegas,Las Vegas Grand Prix,17.47,Dry,Haas F1 Team,0,10,Haas F1 Team,12,haas,vegas,0
+2023,22,Yas Marina Circuit,Abu Dhabi Grand Prix,36.46,Dry,Red Bull,38,1,Red Bull,860,red_bull,yas_marina,0
+2023,22,Yas Marina Circuit,Abu Dhabi Grand Prix,36.46,Dry,Mercedes,17,2,Mercedes,409,mercedes,yas_marina,0
+2023,22,Yas Marina Circuit,Abu Dhabi Grand Prix,36.46,Dry,Ferrari,18,3,Ferrari,406,ferrari,yas_marina,0
+2023,22,Yas Marina Circuit,Abu Dhabi Grand Prix,36.46,Dry,McLaren,18,4,McLaren,302,mclaren,yas_marina,0
+2023,22,Yas Marina Circuit,Abu Dhabi Grand Prix,36.46,Dry,Aston Martin,7,5,Aston Martin,280,aston_martin,yas_marina,0
+2023,22,Yas Marina Circuit,Abu Dhabi Grand Prix,36.46,Dry,Alpine,0,6,Alpine,120,alpine,yas_marina,0
+2023,22,Yas Marina Circuit,Abu Dhabi Grand Prix,36.46,Dry,Williams,0,7,Williams,28,williams,yas_marina,0
+2023,22,Yas Marina Circuit,Abu Dhabi Grand Prix,36.46,Dry,AlphaTauri,4,8,AlphaTauri,25,alphatauri,yas_marina,0
+2023,22,Yas Marina Circuit,Abu Dhabi Grand Prix,36.46,Dry,Alfa Romeo,0,9,Alfa Romeo,16,alfa,yas_marina,0
+2023,22,Yas Marina Circuit,Abu Dhabi Grand Prix,36.46,Dry,Haas F1 Team,0,10,Haas F1 Team,12,haas,yas_marina,0
+2024,1,Sakhir,Bahrain Grand Prix,26.7,Dry,Red Bull,44,1,Red Bull,44,red_bull,bahrain,0
+2024,1,Sakhir,Bahrain Grand Prix,26.7,Dry,Ferrari,27,2,Ferrari,27,ferrari,bahrain,0
+2024,1,Sakhir,Bahrain Grand Prix,26.7,Dry,Mercedes,16,3,Mercedes,16,mercedes,bahrain,0
+2024,1,Sakhir,Bahrain Grand Prix,26.7,Dry,McLaren,12,4,McLaren,12,mclaren,bahrain,0
+2024,1,Sakhir,Bahrain Grand Prix,26.7,Dry,Aston Martin,3,5,Aston Martin,3,aston_martin,bahrain,0
+2024,1,Sakhir,Bahrain Grand Prix,26.7,Dry,Sauber,0,6,Sauber,0,sauber,bahrain,0
+2024,1,Sakhir,Bahrain Grand Prix,26.7,Dry,Haas F1 Team,0,7,Haas F1 Team,0,haas,bahrain,0
+2024,1,Sakhir,Bahrain Grand Prix,26.7,Dry,Racing Bulls,0,8,Racing Bulls,0,rb,bahrain,0
+2024,1,Sakhir,Bahrain Grand Prix,26.7,Dry,Williams,0,9,Williams,0,williams,bahrain,0
+2024,1,Sakhir,Bahrain Grand Prix,26.7,Dry,Alpine,0,10,Alpine,0,alpine,bahrain,0
+2024,2,Jeddah,Saudi Arabian Grand Prix,34.45,Dry,Red Bull,43,1,Red Bull,87,red_bull,jeddah,0
+2024,2,Jeddah,Saudi Arabian Grand Prix,34.45,Dry,Ferrari,22,2,Ferrari,49,ferrari,jeddah,0
+2024,2,Jeddah,Saudi Arabian Grand Prix,34.45,Dry,McLaren,16,3,McLaren,28,mclaren,jeddah,0
+2024,2,Jeddah,Saudi Arabian Grand Prix,34.45,Dry,Mercedes,10,4,Mercedes,26,mercedes,jeddah,0
+2024,2,Jeddah,Saudi Arabian Grand Prix,34.45,Dry,Aston Martin,10,5,Aston Martin,13,aston_martin,jeddah,0
+2024,2,Jeddah,Saudi Arabian Grand Prix,34.45,Dry,Haas F1 Team,1,6,Haas F1 Team,1,haas,jeddah,0
+2024,2,Jeddah,Saudi Arabian Grand Prix,34.45,Dry,Williams,0,7,Williams,0,williams,jeddah,0
+2024,2,Jeddah,Saudi Arabian Grand Prix,34.45,Dry,Sauber,0,8,Sauber,0,sauber,jeddah,0
+2024,2,Jeddah,Saudi Arabian Grand Prix,34.45,Dry,Racing Bulls,0,9,Racing Bulls,0,rb,jeddah,0
+2024,2,Jeddah,Saudi Arabian Grand Prix,34.45,Dry,Alpine,0,10,Alpine,0,alpine,jeddah,0
+2024,3,Melbourne,Australian Grand Prix,34.07,Rain,Red Bull,10,1,Red Bull,97,red_bull,albert_park,0
+2024,3,Melbourne,Australian Grand Prix,34.07,Rain,Ferrari,44,2,Ferrari,93,ferrari,albert_park,0
+2024,3,Melbourne,Australian Grand Prix,34.07,Rain,McLaren,27,3,McLaren,55,mclaren,albert_park,0
+2024,3,Melbourne,Australian Grand Prix,34.07,Rain,Mercedes,0,4,Mercedes,26,mercedes,albert_park,0
+2024,3,Melbourne,Australian Grand Prix,34.07,Rain,Aston Martin,12,5,Aston Martin,25,aston_martin,albert_park,0
+2024,3,Melbourne,Australian Grand Prix,34.07,Rain,Racing Bulls,6,6,Racing Bulls,6,rb,albert_park,0
+2024,3,Melbourne,Australian Grand Prix,34.07,Rain,Haas F1 Team,3,7,Haas F1 Team,4,haas,albert_park,0
+2024,3,Melbourne,Australian Grand Prix,34.07,Rain,Williams,0,8,Williams,0,williams,albert_park,0
+2024,3,Melbourne,Australian Grand Prix,34.07,Rain,Sauber,0,9,Sauber,0,sauber,albert_park,0
+2024,3,Melbourne,Australian Grand Prix,34.07,Rain,Alpine,0,10,Alpine,0,alpine,albert_park,0
+2024,4,Suzuka,Japanese Grand Prix,26.38,Rain,Red Bull,44,1,Red Bull,141,red_bull,suzuka,0
+2024,4,Suzuka,Japanese Grand Prix,26.38,Rain,Ferrari,27,2,Ferrari,120,ferrari,suzuka,0
+2024,4,Suzuka,Japanese Grand Prix,26.38,Rain,McLaren,14,3,McLaren,69,mclaren,suzuka,0
+2024,4,Suzuka,Japanese Grand Prix,26.38,Rain,Mercedes,8,4,Mercedes,34,mercedes,suzuka,0
+2024,4,Suzuka,Japanese Grand Prix,26.38,Rain,Aston Martin,8,5,Aston Martin,33,aston_martin,suzuka,0
+2024,4,Suzuka,Japanese Grand Prix,26.38,Rain,Racing Bulls,1,6,Racing Bulls,7,rb,suzuka,0
+2024,4,Suzuka,Japanese Grand Prix,26.38,Rain,Haas F1 Team,0,7,Haas F1 Team,4,haas,suzuka,0
+2024,4,Suzuka,Japanese Grand Prix,26.38,Rain,Williams,0,8,Williams,0,williams,suzuka,0
+2024,4,Suzuka,Japanese Grand Prix,26.38,Rain,Sauber,0,9,Sauber,0,sauber,suzuka,0
+2024,4,Suzuka,Japanese Grand Prix,26.38,Rain,Alpine,0,10,Alpine,0,alpine,suzuka,0
+2024,5,Shanghai,Chinese Grand Prix,31.39,Rain,Red Bull,54,1,Red Bull,195,red_bull,shanghai,0
+2024,5,Shanghai,Chinese Grand Prix,31.39,Rain,Ferrari,31,2,Ferrari,151,ferrari,shanghai,0
+2024,5,Shanghai,Chinese Grand Prix,31.39,Rain,McLaren,27,3,McLaren,96,mclaren,shanghai,0
+2024,5,Shanghai,Chinese Grand Prix,31.39,Rain,Mercedes,18,4,Mercedes,52,mercedes,shanghai,0
+2024,5,Shanghai,Chinese Grand Prix,31.39,Rain,Aston Martin,7,5,Aston Martin,40,aston_martin,shanghai,0
+2024,5,Shanghai,Chinese Grand Prix,31.39,Rain,Racing Bulls,0,6,Racing Bulls,7,rb,shanghai,0
+2024,5,Shanghai,Chinese Grand Prix,31.39,Rain,Haas F1 Team,1,7,Haas F1 Team,5,haas,shanghai,0
+2024,5,Shanghai,Chinese Grand Prix,31.39,Rain,Williams,0,8,Williams,0,williams,shanghai,0
+2024,5,Shanghai,Chinese Grand Prix,31.39,Rain,Alpine,0,9,Alpine,0,alpine,shanghai,0
+2024,5,Shanghai,Chinese Grand Prix,31.39,Rain,Sauber,0,10,Sauber,0,sauber,shanghai,0
+2024,6,Miami,Miami Grand Prix,46.56,Dry,Red Bull,44,1,Red Bull,239,red_bull,miami,0
+2024,6,Miami,Miami Grand Prix,46.56,Dry,Ferrari,36,2,Ferrari,187,ferrari,miami,0
+2024,6,Miami,Miami Grand Prix,46.56,Dry,McLaren,28,3,McLaren,124,mclaren,miami,0
+2024,6,Miami,Miami Grand Prix,46.56,Dry,Mercedes,12,4,Mercedes,64,mercedes,miami,0
+2024,6,Miami,Miami Grand Prix,46.56,Dry,Aston Martin,2,5,Aston Martin,42,aston_martin,miami,0
+2024,6,Miami,Miami Grand Prix,46.56,Dry,Racing Bulls,12,6,Racing Bulls,19,rb,miami,0
+2024,6,Miami,Miami Grand Prix,46.56,Dry,Haas F1 Team,2,7,Haas F1 Team,7,haas,miami,0
+2024,6,Miami,Miami Grand Prix,46.56,Dry,Alpine,1,8,Alpine,1,alpine,miami,0
+2024,6,Miami,Miami Grand Prix,46.56,Dry,Williams,0,9,Williams,0,williams,miami,0
+2024,6,Miami,Miami Grand Prix,46.56,Dry,Sauber,0,10,Sauber,0,sauber,miami,0
+2024,7,Imola,Emilia Romagna Grand Prix,41.67,Dry,Red Bull,29,1,Red Bull,268,red_bull,imola,0
+2024,7,Imola,Emilia Romagna Grand Prix,41.67,Dry,Ferrari,25,2,Ferrari,212,ferrari,imola,0
+2024,7,Imola,Emilia Romagna Grand Prix,41.67,Dry,McLaren,30,3,McLaren,154,mclaren,imola,0
+2024,7,Imola,Emilia Romagna Grand Prix,41.67,Dry,Mercedes,15,4,Mercedes,79,mercedes,imola,0
+2024,7,Imola,Emilia Romagna Grand Prix,41.67,Dry,Aston Martin,2,5,Aston Martin,44,aston_martin,imola,0
+2024,7,Imola,Emilia Romagna Grand Prix,41.67,Dry,Racing Bulls,1,6,Racing Bulls,20,rb,imola,0
+2024,7,Imola,Emilia Romagna Grand Prix,41.67,Dry,Haas F1 Team,0,7,Haas F1 Team,7,haas,imola,0
+2024,7,Imola,Emilia Romagna Grand Prix,41.67,Dry,Alpine,0,8,Alpine,1,alpine,imola,0
+2024,7,Imola,Emilia Romagna Grand Prix,41.67,Dry,Williams,0,9,Williams,0,williams,imola,0
+2024,7,Imola,Emilia Romagna Grand Prix,41.67,Dry,Sauber,0,10,Sauber,0,sauber,imola,0
+2024,8,Monte Carlo,Monaco Grand Prix,40.95,Rain,Red Bull,8,1,Red Bull,276,red_bull,monaco,0
+2024,8,Monte Carlo,Monaco Grand Prix,40.95,Rain,Ferrari,40,2,Ferrari,252,ferrari,monaco,0
+2024,8,Monte Carlo,Monaco Grand Prix,40.95,Rain,McLaren,30,3,McLaren,184,mclaren,monaco,0
+2024,8,Monte Carlo,Monaco Grand Prix,40.95,Rain,Mercedes,17,4,Mercedes,96,mercedes,monaco,0
+2024,8,Monte Carlo,Monaco Grand Prix,40.95,Rain,Aston Martin,0,5,Aston Martin,44,aston_martin,monaco,0
+2024,8,Monte Carlo,Monaco Grand Prix,40.95,Rain,Racing Bulls,4,6,Racing Bulls,24,rb,monaco,0
+2024,8,Monte Carlo,Monaco Grand Prix,40.95,Rain,Haas F1 Team,0,7,Haas F1 Team,7,haas,monaco,0
+2024,8,Monte Carlo,Monaco Grand Prix,40.95,Rain,Williams,2,8,Williams,2,williams,monaco,0
+2024,8,Monte Carlo,Monaco Grand Prix,40.95,Rain,Alpine,1,9,Alpine,2,alpine,monaco,0
+2024,8,Monte Carlo,Monaco Grand Prix,40.95,Rain,Sauber,0,10,Sauber,0,sauber,monaco,0
+2024,9,Montreal,Canadian Grand Prix,29.26,Rain,Red Bull,25,1,Red Bull,301,red_bull,villeneuve,0
+2024,9,Montreal,Canadian Grand Prix,29.26,Rain,Ferrari,0,2,Ferrari,252,ferrari,villeneuve,0
+2024,9,Montreal,Canadian Grand Prix,29.26,Rain,McLaren,28,3,McLaren,212,mclaren,villeneuve,0
+2024,9,Montreal,Canadian Grand Prix,29.26,Rain,Mercedes,28,4,Mercedes,124,mercedes,villeneuve,0
+2024,9,Montreal,Canadian Grand Prix,29.26,Rain,Aston Martin,14,5,Aston Martin,58,aston_martin,villeneuve,0
+2024,9,Montreal,Canadian Grand Prix,29.26,Rain,Racing Bulls,4,6,Racing Bulls,28,rb,villeneuve,0
+2024,9,Montreal,Canadian Grand Prix,29.26,Rain,Haas F1 Team,0,7,Haas F1 Team,7,haas,villeneuve,0
+2024,9,Montreal,Canadian Grand Prix,29.26,Rain,Alpine,3,8,Alpine,5,alpine,villeneuve,0
+2024,9,Montreal,Canadian Grand Prix,29.26,Rain,Williams,0,9,Williams,2,williams,villeneuve,0
+2024,9,Montreal,Canadian Grand Prix,29.26,Rain,Sauber,0,10,Sauber,0,sauber,villeneuve,0
+2024,10,Catalunya,Spanish Grand Prix,42.23,Rain,Red Bull,29,1,Red Bull,330,red_bull,catalunya,0
+2024,10,Catalunya,Spanish Grand Prix,42.23,Rain,Ferrari,18,2,Ferrari,270,ferrari,catalunya,0
+2024,10,Catalunya,Spanish Grand Prix,42.23,Rain,McLaren,25,3,McLaren,237,mclaren,catalunya,0
+2024,10,Catalunya,Spanish Grand Prix,42.23,Rain,Mercedes,27,4,Mercedes,151,mercedes,catalunya,0
+2024,10,Catalunya,Spanish Grand Prix,42.23,Rain,Aston Martin,0,5,Aston Martin,58,aston_martin,catalunya,0
+2024,10,Catalunya,Spanish Grand Prix,42.23,Rain,Racing Bulls,0,6,Racing Bulls,28,rb,catalunya,0
+2024,10,Catalunya,Spanish Grand Prix,42.23,Rain,Alpine,3,7,Alpine,8,alpine,catalunya,0
+2024,10,Catalunya,Spanish Grand Prix,42.23,Rain,Haas F1 Team,0,8,Haas F1 Team,7,haas,catalunya,0
+2024,10,Catalunya,Spanish Grand Prix,42.23,Rain,Williams,0,9,Williams,2,williams,catalunya,0
+2024,10,Catalunya,Spanish Grand Prix,42.23,Rain,Sauber,0,10,Sauber,0,sauber,catalunya,0
+2024,11,Spielberg,Austrian Grand Prix,43.01,Rain,Red Bull,25,1,Red Bull,355,red_bull,red_bull_ring,0
+2024,11,Spielberg,Austrian Grand Prix,43.01,Rain,Ferrari,21,2,Ferrari,291,ferrari,red_bull_ring,0
+2024,11,Spielberg,Austrian Grand Prix,43.01,Rain,McLaren,31,3,McLaren,268,mclaren,red_bull_ring,0
+2024,11,Spielberg,Austrian Grand Prix,43.01,Rain,Mercedes,45,4,Mercedes,196,mercedes,red_bull_ring,0
+2024,11,Spielberg,Austrian Grand Prix,43.01,Rain,Aston Martin,0,5,Aston Martin,58,aston_martin,red_bull_ring,0
+2024,11,Spielberg,Austrian Grand Prix,43.01,Rain,Racing Bulls,2,6,Racing Bulls,30,rb,red_bull_ring,0
+2024,11,Spielberg,Austrian Grand Prix,43.01,Rain,Haas F1 Team,12,7,Haas F1 Team,19,haas,red_bull_ring,0
+2024,11,Spielberg,Austrian Grand Prix,43.01,Rain,Alpine,1,8,Alpine,9,alpine,red_bull_ring,0
+2024,11,Spielberg,Austrian Grand Prix,43.01,Rain,Williams,0,9,Williams,2,williams,red_bull_ring,0
+2024,11,Spielberg,Austrian Grand Prix,43.01,Rain,Sauber,0,10,Sauber,0,sauber,red_bull_ring,0
+2024,12,Silverstone,British Grand Prix,23.81,Rain,Red Bull,18,1,Red Bull,373,red_bull,silverstone,0
+2024,12,Silverstone,British Grand Prix,23.81,Rain,Ferrari,11,2,Ferrari,302,ferrari,silverstone,0
+2024,12,Silverstone,British Grand Prix,23.81,Rain,McLaren,27,3,McLaren,295,mclaren,silverstone,0
+2024,12,Silverstone,British Grand Prix,23.81,Rain,Mercedes,25,4,Mercedes,221,mercedes,silverstone,0
+2024,12,Silverstone,British Grand Prix,23.81,Rain,Aston Martin,10,5,Aston Martin,68,aston_martin,silverstone,0
+2024,12,Silverstone,British Grand Prix,23.81,Rain,Racing Bulls,1,6,Racing Bulls,31,rb,silverstone,0
+2024,12,Silverstone,British Grand Prix,23.81,Rain,Haas F1 Team,8,7,Haas F1 Team,27,haas,silverstone,0
+2024,12,Silverstone,British Grand Prix,23.81,Rain,Alpine,0,8,Alpine,9,alpine,silverstone,0
+2024,12,Silverstone,British Grand Prix,23.81,Rain,Williams,2,9,Williams,4,williams,silverstone,0
+2024,12,Silverstone,British Grand Prix,23.81,Rain,Sauber,0,10,Sauber,0,sauber,silverstone,0
+2024,13,Hungaroring,Hungarian Grand Prix,43.72,Rain,Red Bull,16,1,Red Bull,389,red_bull,hungaroring,0
+2024,13,Hungaroring,Hungarian Grand Prix,43.72,Rain,McLaren,43,2,McLaren,338,mclaren,hungaroring,0
+2024,13,Hungaroring,Hungarian Grand Prix,43.72,Rain,Ferrari,20,3,Ferrari,322,ferrari,hungaroring,0
+2024,13,Hungaroring,Hungarian Grand Prix,43.72,Rain,Mercedes,20,4,Mercedes,241,mercedes,hungaroring,0
+2024,13,Hungaroring,Hungarian Grand Prix,43.72,Rain,Aston Martin,1,5,Aston Martin,69,aston_martin,hungaroring,0
+2024,13,Hungaroring,Hungarian Grand Prix,43.72,Rain,Racing Bulls,2,6,Racing Bulls,33,rb,hungaroring,0
+2024,13,Hungaroring,Hungarian Grand Prix,43.72,Rain,Haas F1 Team,0,7,Haas F1 Team,27,haas,hungaroring,0
+2024,13,Hungaroring,Hungarian Grand Prix,43.72,Rain,Alpine,0,8,Alpine,9,alpine,hungaroring,0
+2024,13,Hungaroring,Hungarian Grand Prix,43.72,Rain,Williams,0,9,Williams,4,williams,hungaroring,0
+2024,13,Hungaroring,Hungarian Grand Prix,43.72,Rain,Sauber,0,10,Sauber,0,sauber,hungaroring,0
+2024,14,Spa-Francorchamps,Belgian Grand Prix,31.93,Rain,Red Bull,19,1,Red Bull,408,red_bull,spa,0
+2024,14,Spa-Francorchamps,Belgian Grand Prix,31.93,Rain,McLaren,28,2,McLaren,366,mclaren,spa,0
+2024,14,Spa-Francorchamps,Belgian Grand Prix,31.93,Rain,Ferrari,23,3,Ferrari,345,ferrari,spa,0
+2024,14,Spa-Francorchamps,Belgian Grand Prix,31.93,Rain,Mercedes,25,4,Mercedes,266,mercedes,spa,0
+2024,14,Spa-Francorchamps,Belgian Grand Prix,31.93,Rain,Aston Martin,4,5,Aston Martin,73,aston_martin,spa,0
+2024,14,Spa-Francorchamps,Belgian Grand Prix,31.93,Rain,Racing Bulls,1,6,Racing Bulls,34,rb,spa,0
+2024,14,Spa-Francorchamps,Belgian Grand Prix,31.93,Rain,Haas F1 Team,0,7,Haas F1 Team,27,haas,spa,0
+2024,14,Spa-Francorchamps,Belgian Grand Prix,31.93,Rain,Alpine,2,8,Alpine,11,alpine,spa,0
+2024,14,Spa-Francorchamps,Belgian Grand Prix,31.93,Rain,Williams,0,9,Williams,4,williams,spa,0
+2024,14,Spa-Francorchamps,Belgian Grand Prix,31.93,Rain,Sauber,0,10,Sauber,0,sauber,spa,0
+2024,15,Zandvoort,Dutch Grand Prix,27.08,Rain,Red Bull,26,1,Red Bull,434,red_bull,zandvoort,0
+2024,15,Zandvoort,Dutch Grand Prix,27.08,Rain,McLaren,38,2,McLaren,404,mclaren,zandvoort,0
+2024,15,Zandvoort,Dutch Grand Prix,27.08,Rain,Ferrari,25,3,Ferrari,370,ferrari,zandvoort,0
+2024,15,Zandvoort,Dutch Grand Prix,27.08,Rain,Mercedes,10,4,Mercedes,276,mercedes,zandvoort,0
+2024,15,Zandvoort,Dutch Grand Prix,27.08,Rain,Aston Martin,1,5,Aston Martin,74,aston_martin,zandvoort,0
+2024,15,Zandvoort,Dutch Grand Prix,27.08,Rain,Racing Bulls,0,6,Racing Bulls,34,rb,zandvoort,0
+2024,15,Zandvoort,Dutch Grand Prix,27.08,Rain,Haas F1 Team,0,7,Haas F1 Team,27,haas,zandvoort,0
+2024,15,Zandvoort,Dutch Grand Prix,27.08,Rain,Alpine,2,8,Alpine,13,alpine,zandvoort,0
+2024,15,Zandvoort,Dutch Grand Prix,27.08,Rain,Williams,0,9,Williams,4,williams,zandvoort,0
+2024,15,Zandvoort,Dutch Grand Prix,27.08,Rain,Sauber,0,10,Sauber,0,sauber,zandvoort,0
+2024,16,Monza,Italian Grand Prix,47.91,Dry,Red Bull,12,1,Red Bull,446,red_bull,monza,0
+2024,16,Monza,Italian Grand Prix,47.91,Dry,McLaren,34,2,McLaren,438,mclaren,monza,0
+2024,16,Monza,Italian Grand Prix,47.91,Dry,Ferrari,37,3,Ferrari,407,ferrari,monza,0
+2024,16,Monza,Italian Grand Prix,47.91,Dry,Mercedes,16,4,Mercedes,292,mercedes,monza,0
+2024,16,Monza,Italian Grand Prix,47.91,Dry,Aston Martin,0,5,Aston Martin,74,aston_martin,monza,0
+2024,16,Monza,Italian Grand Prix,47.91,Dry,Racing Bulls,0,6,Racing Bulls,34,rb,monza,0
+2024,16,Monza,Italian Grand Prix,47.91,Dry,Haas F1 Team,1,7,Haas F1 Team,28,haas,monza,0
+2024,16,Monza,Italian Grand Prix,47.91,Dry,Alpine,0,8,Alpine,13,alpine,monza,0
+2024,16,Monza,Italian Grand Prix,47.91,Dry,Williams,2,9,Williams,6,williams,monza,0
+2024,16,Monza,Italian Grand Prix,47.91,Dry,Sauber,0,10,Sauber,0,sauber,monza,0
+2024,17,Baku,Azerbaijan Grand Prix,38.6,Rain,McLaren,38,1,McLaren,476,mclaren,baku,0
+2024,17,Baku,Azerbaijan Grand Prix,38.6,Rain,Red Bull,10,2,Red Bull,456,red_bull,baku,0
+2024,17,Baku,Azerbaijan Grand Prix,38.6,Rain,Ferrari,18,3,Ferrari,425,ferrari,baku,0
+2024,17,Baku,Azerbaijan Grand Prix,38.6,Rain,Mercedes,17,4,Mercedes,309,mercedes,baku,0
+2024,17,Baku,Azerbaijan Grand Prix,38.6,Rain,Aston Martin,8,5,Aston Martin,82,aston_martin,baku,0
+2024,17,Baku,Azerbaijan Grand Prix,38.6,Rain,Racing Bulls,0,6,Racing Bulls,34,rb,baku,0
+2024,17,Baku,Azerbaijan Grand Prix,38.6,Rain,Haas F1 Team,1,7,Haas F1 Team,29,haas,baku,0
+2024,17,Baku,Azerbaijan Grand Prix,38.6,Rain,Williams,10,8,Williams,16,williams,baku,0
+2024,17,Baku,Azerbaijan Grand Prix,38.6,Rain,Alpine,0,9,Alpine,13,alpine,baku,0
+2024,17,Baku,Azerbaijan Grand Prix,38.6,Rain,Sauber,0,10,Sauber,0,sauber,baku,0
+2024,18,Singapore,Singapore Grand Prix,35.11,Dry,McLaren,40,1,McLaren,516,mclaren,marina_bay,0
+2024,18,Singapore,Singapore Grand Prix,35.11,Dry,Red Bull,19,2,Red Bull,475,red_bull,marina_bay,0
+2024,18,Singapore,Singapore Grand Prix,35.11,Dry,Ferrari,16,3,Ferrari,441,ferrari,marina_bay,0
+2024,18,Singapore,Singapore Grand Prix,35.11,Dry,Mercedes,20,4,Mercedes,329,mercedes,marina_bay,0
+2024,18,Singapore,Singapore Grand Prix,35.11,Dry,Aston Martin,4,5,Aston Martin,86,aston_martin,marina_bay,0
+2024,18,Singapore,Singapore Grand Prix,35.11,Dry,Racing Bulls,0,6,Racing Bulls,34,rb,marina_bay,0
+2024,18,Singapore,Singapore Grand Prix,35.11,Dry,Haas F1 Team,2,7,Haas F1 Team,31,haas,marina_bay,0
+2024,18,Singapore,Singapore Grand Prix,35.11,Dry,Williams,0,8,Williams,16,williams,marina_bay,0
+2024,18,Singapore,Singapore Grand Prix,35.11,Dry,Alpine,0,9,Alpine,13,alpine,marina_bay,0
+2024,18,Singapore,Singapore Grand Prix,35.11,Dry,Sauber,0,10,Sauber,0,sauber,marina_bay,0
+2024,19,Austin,United States Grand Prix,40.01,Dry,McLaren,28,1,McLaren,544,mclaren,americas,0
+2024,19,Austin,United States Grand Prix,40.01,Dry,Red Bull,29,2,Red Bull,504,red_bull,americas,0
+2024,19,Austin,United States Grand Prix,40.01,Dry,Ferrari,55,3,Ferrari,496,ferrari,americas,0
+2024,19,Austin,United States Grand Prix,40.01,Dry,Mercedes,15,4,Mercedes,344,mercedes,americas,0
+2024,19,Austin,United States Grand Prix,40.01,Dry,Aston Martin,0,5,Aston Martin,86,aston_martin,americas,0
+2024,19,Austin,United States Grand Prix,40.01,Dry,Haas F1 Team,7,6,Haas F1 Team,38,haas,americas,0
+2024,19,Austin,United States Grand Prix,40.01,Dry,Racing Bulls,2,7,Racing Bulls,36,rb,americas,0
+2024,19,Austin,United States Grand Prix,40.01,Dry,Williams,1,8,Williams,17,williams,americas,0
+2024,19,Austin,United States Grand Prix,40.01,Dry,Alpine,0,9,Alpine,13,alpine,americas,0
+2024,19,Austin,United States Grand Prix,40.01,Dry,Sauber,0,10,Sauber,0,sauber,americas,0
+2024,20,Mexico City,Mexico City Grand Prix,38.24,Dry,McLaren,22,1,McLaren,566,mclaren,rodriguez,0
+2024,20,Mexico City,Mexico City Grand Prix,38.24,Dry,Ferrari,41,2,Ferrari,537,ferrari,rodriguez,0
+2024,20,Mexico City,Mexico City Grand Prix,38.24,Dry,Red Bull,8,3,Red Bull,512,red_bull,rodriguez,0
+2024,20,Mexico City,Mexico City Grand Prix,38.24,Dry,Mercedes,22,4,Mercedes,366,mercedes,rodriguez,0
+2024,20,Mexico City,Mexico City Grand Prix,38.24,Dry,Aston Martin,0,5,Aston Martin,86,aston_martin,rodriguez,0
+2024,20,Mexico City,Mexico City Grand Prix,38.24,Dry,Haas F1 Team,8,6,Haas F1 Team,46,haas,rodriguez,0
+2024,20,Mexico City,Mexico City Grand Prix,38.24,Dry,Racing Bulls,0,7,Racing Bulls,36,rb,rodriguez,0
+2024,20,Mexico City,Mexico City Grand Prix,38.24,Dry,Williams,0,8,Williams,17,williams,rodriguez,0
+2024,20,Mexico City,Mexico City Grand Prix,38.24,Dry,Alpine,1,9,Alpine,14,alpine,rodriguez,0
+2024,20,Mexico City,Mexico City Grand Prix,38.24,Dry,Sauber,0,10,Sauber,0,sauber,rodriguez,0
+2024,21,Interlagos,São Paulo Grand Prix,37.75,Rain,McLaren,27,1,McLaren,593,mclaren,interlagos,0
+2024,21,Interlagos,São Paulo Grand Prix,37.75,Rain,Ferrari,20,2,Ferrari,557,ferrari,interlagos,0
+2024,21,Interlagos,São Paulo Grand Prix,37.75,Rain,Red Bull,32,3,Red Bull,544,red_bull,interlagos,0
+2024,21,Interlagos,São Paulo Grand Prix,37.75,Rain,Mercedes,16,4,Mercedes,382,mercedes,interlagos,0
+2024,21,Interlagos,São Paulo Grand Prix,37.75,Rain,Aston Martin,0,5,Aston Martin,86,aston_martin,interlagos,0
+2024,21,Interlagos,São Paulo Grand Prix,37.75,Rain,Alpine,35,6,Alpine,49,alpine,interlagos,0
+2024,21,Interlagos,São Paulo Grand Prix,37.75,Rain,Haas F1 Team,0,7,Haas F1 Team,46,haas,interlagos,0
+2024,21,Interlagos,São Paulo Grand Prix,37.75,Rain,Racing Bulls,8,8,Racing Bulls,44,rb,interlagos,0
+2024,21,Interlagos,São Paulo Grand Prix,37.75,Rain,Williams,0,9,Williams,17,williams,interlagos,0
+2024,21,Interlagos,São Paulo Grand Prix,37.75,Rain,Sauber,0,10,Sauber,0,sauber,interlagos,0
+2024,22,Las Vegas,Las Vegas Grand Prix,15.43,Dry,McLaren,15,1,McLaren,608,mclaren,vegas,0
+2024,22,Las Vegas,Las Vegas Grand Prix,15.43,Dry,Ferrari,27,2,Ferrari,584,ferrari,vegas,0
+2024,22,Las Vegas,Las Vegas Grand Prix,15.43,Dry,Red Bull,11,3,Red Bull,555,red_bull,vegas,0
+2024,22,Las Vegas,Las Vegas Grand Prix,15.43,Dry,Mercedes,43,4,Mercedes,425,mercedes,vegas,0
+2024,22,Las Vegas,Las Vegas Grand Prix,15.43,Dry,Aston Martin,0,5,Aston Martin,86,aston_martin,vegas,0
+2024,22,Las Vegas,Las Vegas Grand Prix,15.43,Dry,Haas F1 Team,4,6,Haas F1 Team,50,haas,vegas,0
+2024,22,Las Vegas,Las Vegas Grand Prix,15.43,Dry,Alpine,0,7,Alpine,49,alpine,vegas,0
+2024,22,Las Vegas,Las Vegas Grand Prix,15.43,Dry,Racing Bulls,2,8,Racing Bulls,46,rb,vegas,0
+2024,22,Las Vegas,Las Vegas Grand Prix,15.43,Dry,Williams,0,9,Williams,17,williams,vegas,0
+2024,22,Las Vegas,Las Vegas Grand Prix,15.43,Dry,Sauber,0,10,Sauber,0,sauber,vegas,0
+2024,23,Lusail,Qatar Grand Prix,23.49,Dry,McLaren,32,1,McLaren,640,mclaren,losail,0
+2024,23,Lusail,Qatar Grand Prix,23.49,Dry,Ferrari,35,2,Ferrari,619,ferrari,losail,0
+2024,23,Lusail,Qatar Grand Prix,23.49,Dry,Red Bull,26,3,Red Bull,581,red_bull,losail,0
+2024,23,Lusail,Qatar Grand Prix,23.49,Dry,Mercedes,21,4,Mercedes,446,mercedes,losail,0
+2024,23,Lusail,Qatar Grand Prix,23.49,Dry,Aston Martin,6,5,Aston Martin,92,aston_martin,losail,0
+2024,23,Lusail,Qatar Grand Prix,23.49,Dry,Alpine,10,6,Alpine,59,alpine,losail,0
+2024,23,Lusail,Qatar Grand Prix,23.49,Dry,Haas F1 Team,4,7,Haas F1 Team,54,haas,losail,0
+2024,23,Lusail,Qatar Grand Prix,23.49,Dry,Racing Bulls,0,8,Racing Bulls,46,rb,losail,0
+2024,23,Lusail,Qatar Grand Prix,23.49,Dry,Williams,0,9,Williams,17,williams,losail,0
+2024,23,Lusail,Qatar Grand Prix,23.49,Dry,Sauber,4,10,Sauber,4,sauber,losail,0
+2024,24,Yas Marina Circuit,Abu Dhabi Grand Prix,34.99,Dry,McLaren,26,1,McLaren,666,mclaren,yas_marina,0
+2024,24,Yas Marina Circuit,Abu Dhabi Grand Prix,34.99,Dry,Ferrari,33,2,Ferrari,652,ferrari,yas_marina,0
+2024,24,Yas Marina Circuit,Abu Dhabi Grand Prix,34.99,Dry,Red Bull,8,3,Red Bull,589,red_bull,yas_marina,0
+2024,24,Yas Marina Circuit,Abu Dhabi Grand Prix,34.99,Dry,Mercedes,22,4,Mercedes,468,mercedes,yas_marina,0
+2024,24,Yas Marina Circuit,Abu Dhabi Grand Prix,34.99,Dry,Aston Martin,2,5,Aston Martin,94,aston_martin,yas_marina,0
+2024,24,Yas Marina Circuit,Abu Dhabi Grand Prix,34.99,Dry,Alpine,6,6,Alpine,65,alpine,yas_marina,0
+2024,24,Yas Marina Circuit,Abu Dhabi Grand Prix,34.99,Dry,Haas F1 Team,4,7,Haas F1 Team,58,haas,yas_marina,0
+2024,24,Yas Marina Circuit,Abu Dhabi Grand Prix,34.99,Dry,Racing Bulls,0,8,Racing Bulls,46,rb,yas_marina,0
+2024,24,Yas Marina Circuit,Abu Dhabi Grand Prix,34.99,Dry,Williams,0,9,Williams,17,williams,yas_marina,0
+2024,24,Yas Marina Circuit,Abu Dhabi Grand Prix,34.99,Dry,Sauber,0,10,Sauber,4,sauber,yas_marina,0
+2025,1,Melbourne,Australian Grand Prix,36.69,Rain,McLaren,27,1,McLaren,27,mclaren,albert_park,0
+2025,1,Melbourne,Australian Grand Prix,36.69,Rain,Mercedes,27,2,Mercedes,27,mercedes,albert_park,0
+2025,1,Melbourne,Australian Grand Prix,36.69,Rain,Red Bull,18,3,Red Bull,18,red_bull,albert_park,0
+2025,1,Melbourne,Australian Grand Prix,36.69,Rain,Williams,10,4,Williams,10,williams,albert_park,0
+2025,1,Melbourne,Australian Grand Prix,36.69,Rain,Aston Martin,8,5,Aston Martin,8,aston_martin,albert_park,0
+2025,1,Melbourne,Australian Grand Prix,36.69,Rain,Sauber,6,6,Sauber,6,sauber,albert_park,0
+2025,1,Melbourne,Australian Grand Prix,36.69,Rain,Ferrari,5,7,Ferrari,5,ferrari,albert_park,0
+2025,1,Melbourne,Australian Grand Prix,36.69,Rain,Alpine,0,8,Alpine,0,alpine,albert_park,0
+2025,1,Melbourne,Australian Grand Prix,36.69,Rain,Racing Bulls,0,9,Racing Bulls,0,rb,albert_park,0
+2025,1,Melbourne,Australian Grand Prix,36.69,Rain,Haas F1 Team,0,10,Haas F1 Team,0,haas,albert_park,0
+2025,2,Shanghai,Chinese Grand Prix,36.62,Dry,McLaren,51,1,McLaren,78,mclaren,shanghai,0
+2025,2,Shanghai,Chinese Grand Prix,36.62,Dry,Mercedes,30,2,Mercedes,57,mercedes,shanghai,0
+2025,2,Shanghai,Chinese Grand Prix,36.62,Dry,Red Bull,18,3,Red Bull,36,red_bull,shanghai,0
+2025,2,Shanghai,Chinese Grand Prix,36.62,Dry,Williams,7,4,Williams,17,williams,shanghai,0
+2025,2,Shanghai,Chinese Grand Prix,36.62,Dry,Ferrari,12,5,Ferrari,17,ferrari,shanghai,0
+2025,2,Shanghai,Chinese Grand Prix,36.62,Dry,Haas F1 Team,14,6,Haas F1 Team,14,haas,shanghai,0
+2025,2,Shanghai,Chinese Grand Prix,36.62,Dry,Aston Martin,2,7,Aston Martin,10,aston_martin,shanghai,0
+2025,2,Shanghai,Chinese Grand Prix,36.62,Dry,Sauber,0,8,Sauber,6,sauber,shanghai,0
+2025,2,Shanghai,Chinese Grand Prix,36.62,Dry,Racing Bulls,3,9,Racing Bulls,3,rb,shanghai,0
+2025,2,Shanghai,Chinese Grand Prix,36.62,Dry,Alpine,0,10,Alpine,0,alpine,shanghai,0
+2025,3,Suzuka,Japanese Grand Prix,31.96,Dry,McLaren,33,1,McLaren,111,mclaren,suzuka,0
+2025,3,Suzuka,Japanese Grand Prix,31.96,Dry,Mercedes,18,2,Mercedes,75,mercedes,suzuka,0
+2025,3,Suzuka,Japanese Grand Prix,31.96,Dry,Red Bull,25,3,Red Bull,61,red_bull,suzuka,0
+2025,3,Suzuka,Japanese Grand Prix,31.96,Dry,Ferrari,18,4,Ferrari,35,ferrari,suzuka,0
+2025,3,Suzuka,Japanese Grand Prix,31.96,Dry,Williams,2,5,Williams,19,williams,suzuka,0
+2025,3,Suzuka,Japanese Grand Prix,31.96,Dry,Haas F1 Team,1,6,Haas F1 Team,15,haas,suzuka,0
+2025,3,Suzuka,Japanese Grand Prix,31.96,Dry,Aston Martin,0,7,Aston Martin,10,aston_martin,suzuka,0
+2025,3,Suzuka,Japanese Grand Prix,31.96,Dry,Racing Bulls,4,8,Racing Bulls,7,rb,suzuka,0
+2025,3,Suzuka,Japanese Grand Prix,31.96,Dry,Sauber,0,9,Sauber,6,sauber,suzuka,0
+2025,3,Suzuka,Japanese Grand Prix,31.96,Dry,Alpine,0,10,Alpine,0,alpine,suzuka,0
+2025,4,Sakhir,Bahrain Grand Prix,37.38,Dry,McLaren,40,1,McLaren,151,mclaren,bahrain,0
+2025,4,Sakhir,Bahrain Grand Prix,37.38,Dry,Mercedes,18,2,Mercedes,93,mercedes,bahrain,0
+2025,4,Sakhir,Bahrain Grand Prix,37.38,Dry,Red Bull,10,3,Red Bull,71,red_bull,bahrain,0
+2025,4,Sakhir,Bahrain Grand Prix,37.38,Dry,Ferrari,22,4,Ferrari,57,ferrari,bahrain,0
+2025,4,Sakhir,Bahrain Grand Prix,37.38,Dry,Haas F1 Team,5,5,Haas F1 Team,20,haas,bahrain,0
+2025,4,Sakhir,Bahrain Grand Prix,37.38,Dry,Williams,0,6,Williams,19,williams,bahrain,0
+2025,4,Sakhir,Bahrain Grand Prix,37.38,Dry,Aston Martin,0,7,Aston Martin,10,aston_martin,bahrain,0
+2025,4,Sakhir,Bahrain Grand Prix,37.38,Dry,Racing Bulls,0,8,Racing Bulls,7,rb,bahrain,0
+2025,4,Sakhir,Bahrain Grand Prix,37.38,Dry,Alpine,6,9,Alpine,6,alpine,bahrain,0
+2025,4,Sakhir,Bahrain Grand Prix,37.38,Dry,Sauber,0,10,Sauber,6,sauber,bahrain,0
+2025,5,Jeddah,Saudi Arabian Grand Prix,41.57,Dry,McLaren,37,1,McLaren,188,mclaren,jeddah,0
+2025,5,Jeddah,Saudi Arabian Grand Prix,41.57,Dry,Mercedes,18,2,Mercedes,111,mercedes,jeddah,0
+2025,5,Jeddah,Saudi Arabian Grand Prix,41.57,Dry,Red Bull,18,3,Red Bull,89,red_bull,jeddah,0
+2025,5,Jeddah,Saudi Arabian Grand Prix,41.57,Dry,Ferrari,21,4,Ferrari,78,ferrari,jeddah,0
+2025,5,Jeddah,Saudi Arabian Grand Prix,41.57,Dry,Williams,6,5,Williams,25,williams,jeddah,0
+2025,5,Jeddah,Saudi Arabian Grand Prix,41.57,Dry,Haas F1 Team,0,6,Haas F1 Team,20,haas,jeddah,0
+2025,5,Jeddah,Saudi Arabian Grand Prix,41.57,Dry,Aston Martin,0,7,Aston Martin,10,aston_martin,jeddah,0
+2025,5,Jeddah,Saudi Arabian Grand Prix,41.57,Dry,Racing Bulls,1,8,Racing Bulls,8,rb,jeddah,0
+2025,5,Jeddah,Saudi Arabian Grand Prix,41.57,Dry,Alpine,0,9,Alpine,6,alpine,jeddah,0
+2025,5,Jeddah,Saudi Arabian Grand Prix,41.57,Dry,Sauber,0,10,Sauber,6,sauber,jeddah,0
+2025,6,Miami,Miami Grand Prix,39.76,Rain,McLaren,58,1,McLaren,246,mclaren,miami,0
+2025,6,Miami,Miami Grand Prix,39.76,Rain,Mercedes,30,2,Mercedes,141,mercedes,miami,0
+2025,6,Miami,Miami Grand Prix,39.76,Rain,Red Bull,16,3,Red Bull,105,red_bull,miami,0
+2025,6,Miami,Miami Grand Prix,39.76,Rain,Ferrari,16,4,Ferrari,94,ferrari,miami,0
+2025,6,Miami,Miami Grand Prix,39.76,Rain,Williams,12,5,Williams,37,williams,miami,0
+2025,6,Miami,Miami Grand Prix,39.76,Rain,Haas F1 Team,0,6,Haas F1 Team,20,haas,miami,0
+2025,6,Miami,Miami Grand Prix,39.76,Rain,Aston Martin,4,7,Aston Martin,14,aston_martin,miami,0
+2025,6,Miami,Miami Grand Prix,39.76,Rain,Racing Bulls,0,8,Racing Bulls,8,rb,miami,0
+2025,6,Miami,Miami Grand Prix,39.76,Rain,Alpine,1,9,Alpine,7,alpine,miami,0
+2025,6,Miami,Miami Grand Prix,39.76,Rain,Sauber,0,10,Sauber,6,sauber,miami,0
+2025,7,Imola,Emilia Romagna Grand Prix,39.74,Dry,McLaren,33,1,McLaren,279,mclaren,imola,0
+2025,7,Imola,Emilia Romagna Grand Prix,39.74,Dry,Mercedes,6,2,Mercedes,147,mercedes,imola,0
+2025,7,Imola,Emilia Romagna Grand Prix,39.74,Dry,Red Bull,26,3,Red Bull,131,red_bull,imola,0
+2025,7,Imola,Emilia Romagna Grand Prix,39.74,Dry,Ferrari,20,4,Ferrari,114,ferrari,imola,0
+2025,7,Imola,Emilia Romagna Grand Prix,39.74,Dry,Williams,14,5,Williams,51,williams,imola,0
+2025,7,Imola,Emilia Romagna Grand Prix,39.74,Dry,Haas F1 Team,0,6,Haas F1 Team,20,haas,imola,0
+2025,7,Imola,Emilia Romagna Grand Prix,39.74,Dry,Aston Martin,0,7,Aston Martin,14,aston_martin,imola,0
+2025,7,Imola,Emilia Romagna Grand Prix,39.74,Dry,Racing Bulls,2,8,Racing Bulls,10,rb,imola,0
+2025,7,Imola,Emilia Romagna Grand Prix,39.74,Dry,Alpine,0,9,Alpine,7,alpine,imola,0
+2025,7,Imola,Emilia Romagna Grand Prix,39.74,Dry,Sauber,0,10,Sauber,6,sauber,imola,0
+2025,8,Monte Carlo,Monaco Grand Prix,40.09,Dry,McLaren,40,1,McLaren,319,mclaren,monaco,0
+2025,8,Monte Carlo,Monaco Grand Prix,40.09,Dry,Mercedes,0,2,Mercedes,147,mercedes,monaco,0
+2025,8,Monte Carlo,Monaco Grand Prix,40.09,Dry,Red Bull,12,3,Red Bull,143,red_bull,monaco,0
+2025,8,Monte Carlo,Monaco Grand Prix,40.09,Dry,Ferrari,28,4,Ferrari,142,ferrari,monaco,0
+2025,8,Monte Carlo,Monaco Grand Prix,40.09,Dry,Williams,3,5,Williams,54,williams,monaco,0
+2025,8,Monte Carlo,Monaco Grand Prix,40.09,Dry,Haas F1 Team,6,6,Haas F1 Team,26,haas,monaco,0
+2025,8,Monte Carlo,Monaco Grand Prix,40.09,Dry,Racing Bulls,12,7,Racing Bulls,22,rb,monaco,0
+2025,8,Monte Carlo,Monaco Grand Prix,40.09,Dry,Aston Martin,0,8,Aston Martin,14,aston_martin,monaco,0
+2025,8,Monte Carlo,Monaco Grand Prix,40.09,Dry,Alpine,0,9,Alpine,7,alpine,monaco,0
+2025,8,Monte Carlo,Monaco Grand Prix,40.09,Dry,Sauber,0,10,Sauber,6,sauber,monaco,0
+2025,9,Catalunya,Spanish Grand Prix,47.35,Dry,McLaren,43,1,McLaren,362,mclaren,catalunya,0
+2025,9,Catalunya,Spanish Grand Prix,47.35,Dry,Ferrari,23,2,Ferrari,165,ferrari,catalunya,0
+2025,9,Catalunya,Spanish Grand Prix,47.35,Dry,Mercedes,12,3,Mercedes,159,mercedes,catalunya,0
+2025,9,Catalunya,Spanish Grand Prix,47.35,Dry,Red Bull,1,4,Red Bull,144,red_bull,catalunya,0
+2025,9,Catalunya,Spanish Grand Prix,47.35,Dry,Williams,0,5,Williams,54,williams,catalunya,0
+2025,9,Catalunya,Spanish Grand Prix,47.35,Dry,Racing Bulls,6,6,Racing Bulls,28,rb,catalunya,0
+2025,9,Catalunya,Spanish Grand Prix,47.35,Dry,Haas F1 Team,0,7,Haas F1 Team,26,haas,catalunya,0
+2025,9,Catalunya,Spanish Grand Prix,47.35,Dry,Sauber,10,8,Sauber,16,sauber,catalunya,0
+2025,9,Catalunya,Spanish Grand Prix,47.35,Dry,Aston Martin,2,9,Aston Martin,16,aston_martin,catalunya,0
+2025,9,Catalunya,Spanish Grand Prix,47.35,Dry,Alpine,4,10,Alpine,11,alpine,catalunya,0
+2025,10,Montreal,Canadian Grand Prix,43.7,Rain,McLaren,12,1,McLaren,374,mclaren,villeneuve,0
+2025,10,Montreal,Canadian Grand Prix,43.7,Rain,Mercedes,40,2,Mercedes,199,mercedes,villeneuve,0
+2025,10,Montreal,Canadian Grand Prix,43.7,Rain,Ferrari,18,3,Ferrari,183,ferrari,villeneuve,0
+2025,10,Montreal,Canadian Grand Prix,43.7,Rain,Red Bull,18,4,Red Bull,162,red_bull,villeneuve,0
+2025,10,Montreal,Canadian Grand Prix,43.7,Rain,Williams,1,5,Williams,55,williams,villeneuve,0
+2025,10,Montreal,Canadian Grand Prix,43.7,Rain,Haas F1 Team,2,6,Haas F1 Team,28,haas,villeneuve,0
+2025,10,Montreal,Canadian Grand Prix,43.7,Rain,Racing Bulls,0,7,Racing Bulls,28,rb,villeneuve,0
+2025,10,Montreal,Canadian Grand Prix,43.7,Rain,Aston Martin,6,8,Aston Martin,22,aston_martin,villeneuve,0
+2025,10,Montreal,Canadian Grand Prix,43.7,Rain,Sauber,4,9,Sauber,20,sauber,villeneuve,0
+2025,10,Montreal,Canadian Grand Prix,43.7,Rain,Alpine,0,10,Alpine,11,alpine,villeneuve,0
+2025,11,Spielberg,Austrian Grand Prix,41.65,Dry,McLaren,43,1,McLaren,417,mclaren,red_bull_ring,0
+2025,11,Spielberg,Austrian Grand Prix,41.65,Dry,Ferrari,27,2,Ferrari,210,ferrari,red_bull_ring,0
+2025,11,Spielberg,Austrian Grand Prix,41.65,Dry,Mercedes,10,3,Mercedes,209,mercedes,red_bull_ring,0
+2025,11,Spielberg,Austrian Grand Prix,41.65,Dry,Red Bull,0,4,Red Bull,162,red_bull,red_bull_ring,0
+2025,11,Spielberg,Austrian Grand Prix,41.65,Dry,Williams,0,5,Williams,55,williams,red_bull_ring,0
+2025,11,Spielberg,Austrian Grand Prix,41.65,Dry,Racing Bulls,8,6,Racing Bulls,36,rb,red_bull_ring,0
+2025,11,Spielberg,Austrian Grand Prix,41.65,Dry,Haas F1 Team,1,7,Haas F1 Team,29,haas,red_bull_ring,0
+2025,11,Spielberg,Austrian Grand Prix,41.65,Dry,Aston Martin,6,8,Aston Martin,28,aston_martin,red_bull_ring,0
+2025,11,Spielberg,Austrian Grand Prix,41.65,Dry,Sauber,6,9,Sauber,26,sauber,red_bull_ring,0
+2025,11,Spielberg,Austrian Grand Prix,41.65,Dry,Alpine,0,10,Alpine,11,alpine,red_bull_ring,0
+2025,12,Silverstone,British Grand Prix,31.07,Rain,McLaren,43,1,McLaren,460,mclaren,silverstone,0
+2025,12,Silverstone,British Grand Prix,31.07,Rain,Ferrari,12,2,Ferrari,222,ferrari,silverstone,0
+2025,12,Silverstone,British Grand Prix,31.07,Rain,Mercedes,1,3,Mercedes,210,mercedes,silverstone,0
+2025,12,Silverstone,British Grand Prix,31.07,Rain,Red Bull,10,4,Red Bull,172,red_bull,silverstone,0
+2025,12,Silverstone,British Grand Prix,31.07,Rain,Williams,4,5,Williams,59,williams,silverstone,0
+2025,12,Silverstone,British Grand Prix,31.07,Rain,Sauber,15,6,Sauber,41,sauber,silverstone,0
+2025,12,Silverstone,British Grand Prix,31.07,Rain,Racing Bulls,0,7,Racing Bulls,36,rb,silverstone,0
+2025,12,Silverstone,British Grand Prix,31.07,Rain,Aston Martin,8,8,Aston Martin,36,aston_martin,silverstone,0
+2025,12,Silverstone,British Grand Prix,31.07,Rain,Haas F1 Team,0,9,Haas F1 Team,29,haas,silverstone,0
+2025,12,Silverstone,British Grand Prix,31.07,Rain,Alpine,8,10,Alpine,19,alpine,silverstone,0
+2025,13,Spa-Francorchamps,Belgian Grand Prix,32.34,Rain,McLaren,56,1,McLaren,516,mclaren,spa,0
+2025,13,Spa-Francorchamps,Belgian Grand Prix,32.34,Rain,Ferrari,26,2,Ferrari,248,ferrari,spa,0
+2025,13,Spa-Francorchamps,Belgian Grand Prix,32.34,Rain,Mercedes,10,3,Mercedes,220,mercedes,spa,0
+2025,13,Spa-Francorchamps,Belgian Grand Prix,32.34,Rain,Red Bull,20,4,Red Bull,192,red_bull,spa,0
+2025,13,Spa-Francorchamps,Belgian Grand Prix,32.34,Rain,Williams,11,5,Williams,70,williams,spa,0
+2025,13,Spa-Francorchamps,Belgian Grand Prix,32.34,Rain,Sauber,2,6,Sauber,43,sauber,spa,0
+2025,13,Spa-Francorchamps,Belgian Grand Prix,32.34,Rain,Racing Bulls,5,7,Racing Bulls,41,rb,spa,0
+2025,13,Spa-Francorchamps,Belgian Grand Prix,32.34,Rain,Aston Martin,0,8,Aston Martin,36,aston_martin,spa,0
+2025,13,Spa-Francorchamps,Belgian Grand Prix,32.34,Rain,Haas F1 Team,6,9,Haas F1 Team,35,haas,spa,0
+2025,13,Spa-Francorchamps,Belgian Grand Prix,32.34,Rain,Alpine,1,10,Alpine,20,alpine,spa,0
+2025,14,Hungaroring,Hungarian Grand Prix,41.31,Dry,McLaren,43,1,McLaren,559,mclaren,hungaroring,0
+2025,14,Hungaroring,Hungarian Grand Prix,41.31,Dry,Ferrari,12,2,Ferrari,260,ferrari,hungaroring,0
+2025,14,Hungaroring,Hungarian Grand Prix,41.31,Dry,Mercedes,16,3,Mercedes,236,mercedes,hungaroring,0
+2025,14,Hungaroring,Hungarian Grand Prix,41.31,Dry,Red Bull,2,4,Red Bull,194,red_bull,hungaroring,0
+2025,14,Hungaroring,Hungarian Grand Prix,41.31,Dry,Williams,0,5,Williams,70,williams,hungaroring,0
+2025,14,Hungaroring,Hungarian Grand Prix,41.31,Dry,Aston Martin,16,6,Aston Martin,52,aston_martin,hungaroring,0
+2025,14,Hungaroring,Hungarian Grand Prix,41.31,Dry,Sauber,8,7,Sauber,51,sauber,hungaroring,0
+2025,14,Hungaroring,Hungarian Grand Prix,41.31,Dry,Racing Bulls,4,8,Racing Bulls,45,rb,hungaroring,0
+2025,14,Hungaroring,Hungarian Grand Prix,41.31,Dry,Haas F1 Team,0,9,Haas F1 Team,35,haas,hungaroring,0
+2025,14,Hungaroring,Hungarian Grand Prix,41.31,Dry,Alpine,0,10,Alpine,20,alpine,hungaroring,0
+2025,15,Zandvoort,Dutch Grand Prix,28.23,Dry,McLaren,25,1,McLaren,584,mclaren,zandvoort,0
+2025,15,Zandvoort,Dutch Grand Prix,28.23,Dry,Ferrari,0,2,Ferrari,260,ferrari,zandvoort,0
+2025,15,Zandvoort,Dutch Grand Prix,28.23,Dry,Mercedes,12,3,Mercedes,248,mercedes,zandvoort,0
+2025,15,Zandvoort,Dutch Grand Prix,28.23,Dry,Red Bull,20,4,Red Bull,214,red_bull,zandvoort,0
+2025,15,Zandvoort,Dutch Grand Prix,28.23,Dry,Williams,10,5,Williams,80,williams,zandvoort,0
+2025,15,Zandvoort,Dutch Grand Prix,28.23,Dry,Aston Martin,10,6,Aston Martin,62,aston_martin,zandvoort,0
+2025,15,Zandvoort,Dutch Grand Prix,28.23,Dry,Racing Bulls,15,7,Racing Bulls,60,rb,zandvoort,0
+2025,15,Zandvoort,Dutch Grand Prix,28.23,Dry,Sauber,0,8,Sauber,51,sauber,zandvoort,0
+2025,15,Zandvoort,Dutch Grand Prix,28.23,Dry,Haas F1 Team,9,9,Haas F1 Team,44,haas,zandvoort,0
+2025,15,Zandvoort,Dutch Grand Prix,28.23,Dry,Alpine,0,10,Alpine,20,alpine,zandvoort,0
+2025,16,Monza,Italian Grand Prix,42.5,Dry,McLaren,33,1,McLaren,617,mclaren,monza,0
+2025,16,Monza,Italian Grand Prix,42.5,Dry,Ferrari,20,2,Ferrari,280,ferrari,monza,0
+2025,16,Monza,Italian Grand Prix,42.5,Dry,Mercedes,12,3,Mercedes,260,mercedes,monza,0
+2025,16,Monza,Italian Grand Prix,42.5,Dry,Red Bull,25,4,Red Bull,239,red_bull,monza,0
+2025,16,Monza,Italian Grand Prix,42.5,Dry,Williams,6,5,Williams,86,williams,monza,0
+2025,16,Monza,Italian Grand Prix,42.5,Dry,Aston Martin,0,6,Aston Martin,62,aston_martin,monza,0
+2025,16,Monza,Italian Grand Prix,42.5,Dry,Racing Bulls,1,7,Racing Bulls,61,rb,monza,0
+2025,16,Monza,Italian Grand Prix,42.5,Dry,Sauber,4,8,Sauber,55,sauber,monza,0
+2025,16,Monza,Italian Grand Prix,42.5,Dry,Haas F1 Team,0,9,Haas F1 Team,44,haas,monza,0
+2025,16,Monza,Italian Grand Prix,42.5,Dry,Alpine,0,10,Alpine,20,alpine,monza,0
+2025,17,Baku,Azerbaijan Grand Prix,28.31,Rain,McLaren,6,1,McLaren,623,mclaren,baku,0
+2025,17,Baku,Azerbaijan Grand Prix,28.31,Rain,Mercedes,30,2,Mercedes,290,mercedes,baku,0
+2025,17,Baku,Azerbaijan Grand Prix,28.31,Rain,Ferrari,6,3,Ferrari,286,ferrari,baku,0
+2025,17,Baku,Azerbaijan Grand Prix,28.31,Rain,Red Bull,33,4,Red Bull,272,red_bull,baku,0
+2025,17,Baku,Azerbaijan Grand Prix,28.31,Rain,Williams,15,5,Williams,101,williams,baku,0
+2025,17,Baku,Azerbaijan Grand Prix,28.31,Rain,Racing Bulls,11,6,Racing Bulls,72,rb,baku,0
+2025,17,Baku,Azerbaijan Grand Prix,28.31,Rain,Aston Martin,0,7,Aston Martin,62,aston_martin,baku,0
+2025,17,Baku,Azerbaijan Grand Prix,28.31,Rain,Sauber,0,8,Sauber,55,sauber,baku,0
+2025,17,Baku,Azerbaijan Grand Prix,28.31,Rain,Haas F1 Team,0,9,Haas F1 Team,44,haas,baku,0
+2025,17,Baku,Azerbaijan Grand Prix,28.31,Rain,Alpine,0,10,Alpine,20,alpine,baku,0
+2025,18,Singapore,Singapore Grand Prix,36.53,Rain,McLaren,27,1,McLaren,650,mclaren,marina_bay,0
+2025,18,Singapore,Singapore Grand Prix,36.53,Rain,Mercedes,35,2,Mercedes,325,mercedes,marina_bay,0
+2025,18,Singapore,Singapore Grand Prix,36.53,Rain,Ferrari,12,3,Ferrari,298,ferrari,marina_bay,0
+2025,18,Singapore,Singapore Grand Prix,36.53,Rain,Red Bull,18,4,Red Bull,290,red_bull,marina_bay,0
+2025,18,Singapore,Singapore Grand Prix,36.53,Rain,Williams,1,5,Williams,102,williams,marina_bay,0
+2025,18,Singapore,Singapore Grand Prix,36.53,Rain,Racing Bulls,0,6,Racing Bulls,72,rb,marina_bay,0
+2025,18,Singapore,Singapore Grand Prix,36.53,Rain,Aston Martin,6,7,Aston Martin,68,aston_martin,marina_bay,0
+2025,18,Singapore,Singapore Grand Prix,36.53,Rain,Sauber,0,8,Sauber,55,sauber,marina_bay,0
+2025,18,Singapore,Singapore Grand Prix,36.53,Rain,Haas F1 Team,2,9,Haas F1 Team,46,haas,marina_bay,0
+2025,18,Singapore,Singapore Grand Prix,36.53,Rain,Alpine,0,10,Alpine,20,alpine,marina_bay,0
+2025,19,Austin,United States Grand Prix,44.47,Dry,McLaren,28,1,McLaren,678,mclaren,americas,0
+2025,19,Austin,United States Grand Prix,44.47,Dry,Mercedes,16,2,Mercedes,341,mercedes,americas,0
+2025,19,Austin,United States Grand Prix,44.47,Dry,Ferrari,36,3,Ferrari,334,ferrari,americas,0
+2025,19,Austin,United States Grand Prix,44.47,Dry,Red Bull,41,4,Red Bull,331,red_bull,americas,0
+2025,19,Austin,United States Grand Prix,44.47,Dry,Williams,9,5,Williams,111,williams,americas,0
+2025,19,Austin,United States Grand Prix,44.47,Dry,Racing Bulls,0,6,Racing Bulls,72,rb,americas,0
+2025,19,Austin,United States Grand Prix,44.47,Dry,Aston Martin,1,7,Aston Martin,69,aston_martin,americas,0
+2025,19,Austin,United States Grand Prix,44.47,Dry,Sauber,4,8,Sauber,59,sauber,americas,0
+2025,19,Austin,United States Grand Prix,44.47,Dry,Haas F1 Team,2,9,Haas F1 Team,48,haas,americas,0
+2025,19,Austin,United States Grand Prix,44.47,Dry,Alpine,0,10,Alpine,20,alpine,americas,0
+2025,20,Mexico City,Mexico City Grand Prix,47.56,Dry,McLaren,35,1,McLaren,713,mclaren,rodriguez,0
+2025,20,Mexico City,Mexico City Grand Prix,47.56,Dry,Ferrari,22,2,Ferrari,356,ferrari,rodriguez,0
+2025,20,Mexico City,Mexico City Grand Prix,47.56,Dry,Mercedes,14,3,Mercedes,355,mercedes,rodriguez,0
+2025,20,Mexico City,Mexico City Grand Prix,47.56,Dry,Red Bull,15,4,Red Bull,346,red_bull,rodriguez,0
+2025,20,Mexico City,Mexico City Grand Prix,47.56,Dry,Williams,0,5,Williams,111,williams,rodriguez,0
+2025,20,Mexico City,Mexico City Grand Prix,47.56,Dry,Racing Bulls,0,6,Racing Bulls,72,rb,rodriguez,0
+2025,20,Mexico City,Mexico City Grand Prix,47.56,Dry,Aston Martin,0,7,Aston Martin,69,aston_martin,rodriguez,0
+2025,20,Mexico City,Mexico City Grand Prix,47.56,Dry,Haas F1 Team,14,8,Haas F1 Team,62,haas,rodriguez,0
+2025,20,Mexico City,Mexico City Grand Prix,47.56,Dry,Sauber,1,9,Sauber,60,sauber,rodriguez,0
+2025,20,Mexico City,Mexico City Grand Prix,47.56,Dry,Alpine,0,10,Alpine,20,alpine,rodriguez,0
+2025,21,Interlagos,São Paulo Grand Prix,32.56,Rain,McLaren,43,1,McLaren,756,mclaren,interlagos,0
+2025,21,Interlagos,São Paulo Grand Prix,32.56,Rain,Mercedes,43,2,Mercedes,398,mercedes,interlagos,0
+2025,21,Interlagos,São Paulo Grand Prix,32.56,Rain,Red Bull,20,3,Red Bull,366,red_bull,interlagos,0
+2025,21,Interlagos,São Paulo Grand Prix,32.56,Rain,Ferrari,6,4,Ferrari,362,ferrari,interlagos,0
+2025,21,Interlagos,São Paulo Grand Prix,32.56,Rain,Williams,0,5,Williams,111,williams,interlagos,0
+2025,21,Interlagos,São Paulo Grand Prix,32.56,Rain,Racing Bulls,10,6,Racing Bulls,82,rb,interlagos,0
+2025,21,Interlagos,São Paulo Grand Prix,32.56,Rain,Aston Martin,3,7,Aston Martin,72,aston_martin,interlagos,0
+2025,21,Interlagos,São Paulo Grand Prix,32.56,Rain,Haas F1 Team,8,8,Haas F1 Team,70,haas,interlagos,0
+2025,21,Interlagos,São Paulo Grand Prix,32.56,Rain,Sauber,2,9,Sauber,62,sauber,interlagos,0
+2025,21,Interlagos,São Paulo Grand Prix,32.56,Rain,Alpine,2,10,Alpine,22,alpine,interlagos,0
+2025,22,Las Vegas,Las Vegas Grand Prix,15.16,Rain,McLaren,0,1,McLaren,756,mclaren,vegas,0
+2025,22,Las Vegas,Las Vegas Grand Prix,15.16,Rain,Mercedes,33,2,Mercedes,431,mercedes,vegas,0
+2025,22,Las Vegas,Las Vegas Grand Prix,15.16,Rain,Red Bull,25,3,Red Bull,391,red_bull,vegas,0
+2025,22,Las Vegas,Las Vegas Grand Prix,15.16,Rain,Ferrari,16,4,Ferrari,378,ferrari,vegas,0
+2025,22,Las Vegas,Las Vegas Grand Prix,15.16,Rain,Williams,10,5,Williams,121,williams,vegas,0
+2025,22,Las Vegas,Las Vegas Grand Prix,15.16,Rain,Racing Bulls,8,6,Racing Bulls,90,rb,vegas,0
+2025,22,Las Vegas,Las Vegas Grand Prix,15.16,Rain,Haas F1 Team,3,7,Haas F1 Team,73,haas,vegas,0
+2025,22,Las Vegas,Las Vegas Grand Prix,15.16,Rain,Aston Martin,0,8,Aston Martin,72,aston_martin,vegas,0
+2025,22,Las Vegas,Las Vegas Grand Prix,15.16,Rain,Sauber,6,9,Sauber,68,sauber,vegas,0
+2025,22,Las Vegas,Las Vegas Grand Prix,15.16,Rain,Alpine,0,10,Alpine,22,alpine,vegas,0
+2025,23,Lusail,Qatar Grand Prix,28.4,Dry,McLaren,44,1,McLaren,800,mclaren,losail,0
+2025,23,Lusail,Qatar Grand Prix,28.4,Dry,Mercedes,28,2,Mercedes,459,mercedes,losail,0
+2025,23,Lusail,Qatar Grand Prix,28.4,Dry,Red Bull,35,3,Red Bull,426,red_bull,losail,0
+2025,23,Lusail,Qatar Grand Prix,28.4,Dry,Ferrari,4,4,Ferrari,382,ferrari,losail,0
+2025,23,Lusail,Qatar Grand Prix,28.4,Dry,Williams,16,5,Williams,137,williams,losail,0
+2025,23,Lusail,Qatar Grand Prix,28.4,Dry,Racing Bulls,2,6,Racing Bulls,92,rb,losail,0
+2025,23,Lusail,Qatar Grand Prix,28.4,Dry,Aston Martin,8,7,Aston Martin,80,aston_martin,losail,0
+2025,23,Lusail,Qatar Grand Prix,28.4,Dry,Haas F1 Team,0,8,Haas F1 Team,73,haas,losail,0
+2025,23,Lusail,Qatar Grand Prix,28.4,Dry,Sauber,0,9,Sauber,68,sauber,losail,0
+2025,23,Lusail,Qatar Grand Prix,28.4,Dry,Alpine,0,10,Alpine,22,alpine,losail,0
+2025,24,Yas Marina Circuit,Abu Dhabi Grand Prix,32.63,Dry,McLaren,33,1,McLaren,833,mclaren,yas_marina,0
+2025,24,Yas Marina Circuit,Abu Dhabi Grand Prix,32.63,Dry,Mercedes,10,2,Mercedes,469,mercedes,yas_marina,0
+2025,24,Yas Marina Circuit,Abu Dhabi Grand Prix,32.63,Dry,Red Bull,25,3,Red Bull,451,red_bull,yas_marina,0
+2025,24,Yas Marina Circuit,Abu Dhabi Grand Prix,32.63,Dry,Ferrari,16,4,Ferrari,398,ferrari,yas_marina,0
+2025,24,Yas Marina Circuit,Abu Dhabi Grand Prix,32.63,Dry,Williams,0,5,Williams,137,williams,yas_marina,0
+2025,24,Yas Marina Circuit,Abu Dhabi Grand Prix,32.63,Dry,Racing Bulls,0,6,Racing Bulls,92,rb,yas_marina,0
+2025,24,Yas Marina Circuit,Abu Dhabi Grand Prix,32.63,Dry,Aston Martin,9,7,Aston Martin,89,aston_martin,yas_marina,0
+2025,24,Yas Marina Circuit,Abu Dhabi Grand Prix,32.63,Dry,Haas F1 Team,6,8,Haas F1 Team,79,haas,yas_marina,0
+2025,24,Yas Marina Circuit,Abu Dhabi Grand Prix,32.63,Dry,Sauber,2,9,Sauber,70,sauber,yas_marina,0
+2025,24,Yas Marina Circuit,Abu Dhabi Grand Prix,32.63,Dry,Alpine,0,10,Alpine,22,alpine,yas_marina,0
+2026,1,Melbourne,Australian Grand Prix,35.76,Dry,Mercedes,43,1,Mercedes,43,mercedes,albert_park,0
+2026,1,Melbourne,Australian Grand Prix,35.76,Dry,Ferrari,27,2,Ferrari,27,ferrari,albert_park,0
+2026,1,Melbourne,Australian Grand Prix,35.76,Dry,McLaren,10,3,McLaren,10,mclaren,albert_park,0
+2026,1,Melbourne,Australian Grand Prix,35.76,Dry,Red Bull,8,4,Red Bull,8,red_bull,albert_park,0
+2026,1,Melbourne,Australian Grand Prix,35.76,Dry,Haas F1 Team,6,5,Haas F1 Team,6,haas,albert_park,0
+2026,1,Melbourne,Australian Grand Prix,35.76,Dry,Racing Bulls,4,6,Racing Bulls,4,rb,albert_park,0
+2026,1,Melbourne,Australian Grand Prix,35.76,Dry,Audi,2,7,Audi,2,audi,albert_park,0
+2026,1,Melbourne,Australian Grand Prix,35.76,Dry,Alpine,1,8,Alpine,1,alpine,albert_park,0
+2026,1,Melbourne,Australian Grand Prix,35.76,Dry,Williams,0,9,Williams,0,williams,albert_park,0
+2026,1,Melbourne,Australian Grand Prix,35.76,Dry,Cadillac,0,10,Cadillac,0,cadillac,albert_park,0
+2026,1,Melbourne,Australian Grand Prix,35.76,Dry,Aston Martin,0,11,Aston Martin,0,aston_martin,albert_park,0
+2026,2,Shanghai,Chinese Grand Prix,23,Dry,Mercedes,55,1,Mercedes,98,mercedes,shanghai,0
+2026,2,Shanghai,Chinese Grand Prix,23,Dry,Ferrari,40,2,Ferrari,67,ferrari,shanghai,0
+2026,2,Shanghai,Chinese Grand Prix,23,Dry,McLaren,8,3,McLaren,18,mclaren,shanghai,0
+2026,2,Shanghai,Chinese Grand Prix,23,Dry,Haas F1 Team,11,4,Haas F1 Team,17,haas,shanghai,0
+2026,2,Shanghai,Chinese Grand Prix,23,Dry,Red Bull,4,5,Red Bull,12,red_bull,shanghai,0
+2026,2,Shanghai,Chinese Grand Prix,23,Dry,Racing Bulls,8,6,Racing Bulls,12,rb,shanghai,0
+2026,2,Shanghai,Chinese Grand Prix,23,Dry,Alpine,9,7,Alpine,10,alpine,shanghai,0
+2026,2,Shanghai,Chinese Grand Prix,23,Dry,Audi,0,8,Audi,2,audi,shanghai,0
+2026,2,Shanghai,Chinese Grand Prix,23,Dry,Williams,2,9,Williams,2,williams,shanghai,0
+2026,2,Shanghai,Chinese Grand Prix,23,Dry,Cadillac,0,10,Cadillac,0,cadillac,shanghai,0
+2026,2,Shanghai,Chinese Grand Prix,23,Dry,Aston Martin,0,11,Aston Martin,0,aston_martin,shanghai,0
+2026,3,Suzuka,Japanese Grand Prix,,Unknown,Mercedes,37,1,Mercedes,135,mercedes,suzuka,0
+2026,3,Suzuka,Japanese Grand Prix,,Unknown,Ferrari,23,2,Ferrari,90,ferrari,suzuka,0
+2026,3,Suzuka,Japanese Grand Prix,,Unknown,McLaren,28,3,McLaren,46,mclaren,suzuka,0
+2026,3,Suzuka,Japanese Grand Prix,,Unknown,Haas F1 Team,1,4,Haas F1 Team,18,haas,suzuka,0
+2026,3,Suzuka,Japanese Grand Prix,,Unknown,Alpine,6,5,Alpine,16,alpine,suzuka,0
+2026,3,Suzuka,Japanese Grand Prix,,Unknown,Red Bull,4,6,Red Bull,16,red_bull,suzuka,0
+2026,3,Suzuka,Japanese Grand Prix,,Unknown,Racing Bulls,2,7,Racing Bulls,14,rb,suzuka,0
+2026,3,Suzuka,Japanese Grand Prix,,Unknown,Audi,0,8,Audi,2,audi,suzuka,0
+2026,3,Suzuka,Japanese Grand Prix,,Unknown,Williams,0,9,Williams,2,williams,suzuka,0
+2026,3,Suzuka,Japanese Grand Prix,,Unknown,Cadillac,0,10,Cadillac,0,cadillac,suzuka,0
+2026,3,Suzuka,Japanese Grand Prix,,Unknown,Aston Martin,0,11,Aston Martin,0,aston_martin,suzuka,0
+2026,4,Miami,Miami Grand Prix,,Unknown,Mercedes,45,1,Mercedes,180,mercedes,miami,0
+2026,4,Miami,Miami Grand Prix,,Unknown,Ferrari,20,2,Ferrari,110,ferrari,miami,0
+2026,4,Miami,Miami Grand Prix,,Unknown,McLaren,48,3,McLaren,94,mclaren,miami,0
+2026,4,Miami,Miami Grand Prix,,Unknown,Red Bull,14,4,Red Bull,30,red_bull,miami,0
+2026,4,Miami,Miami Grand Prix,,Unknown,Alpine,7,5,Alpine,23,alpine,miami,0
+2026,4,Miami,Miami Grand Prix,,Unknown,Haas F1 Team,0,6,Haas F1 Team,18,haas,miami,0
+2026,4,Miami,Miami Grand Prix,,Unknown,Racing Bulls,0,7,Racing Bulls,14,rb,miami,0
+2026,4,Miami,Miami Grand Prix,,Unknown,Williams,3,8,Williams,5,williams,miami,0
+2026,4,Miami,Miami Grand Prix,,Unknown,Audi,0,9,Audi,2,audi,miami,0
+2026,4,Miami,Miami Grand Prix,,Unknown,Cadillac,0,10,Cadillac,0,cadillac,miami,0
+2026,4,Miami,Miami Grand Prix,,Unknown,Aston Martin,0,11,Aston Martin,0,aston_martin,miami,0
+2026,5,Montreal,Canadian Grand Prix,,Unknown,Mercedes,39,1,Mercedes,219,mercedes,villeneuve,0
+2026,5,Montreal,Canadian Grand Prix,,Unknown,Ferrari,37,2,Ferrari,147,ferrari,villeneuve,0
+2026,5,Montreal,Canadian Grand Prix,,Unknown,McLaren,12,3,McLaren,106,mclaren,villeneuve,0
+2026,5,Montreal,Canadian Grand Prix,,Unknown,Red Bull,27,4,Red Bull,57,red_bull,villeneuve,0
+2026,5,Montreal,Canadian Grand Prix,,Unknown,Alpine,12,5,Alpine,35,alpine,villeneuve,0
+2026,5,Montreal,Canadian Grand Prix,,Unknown,Racing Bulls,7,6,Racing Bulls,21,rb,villeneuve,0
+2026,5,Montreal,Canadian Grand Prix,,Unknown,Haas F1 Team,1,7,Haas F1 Team,19,haas,villeneuve,0
+2026,5,Montreal,Canadian Grand Prix,,Unknown,Williams,2,8,Williams,7,williams,villeneuve,0
+2026,5,Montreal,Canadian Grand Prix,,Unknown,Audi,0,9,Audi,2,audi,villeneuve,0
+2026,5,Montreal,Canadian Grand Prix,,Unknown,Cadillac,0,10,Cadillac,0,cadillac,villeneuve,0
+2026,5,Montreal,Canadian Grand Prix,,Unknown,Aston Martin,0,11,Aston Martin,0,aston_martin,villeneuve,0
+2026,6,Monte Carlo,Monaco Grand Prix,,Unknown,Mercedes,25,1,Mercedes,244,mercedes,monaco,0
+2026,6,Monte Carlo,Monaco Grand Prix,,Unknown,Ferrari,18,2,Ferrari,165,ferrari,monaco,0
+2026,6,Monte Carlo,Monaco Grand Prix,,Unknown,McLaren,10,3,McLaren,116,mclaren,monaco,0
+2026,6,Monte Carlo,Monaco Grand Prix,,Unknown,Red Bull,12,4,Red Bull,69,red_bull,monaco,0
+2026,6,Monte Carlo,Monaco Grand Prix,,Unknown,Alpine,15,5,Alpine,50,alpine,monaco,0
+2026,6,Monte Carlo,Monaco Grand Prix,,Unknown,Racing Bulls,14,6,Racing Bulls,35,rb,monaco,0
+2026,6,Monte Carlo,Monaco Grand Prix,,Unknown,Haas F1 Team,2,7,Haas F1 Team,21,haas,monaco,0
+2026,6,Monte Carlo,Monaco Grand Prix,,Unknown,Williams,4,8,Williams,11,williams,monaco,0
+2026,6,Monte Carlo,Monaco Grand Prix,,Unknown,Audi,0,9,Audi,2,audi,monaco,0
+2026,6,Monte Carlo,Monaco Grand Prix,,Unknown,Aston Martin,1,10,Aston Martin,1,aston_martin,monaco,0
+2026,6,Monte Carlo,Monaco Grand Prix,,Unknown,Cadillac,0,11,Cadillac,0,cadillac,monaco,0
+2026,7,Catalunya,Barcelona Grand Prix,,Unknown,Mercedes,18,1,Mercedes,262,mercedes,catalunya,0
+2026,7,Catalunya,Barcelona Grand Prix,,Unknown,Ferrari,25,2,Ferrari,190,ferrari,catalunya,0
+2026,7,Catalunya,Barcelona Grand Prix,,Unknown,McLaren,25,3,McLaren,141,mclaren,catalunya,0
+2026,7,Catalunya,Barcelona Grand Prix,,Unknown,Red Bull,20,4,Red Bull,89,red_bull,catalunya,0
+2026,7,Catalunya,Barcelona Grand Prix,,Unknown,Alpine,7,5,Alpine,57,alpine,catalunya,0
+2026,7,Catalunya,Barcelona Grand Prix,,Unknown,Racing Bulls,6,6,Racing Bulls,41,rb,catalunya,0
+2026,7,Catalunya,Barcelona Grand Prix,,Unknown,Haas F1 Team,0,7,Haas F1 Team,21,haas,catalunya,0
+2026,7,Catalunya,Barcelona Grand Prix,,Unknown,Williams,0,8,Williams,11,williams,catalunya,0
+2026,7,Catalunya,Barcelona Grand Prix,,Unknown,Audi,0,9,Audi,2,audi,catalunya,0
+2026,7,Catalunya,Barcelona Grand Prix,,Unknown,Aston Martin,0,10,Aston Martin,1,aston_martin,catalunya,0
+2026,7,Catalunya,Barcelona Grand Prix,,Unknown,Cadillac,0,11,Cadillac,0,cadillac,catalunya,0
+2026,8,Spielberg,Austrian Grand Prix,,Unknown,Mercedes,40,1,Mercedes,302,mercedes,red_bull_ring,0
+2026,8,Spielberg,Austrian Grand Prix,,Unknown,Ferrari,14,2,Ferrari,204,ferrari,red_bull_ring,0
+2026,8,Spielberg,Austrian Grand Prix,,Unknown,McLaren,18,3,McLaren,159,mclaren,red_bull_ring,0
+2026,8,Spielberg,Austrian Grand Prix,,Unknown,Red Bull,26,4,Red Bull,115,red_bull,red_bull_ring,0
+2026,8,Spielberg,Austrian Grand Prix,,Unknown,Alpine,0,5,Alpine,57,alpine,red_bull_ring,0
+2026,8,Spielberg,Austrian Grand Prix,,Unknown,Racing Bulls,3,6,Racing Bulls,44,rb,red_bull_ring,0
+2026,8,Spielberg,Austrian Grand Prix,,Unknown,Haas F1 Team,0,7,Haas F1 Team,21,haas,red_bull_ring,0
+2026,8,Spielberg,Austrian Grand Prix,,Unknown,Williams,0,8,Williams,11,williams,red_bull_ring,0
+2026,8,Spielberg,Austrian Grand Prix,,Unknown,Audi,0,9,Audi,2,audi,red_bull_ring,0
+2026,8,Spielberg,Austrian Grand Prix,,Unknown,Aston Martin,0,10,Aston Martin,1,aston_martin,red_bull_ring,0
+2026,8,Spielberg,Austrian Grand Prix,,Unknown,Cadillac,0,11,Cadillac,0,cadillac,red_bull_ring,0
+2026,9,Silverstone,British Grand Prix,,Unknown,Mercedes,31,1,Mercedes,333,mercedes,silverstone,0
+2026,9,Silverstone,British Grand Prix,,Unknown,Ferrari,51,2,Ferrari,255,ferrari,silverstone,0
+2026,9,Silverstone,British Grand Prix,,Unknown,McLaren,20,3,McLaren,179,mclaren,silverstone,0
+2026,9,Silverstone,British Grand Prix,,Unknown,Red Bull,13,4,Red Bull,128,red_bull,silverstone,0
+2026,9,Silverstone,British Grand Prix,,Unknown,Alpine,3,5,Alpine,60,alpine,silverstone,0
+2026,9,Silverstone,British Grand Prix,,Unknown,Racing Bulls,15,6,Racing Bulls,59,rb,silverstone,0
+2026,9,Silverstone,British Grand Prix,,Unknown,Haas F1 Team,0,7,Haas F1 Team,21,haas,silverstone,0
+2026,9,Silverstone,British Grand Prix,,Unknown,Williams,0,8,Williams,11,williams,silverstone,0
+2026,9,Silverstone,British Grand Prix,,Unknown,Audi,4,9,Audi,6,audi,silverstone,0
+2026,9,Silverstone,British Grand Prix,,Unknown,Aston Martin,0,10,Aston Martin,1,aston_martin,silverstone,0
+2026,9,Silverstone,British Grand Prix,,Unknown,Cadillac,0,11,Cadillac,0,cadillac,silverstone,0
+2026,10,Spa-Francorchamps,Belgian Grand Prix,,Unknown,Mercedes,25,1,Mercedes,358,mercedes,spa,0
+2026,10,Spa-Francorchamps,Belgian Grand Prix,,Unknown,Ferrari,30,2,Ferrari,285,ferrari,spa,0
+2026,10,Spa-Francorchamps,Belgian Grand Prix,,Unknown,McLaren,16,3,McLaren,195,mclaren,spa,0
+2026,10,Spa-Francorchamps,Belgian Grand Prix,,Unknown,Red Bull,23,4,Red Bull,151,red_bull,spa,0
+2026,10,Spa-Francorchamps,Belgian Grand Prix,,Unknown,Alpine,1,5,Alpine,61,alpine,spa,0
+2026,10,Spa-Francorchamps,Belgian Grand Prix,,Unknown,Racing Bulls,2,6,Racing Bulls,61,rb,spa,0
+2026,10,Spa-Francorchamps,Belgian Grand Prix,,Unknown,Haas F1 Team,0,7,Haas F1 Team,21,haas,spa,0
+2026,10,Spa-Francorchamps,Belgian Grand Prix,,Unknown,Williams,0,8,Williams,11,williams,spa,0
+2026,10,Spa-Francorchamps,Belgian Grand Prix,,Unknown,Audi,4,9,Audi,10,audi,spa,0
+2026,10,Spa-Francorchamps,Belgian Grand Prix,,Unknown,Aston Martin,0,10,Aston Martin,1,aston_martin,spa,0
+2026,10,Spa-Francorchamps,Belgian Grand Prix,,Unknown,Cadillac,0,11,Cadillac,0,cadillac,spa,0
+2026,11,Hungaroring,Hungarian Grand Prix,,Unknown,Mercedes,21,1,Mercedes,379,mercedes,hungaroring,0
+2026,11,Hungaroring,Hungarian Grand Prix,,Unknown,Ferrari,22,2,Ferrari,307,ferrari,hungaroring,0
+2026,11,Hungaroring,Hungarian Grand Prix,,Unknown,McLaren,25,3,McLaren,220,mclaren,hungaroring,0
+2026,11,Hungaroring,Hungarian Grand Prix,,Unknown,Red Bull,26,4,Red Bull,177,red_bull,hungaroring,0
+2026,11,Hungaroring,Hungarian Grand Prix,,Unknown,Racing Bulls,5,5,Racing Bulls,66,rb,hungaroring,0
+2026,11,Hungaroring,Hungarian Grand Prix,,Unknown,Alpine,0,6,Alpine,61,alpine,hungaroring,0
+2026,11,Hungaroring,Hungarian Grand Prix,,Unknown,Haas F1 Team,0,7,Haas F1 Team,21,haas,hungaroring,0
+2026,11,Hungaroring,Hungarian Grand Prix,,Unknown,Audi,2,8,Audi,12,audi,hungaroring,0
+2026,11,Hungaroring,Hungarian Grand Prix,,Unknown,Williams,0,9,Williams,11,williams,hungaroring,0
+2026,11,Hungaroring,Hungarian Grand Prix,,Unknown,Aston Martin,0,10,Aston Martin,1,aston_martin,hungaroring,0
+2026,11,Hungaroring,Hungarian Grand Prix,,Unknown,Cadillac,0,11,Cadillac,0,cadillac,hungaroring,0
+2026,12,Zandvoort,Dutch Grand Prix,,Unknown,Mercedes,46,1,Mercedes,425,mercedes,zandvoort,0
+2026,12,Zandvoort,Dutch Grand Prix,,Unknown,Ferrari,31,2,Ferrari,338,ferrari,zandvoort,0
+2026,12,Zandvoort,Dutch Grand Prix,,Unknown,McLaren,43,3,McLaren,263,mclaren,zandvoort,0
+2026,12,Zandvoort,Dutch Grand Prix,,Unknown,Red Bull,9,4,Red Bull,186,red_bull,zandvoort,0
+2026,12,Zandvoort,Dutch Grand Prix,,Unknown,Racing Bulls,0,5,Racing Bulls,66,rb,zandvoort,0
+2026,12,Zandvoort,Dutch Grand Prix,,Unknown,Alpine,2,6,Alpine,63,alpine,zandvoort,0
+2026,12,Zandvoort,Dutch Grand Prix,,Unknown,Haas F1 Team,0,7,Haas F1 Team,21,haas,zandvoort,0
+2026,12,Zandvoort,Dutch Grand Prix,,Unknown,Audi,4,8,Audi,16,audi,zandvoort,0
+2026,12,Zandvoort,Dutch Grand Prix,,Unknown,Williams,0,9,Williams,11,williams,zandvoort,0
+2026,12,Zandvoort,Dutch Grand Prix,,Unknown,Aston Martin,2,10,Aston Martin,3,aston_martin,zandvoort,0
+2026,12,Zandvoort,Dutch Grand Prix,,Unknown,Cadillac,0,11,Cadillac,0,cadillac,zandvoort,0
